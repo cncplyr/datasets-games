@@ -1,0 +1,104 @@
+[
+	{
+		"date": "2013-08-19T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "MAG-7",
+		"finish": "Sand Dune",
+		"exterior": "Field-Tested"
+	},
+	{
+		"date": "2013-08-24T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "CS:GO Weapon Case"
+	},
+	{
+		"date": "2013-10-31T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "M4A4",
+		"finish": "Tornado",
+		"exterior": "Minimal Wear"
+	},
+	{
+		"date": "2013-11-17T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "CS:GO Weapon Case 2"
+	},
+	{
+		"date": "2014-02-26T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-03-18T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "Tec-9",
+		"finish": "VariCamo",
+		"exterior": "Minimal Wear"
+	},
+	{
+		"date": "2014-03-18T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "CS:GO Weapon Case 3"
+	},
+	{
+		"date": "2014-03-20T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Sticker Capsule 2"
+	},
+	{
+		"date": "2014-03-25T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-04-15T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "Five-SeveN",
+		"finish": "Forest Night",
+		"exterior": "Minimal Wear"
+	},
+	{
+		"date": "2014-04-15T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "eSports Winter Case"
+	},
+	{
+		"date": "2014-04-18T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-04-25T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Sticker Capsule 2"
+	},
+	{
+		"date": "2014-04-30T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "MP9",
+		"finish": "Sand Dashed",
+		"exterior": "Battle-Scarred"
+	},
+	{
+		"date": "2014-04-30T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Winter Offensive Weapon Case"
+	},
+	{
+		"date": "2014-04-30T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-05-05T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "PP-Bizon",
+		"finish": "Urban Dashed",
+		"exterior": "Field-Tested"
+	},
+	{
+		"date": "2014-05-05T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "eSports Winter Case"
+	}
+]
