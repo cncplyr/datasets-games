@@ -1,0 +1,27 @@
+[
+	{
+		"tournament": "Birdsong Challenge",
+		"start date": "2014-04-29T00:00:00.000Z",
+		"end date": "2014-05-05T23:59:59.000Z"
+	},
+	{
+		"tournament": "May Day Tour",
+		"start date": "2014-05-06T00:00:00.000Z",
+		"end date": "2014-05-12T23:59:59.000Z",
+		"day 1": {
+			"name": "First Day Legacy Tour",
+			"date": "2014-05-06T00:00:00.000Z",
+			"score": 20,
+			"points": -140,
+			"rank": 823,
+			"players": 908,
+			"rank percent": 91,
+			"tour points": 2,
+			"course": {
+				"name": "",
+				"holes": 9,
+				"direction": "in"				
+			}
+		}	
+	}
+]
