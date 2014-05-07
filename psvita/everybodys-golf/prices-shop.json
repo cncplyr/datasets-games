@@ -1,0 +1,110 @@
+{
+	"character unlock": [
+		{
+			"name": "Isabelle",
+			"points": 10000
+		},
+		{
+			"name": "Chang",
+			"points": 15000
+		},
+		{
+			"name": "Lani",
+			"points": 30000
+		}
+	],
+	"character outfits": [
+		{
+			"name": "Yuna Colour Set (Normal)"
+		},
+		{
+			"name": "Yamato Colour Set (Normal)",
+			"points": 5000
+		}
+	],
+	"clubs": [
+		{
+			"name": "Beginner's Club Lv1"
+		},	
+		{
+			"name": "Turbo Spin Club Lv1",
+			"points": 8000
+		}
+	],
+	"balls": [
+		{
+			"name": "Beginner's Ball Lv1"
+		}
+	],
+	"courses": [
+	
+	],
+	"lobby character": [
+		{
+			"name": "Parts Dispenser:Normal",
+			"chance": 2.1,
+			"points": 300
+		}
+	],
+	"others": [
+		{
+			"name": "Closet Expansion (1)",
+			"points": 5000
+		},
+		{
+			"name": "Manual Video",
+			"type": "video",
+			"points": 10000
+		},
+		{
+			"name": "Arrow Shot Certification",
+			"type": "certification",
+			"points": 5000
+		},
+		{
+			"name": "Concept Art (Maple Leaf)",
+			"type": "concept art",
+			"points": 1000
+		},
+		{
+			"name": "Concept Art (Yuna)",
+			"type": "concept art",
+			"points": 1500
+		},
+		{
+			"name": "Concept Art (Yamato)",
+			"type": "concept art",
+			"points": 1500
+		},
+		{
+			"name": "Title",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Main Menu",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Stroke Mode",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Challenge Mode",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Stats",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Maple Leaf Golf Club",
+			"type": "music",
+			"points": 1000
+		}
+	],
+}
