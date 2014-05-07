@@ -1,2 +1,3 @@
 dataset-game-records
 ====================
+Open-sourcing some records and statistics from various games I play. Why am I recording this information? Who knows, maybe it'll come in useful sometime...
