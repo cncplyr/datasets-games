@@ -1,7 +1,12 @@
 [
 	{
 		"datetime": "2014-05-06T21:19:00.000Z",
-		"roundstats": {
+		"course": {
+			"name": "Maple Leaf Golf Club",
+			"holes": 9,
+			"direction": "in"
+		},
+		"round stats": {
 			"course records": {
 				"score": -1,
 				"points": 1220,
@@ -32,6 +37,11 @@
 	},
 	{
 		"datetime": "2014-05-06T21:33:00.000Z",
+		"course": {
+			"name": "Kagurayama Country Club",
+			"holes": 9,
+			"direction": "out"
+		},
 		"round stats": {
 			"course records": {
 				"score": 1,
@@ -58,7 +68,12 @@
 	},
 	{
 		"datetime": "2014-05-06T21:47:00.000Z",
-		"roundstats": {
+		"course": {
+			"name": "Kagurayama Country Club",
+			"holes": 9,
+			"direction": "in"
+		},
+		"round stats": {
 			"course records": {
 				"score": 3,
 				"points": 850,
@@ -90,7 +105,11 @@
 	},
 	{
 		"datetime": "2014-05-06T22:15:00.000Z",
-		"roundstats": {
+		"course": {
+			"name": "Maple Leaf Golf Club",
+			"holes": 18
+		},
+		"round stats": {
 			"course records": {
 				"score": -1,
 				"points": 2690,
@@ -122,7 +141,12 @@
 	},
 	{
 		"datetime": "2014-05-06T22:28:00.000Z",
-		"roundstats": {
+		"course": {
+			"name": "Harvest Hills Golf Course",
+			"holes": 9,
+			"direction": "in"
+		},
+		"round stats": {
 			"course records": {
 				"score": 2,
 				"points": 780,
@@ -138,6 +162,43 @@
 			}
 		},
 		"overall stats": {
+			"player records": {
+				"record drive": 265.0,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 29.5
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-08T18:25:00.000Z",
+		"course": {
+			"name": "Harvest Hills Golf Course",
+			"holes": 9,
+			"direction": "in"
+		},
+		"round stats": {
+			"course records": {
+				"score": 5,
+				"points": 660,
+				"fairway hits": 57.1,
+				"par pace": 22.2,
+				"average near-pin": 3.2,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 255.8,
+				"longest putt": 3.2,
+				"perfect impact": 11.1
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"fairway hits": 42.8,
+				"par pace": 44.4,
+				"average near-pin": 4.7,
+				"avg. putts": 1.6
+			},
 			"player records": {
 				"record drive": 265.0,
 				"longest chip-in": 11.2,
