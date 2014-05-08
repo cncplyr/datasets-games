@@ -100,5 +100,17 @@
 		"date": "2014-05-05T00:00:00.000Z",
 		"type": "weapon crate",
 		"name": "eSports Winter Case"
+	},
+	{
+		"date": "2014-05-08T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-05-08T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "Nova",
+		"finish": "Predator",
+		"exterior": "Battle-Scarred"
 	}
 ]
