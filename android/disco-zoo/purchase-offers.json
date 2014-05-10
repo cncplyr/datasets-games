@@ -1,0 +1,14 @@
+[
+	{
+		"animal": "polar bear",
+		"amount": 1,
+		"price": 38500,
+		"inventory": 15
+	},
+	{
+		"animal": "fox",
+		"amount": 1,
+		"price": 21750,
+		"inventory": 17	
+	}
+]

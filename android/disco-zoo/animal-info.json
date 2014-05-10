@@ -1,0 +1,116 @@
+[
+	{
+		"animal": "sheep",
+		"region": "farm",
+		"rarity": "common",
+		"maxcoins": 6
+	},
+	{
+		"animal": "pig",
+		"region": "farm",
+		"rarity": "common",
+		"maxcoins": 6
+	},
+	{
+		"animal": "rabbit",
+		"region": "farm",
+		"rarity": "common",
+		"maxcoins": 6
+	},
+	{
+		"animal": "horse",
+		"region": "farm",
+		"rarity": "rare",
+		"maxcoins": 10
+	},
+	{
+		"animal": "cow",
+		"region": "farm",
+		"rarity": "rare",
+		"maxcoins": 10
+	},
+	{
+		"animal": "unicorn",
+		"region": "farm",
+		"rarity": "mythical",
+		"maxcoins": 14
+	},
+	{
+		"animal": "kangaroo",
+		"region": "outback",
+		"rarity": "common",
+		"maxcoins": 8
+	},
+	{
+		"animal": "platypus",
+		"region": "outback",
+		"rarity": "common",
+		"maxcoins": 8
+	},
+	{
+		"animal": "crocodile",
+		"region": "outback",
+		"rarity": "common",
+		"maxcoins": 8
+	},
+	{
+		"animal": "koala",
+		"region": "outback",
+		"rarity": "rare",
+		"maxcoins": 12
+	},
+	{
+		"animal": "cockatoo",
+		"region": "outback",
+		"rarity": "rare",
+		"maxcoins": 12
+	},
+	{
+		"animal": "tiddalik",
+		"region": "outback",
+		"rarity": "mythical",
+		"maxcoins": 16
+	},
+	{
+		"animal": "zebra",
+		"region": "savannah",
+		"rarity": "common",
+		"maxcoins": 10
+	},
+	{
+		"animal": "hippo",
+		"region": "savannah",
+		"rarity": "common",
+		"maxcoins": 10
+	},
+	{
+		"animal": "giraffe",
+		"region": "savannah",
+		"rarity": "common",
+		"maxcoins": 10
+	},
+	{
+		"animal": "lion",
+		"region": "savannah",
+		"rarity": "rare",
+		"maxcoins": 14
+	},
+	{
+		"animal": "beaver",
+		"region": "northern",
+		"rarity": "common",
+		"maxcoins": 12
+	},
+	{
+		"animal": "penguin",
+		"region": "polar",
+		"rarity": "common",
+		"maxcoins": 14
+	},
+	{
+		"animal": "seal",
+		"region": "polar",
+		"rarity": "common",
+		"maxcoins": 14
+	}
+]
