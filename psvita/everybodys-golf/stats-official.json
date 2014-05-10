@@ -251,7 +251,7 @@
 		"course": {
 			"name": "Maple Leaf Golf Club",
 			"holes": 9,
-			"direction": "out"
+			"direction": "out",
 		},
 		"round stats": {
 			"course records": {
@@ -275,6 +275,82 @@
 				"longest chip-in": 11.2,
 				"longest putt": 13.0,
 				"perfect impact": 26.3
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-09T16:20:00.000Z",
+		"course": {
+			"name": "Kaguramyama Country Club",
+			"holes": 18,
+			"tee": "regular"
+		},
+		"round stats": {
+			"course records": {
+				"score": 10,
+				"points": 1670,
+				"fairway hits": 100.0,
+				"par pace": 33.3,
+				"average near-pin": 5.6,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 255.3,
+				"longest putt": 3.8,
+				"perfect impact": 13.2
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"fairway hits": 85.7,
+				"par pace": 61.1,
+				"average near-pin": 6.7,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 265.0,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 26.5
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-09T16:45:00.000Z",
+		"course": {
+			"name": "Kaguramyama Country Club",
+			"holes": 18,
+			"tee": "regular"
+		},
+		"round stats": {
+			"course records": {
+				"score": 1,
+				"points": 2220,
+				"fairway hits": 85.7,
+				"par pace": 55.5,
+				"average near-pin": 5.4,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 163.9,
+				"longest putt": 2.8,
+				"perfect impact": 39.1
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"score": 10,
+				"points": 1670,
+				"fairway hits": 92.8,
+				"par pace": 47.3,
+				"average near-pin": 6.3,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 265.0,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 24.3
 			}
 		}
 	}

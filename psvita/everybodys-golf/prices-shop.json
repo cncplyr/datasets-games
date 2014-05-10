@@ -18,6 +18,13 @@
 			"name": "Yuna Colour Set (Normal)"
 		},
 		{
+			"name": "Yuna Costume"
+		},
+		{
+			"name": "Yuna Colour Set (Costume)",
+			"points": 5000
+		},
+		{
 			"name": "Yamato Colour Set (Normal)",
 			"points": 5000
 		}
@@ -34,6 +41,14 @@
 	"balls": [
 		{
 			"name": "Beginner's Ball Lv1"
+		},
+		{
+			"name": "Big Air Ball Lv1",
+			"points": 4000
+		},
+		{
+			"name": "Football",
+			"points": 10000
 		}
 	],
 	"courses": [
@@ -41,8 +56,7 @@
 	],
 	"lobby character": [
 		{
-			"name": "Parts Dispenser:Normal",
-			"chance": 2.1,
+			"name": "Parts Dispenser:Normal"
 			"points": 300
 		}
 	],
@@ -57,12 +71,22 @@
 			"points": 10000
 		},
 		{
+			"name": "Advanced Shot Certification",
+			"type": "certification",
+			"points": 5000
+		},
+		{
 			"name": "Arrow Shot Certification",
 			"type": "certification",
 			"points": 5000
 		},
 		{
 			"name": "Concept Art (Maple Leaf)",
+			"type": "concept art",
+			"points": 1000
+		},
+		{
+			"name": "Concept Art (Kagurayama C.C.)",
 			"type": "concept art",
 			"points": 1000
 		},
@@ -97,12 +121,32 @@
 			"points": 1000
 		},
 		{
+			"name": "Videos",
+			"type": "music",
+			"points": 1000
+		},
+		{
 			"name": "Stats",
 			"type": "music",
 			"points": 1000
 		},
 		{
+			"name": "Profile",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Video Screen",
+			"type": "music",
+			"points": 1000
+		},
+		{
 			"name": "Maple Leaf Golf Club",
+			"type": "music",
+			"points": 1000
+		},
+		{
+			"name": "Kagurayama Country Club",
 			"type": "music",
 			"points": 1000
 		}
