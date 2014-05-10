@@ -11,6 +11,10 @@
 		{
 			"name": "Lani",
 			"points": 30000
+		},
+		{
+			"name": "Pancho",
+			"points": 15000
 		}
 	],
 	"character outfits": [
@@ -27,15 +31,23 @@
 		{
 			"name": "Yamato Colour Set (Normal)",
 			"points": 5000
+		},
+		{
+			"name": "Yamato Costume",
+			"points": 20000
 		}
 	],
 	"clubs": [
 		{
 			"name": "Beginner's Club Lv1"
-		},	
+		},
 		{
 			"name": "Turbo Spin Club Lv1",
 			"points": 8000
+		},
+		{
+			"name": "Grass Cutter Club Lv1",
+			"points": 6000
 		}
 	],
 	"balls": [
@@ -52,7 +64,10 @@
 		}
 	],
 	"courses": [
-	
+		{
+			"name": "Kagurayama Country Club",
+			"points": 10000
+		}
 	],
 	"lobby character": [
 		{
