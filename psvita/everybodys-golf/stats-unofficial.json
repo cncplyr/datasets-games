@@ -1,0 +1,34 @@
+[
+	{
+		"datetime": "2014-05-09T20:30:00.000Z",
+		"course": {
+			"name": "Kagurayama Country Club",
+			"holes": 9,
+			"direction": "in",
+			"Tee": "Long Tee (Mirror)"
+		},
+		"round stats": {
+			"course records": {
+				"score": 0,
+				"points": 1150,
+				"fairway hits": 100.0,
+				"par pace": 44.4,
+				"average near-pin": 5.4,
+				"avg. putts": 1.3
+			},
+			"player records": {
+				"record drive": 259.9,
+				"longest putt": 7.3,
+				"perfect impact": 17.3
+			}
+		},
+		"overall stats": {
+			"player records": {
+				"record drive": 265.0,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 26.5
+			}
+		}
+	}
+]
