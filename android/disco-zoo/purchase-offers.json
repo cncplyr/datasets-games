@@ -10,5 +10,11 @@
 		"amount": 1,
 		"price": 21750,
 		"inventory": 17	
+	},
+	{
+		"animal": "toucan",
+		"amount": 1,
+		"price": 15500,
+		"inventory": 14	
 	}
 ]
