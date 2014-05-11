@@ -112,5 +112,10 @@
 		"weapon": "Nova",
 		"finish": "Predator",
 		"exterior": "Battle-Scarred"
+	},
+	{
+		"date": "2014-05-11T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "eSports Winter Case"
 	}
 ]
