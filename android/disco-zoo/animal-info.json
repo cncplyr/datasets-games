@@ -96,6 +96,30 @@
 		"maxcoins": 14
 	},
 	{
+		"animal": "elephant",
+		"region": "savannah",
+		"rarity": "rare",
+		"maxcoins": 14
+	},
+	{
+		"animal": "gryphon",
+		"region": "savannah",
+		"rarity": "rare",
+		"maxcoins": 18
+	},
+	{
+		"animal": "bear",
+		"region": "northern",
+		"rarity": "common",
+		"maxcoins": 12
+	},
+	{
+		"animal": "skunk",
+		"region": "northern",
+		"rarity": "common",
+		"maxcoins": 12
+	},
+	{
 		"animal": "beaver",
 		"region": "northern",
 		"rarity": "common",
@@ -112,5 +136,11 @@
 		"region": "polar",
 		"rarity": "common",
 		"maxcoins": 14
+	},
+	{
+		"animal": "gorilla",
+		"region": "jungle",
+		"rarity": "common",
+		"maxcoins": 16
 	}
 ]

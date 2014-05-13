@@ -16,5 +16,11 @@
 		"amount": 1,
 		"price": 15500,
 		"inventory": 14	
+	},
+	{
+		"animal": "cockatoo",
+		"amount": 1,
+		"price": 23000,
+		"inventory": 25	
 	}
 ]
