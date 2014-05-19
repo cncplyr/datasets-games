@@ -126,6 +126,24 @@
 		"maxcoins": 12
 	},
 	{
+		"animal": "moose",
+		"region": "northern",
+		"rarity": "rare",
+		"maxcoins": 16
+	},
+	{
+		"animal": "fox",
+		"region": "northern",
+		"rarity": "rare",
+		"maxcoins": 16
+	},
+	{
+		"animal": "sasquatch",
+		"region": "northern",
+		"rarity": "mythical",
+		"maxcoins": 20
+	},
+	{
 		"animal": "penguin",
 		"region": "polar",
 		"rarity": "common",
@@ -136,6 +154,36 @@
 		"region": "polar",
 		"rarity": "common",
 		"maxcoins": 14
+	},
+	{
+		"animal": "muskox",
+		"region": "polar",
+		"rarity": "common",
+		"maxcoins": 14
+	},
+	{
+		"animal": "polar bear",
+		"region": "polar",
+		"rarity": "rare",
+		"maxcoins": 18
+	},
+	{
+		"animal": "walrus",
+		"region": "polar",
+		"rarity": "rare",
+		"maxcoins": 18
+	},
+	{
+		"animal": "monkey",
+		"region": "jungle",
+		"rarity": "common",
+		"maxcoins": 16
+	},
+	{
+		"animal": "toucan",
+		"region": "jungle",
+		"rarity": "common",
+		"maxcoins": 16
 	},
 	{
 		"animal": "gorilla",
