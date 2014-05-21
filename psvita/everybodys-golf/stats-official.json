@@ -283,7 +283,7 @@
 		"course": {
 			"name": "Kaguramyama Country Club",
 			"holes": 18,
-			"tee": "regular"
+			"tee": "Regular Tee"
 		},
 		"round stats": {
 			"course records": {
@@ -320,7 +320,7 @@
 		"course": {
 			"name": "Kaguramyama Country Club",
 			"holes": 18,
-			"tee": "regular"
+			"tee": "Regular Tee"
 		},
 		"round stats": {
 			"course records": {
@@ -359,7 +359,7 @@
 			"name": "La Provence Resort",
 			"holes": 9,
 			"direction": "out",
-			"tee": "regular"
+			"tee": "Regular Tee"
 		},
 		"round stats": {
 			"course records": {
@@ -392,7 +392,7 @@
 			"name": "La Provence Resort",
 			"holes": 9,
 			"direction": "in",
-			"tee": "regular"
+			"tee": "Regular Tee"
 		},
 		"round stats": {
 			"course records": {
@@ -430,7 +430,7 @@
 			"name": "Maple Leaf Golf Club",
 			"holes": 9,
 			"direction": "out",
-			"tee": "regular"
+			"tee": "Regular Tee"
 		},
 		"round stats": {
 			"course records": {
@@ -461,6 +461,221 @@
 				"longest chip-in": 11.2,
 				"longest putt": 13.0,
 				"perfect impact": 26.3
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-20T17:37:08.000Z",
+		"course": {
+			"name": "La Provence Resort",
+			"holes": 9,
+			"direction": "in",
+			"tee": "Regular Tee"
+		},
+		"round stats": {
+			"course records": {
+				"score": 5,
+				"points": 530,
+				"fairway hits": 28.5,
+				"par pace": 33.3,
+				"average near-pin": 9.4,
+				"avg. putts": 1.8
+			},
+			"player records": {
+				"record drive": 254.5,
+				"longest putt": 4.0,
+				"perfect impact": 16.6
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"score": 5,
+				"points": 400,
+				"fairway hits": 42.8,
+				"par pace": 38.8,
+				"average near-pin": 6.6,
+				"avg. putts": 1.6
+			},
+			"player records": {
+				"record drive": 266.9,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 27.1
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-20T17:49:07.000Z",
+		"course": {
+			"name": "Kagurayama Country Club",
+			"holes": 9,
+			"direction": "out",
+			"tee": "Long Tee (Mirror)"
+		},
+		"round stats": {
+			"course records": {
+				"score": 5,
+				"points": 740,
+				"fairway hits": 71.4,
+				"par pace": 66.6,
+				"average near-pin": 8.8,
+				"avg. putts": 2.0
+			},
+			"player records": {
+				"record drive": 269.2,
+				"longest putt": 9.2,
+				"perfect impact": 39.1
+			}
+		},
+		"overall stats": {
+			"player records": {
+				"record drive": 266.9,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 26.6
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-20T22:31:57.000Z",
+		"course": {
+			"name": "La Provence Resort",
+			"holes": 18,
+			"tee": "Long Tee (Mirror)"
+		},
+		"round stats": {
+			"course records": {
+				"score": 10,
+				"points": 1217,
+				"fairway hits": 78.5,
+				"par pace": 38.8,
+				"average near-pin": 7.9,
+				"avg. putts": 1.7
+			},
+			"player records": {
+				"record drive": 265.9,
+				"longest chip-in": 7.6,
+				"longest putt": 1.7,
+				"perfect impact": 11.7
+			}
+		},
+		"overall stats": {
+			"player records": {
+				"record drive": 269.2,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 27.2
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-21T08:46:23.000Z",
+		"course": {
+			"name": "La Provence Resort",
+			"holes": 9,
+			"direction": "in"
+			"tee": "Regular Tee"
+		},
+		"round stats": {
+			"course records": {
+				"score": 8,
+				"points": 210,
+				"fairway hits": 42.8,
+				"par pace": 0.0,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 250.4,
+				"longest putt": 3.2,
+				"perfect impact": 14.2
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"score": 5,
+				"points": 530,
+				"fairway hits": 38.0.8,
+				"par pace": 37.0,
+				"average near-pin": 7.4,
+				"avg. putts": 1.7
+			},
+			"player records": {
+				"record drive": 269.2,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 25.7
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-21T09:02:30.000Z",
+		"course": {
+			"name": "Harvest Hills Golf Course",
+			"holes": 9,
+			"direction": "in"
+			"tee": "Long Tee (Mirror)"
+		},
+		"round stats": {
+			"course records": {
+				"score": 3,
+				"points": 810,
+				"fairway hits": 85.7,
+				"par pace": 55.5,
+				"average near-pin": 1.6,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 269.3,
+				"longest putt": 12.5,
+				"perfect impact": 20.8
+			}
+		},
+		"overall stats": {
+			"player records": {
+				"record drive": 269.2,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 25.1
+			}
+		}
+	},
+	{
+		"datetime": "2014-05-21T21:34:06.000Z",
+		"course": {
+			"name": "Harvest Hills Golf Course",
+			"holes": 9,
+			"direction": "in"
+			"tee": "Regular Tee"
+		},
+		"round stats": {
+			"course records": {
+				"score": 5,
+				"points": 600,
+				"fairway hits": 71.4,
+				"par pace": 22.2,
+				"average near-pin": 1.2,
+				"avg. putts": 1.4
+			},
+			"player records": {
+				"record drive": 257.4,
+				"longest putt": 1.7,
+				"perfect impact": 37.0
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"score": 4,
+				"points": 660,
+				"fairway hits": 61.9,
+				"par pace": 29.6,
+				"average near-pin": 4.6,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 269.3,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 25.0
 			}
 		}
 	}
