@@ -134,5 +134,10 @@
 		"date": "2014-05-19T00:00:00.000Z",
 		"type": "weapon crate",
 		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-05-2T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Huntsman Weapon Case"
 	}
 ]
