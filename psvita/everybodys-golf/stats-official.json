@@ -678,5 +678,43 @@
 				"perfect impact": 25.0
 			}
 		}
+	},
+	{
+		"datetime": "2014-05-22T21:22:56.000Z",
+		"course": {
+			"name": "Maple Leaf Golf Club",
+			"holes": 9,
+			"direction": "in"
+			"tee": "Long Tee (Mirror)"
+		},
+		"round stats": {
+			"course records": {
+				"score": 3,
+				"points": 840,
+				"fairway hits": 71.4,
+				"par pace": 33.3,
+				"average near-pin": 4.0,
+				"avg. putts": 1.3
+			},
+			"player records": {
+				"record drive": 287.8,
+				"longest putt": 3.7,
+				"perfect impact": 19.2
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"fairway hits": 71.4,
+				"par pace": 44.4,
+				"average near-pin": 5.5,
+				"avg. putts": 1.1
+			},
+			"player records": {
+				"record drive": 269.3,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 25.5
+			}
+		}
 	}
 ]
