@@ -1,0 +1,37 @@
+Category,Name,Type,Rating,Cost,Sale Cost,Description
+Assault Rifles,Assault Rifle Bullets,,,6,,
+Assault Rifles,OCP-11,Full-Auto Assaut Rifle,1,,,
+Assault Rifles,416,Full-Auto Assaut Rifle,2,,,The 416 is a well-built German assaut rifle. A solid weapon best used for ranged fighting.
+Assault Rifles,417,Burst-Fire Assault Rifle,3,7500,,The 417 is a German-made semi-automatic assault rifle. Its impressive accuracy and penetration make it well-suited for ranged combat.
+Assault Rifles,AK-47,Full-Auto Assaut Rifle,3,,,The AK-47 is known for its durability and simplicity. This Russian workhorse is great for medium-range encounters and offes solid penetration.
+Assault Rifles,Goblin,Burst-Fire Assault Rifle,4,,,
+Assault Rifles,ACR,Full-Auto Assaut Rifle,5,30000,,
+Grenade Launchers,Launcher Grenades,,,200,,
+Grenade Launchers,G106,Single-Shot Grenade Launcher,3,,4000,
+Grenade Launchers,GL-94,Pump-Action Grenade Launcher,5,45500,,
+Pistols,Pistol Bullets,,,1,,
+Pistols,P-9mm,Semi-Auto Pistol,1,,,"A popular, yet basic, Austrian semi-automatic pistol that's widely used on both sides of the law. Affordable and simple."
+Pistols,Px4,Semi-Auto Pistol,2,,,
+Pistols,1911,Semi-Auto Pistol,3,,,
+Pistols,Spec Ops 1911,Semi-Auto Silenced Pistol,3,,,
+Pistols,R-33,Full-Auto Machine Pistol,3,7500,,
+Pistols,D50,Semi-Auto Pistol,4,15000,,
+Pistols,M8-M,Semi-Auto Revolver,5,15000,,
+Pistols,Chrome,Burst-Fire Revolver,5,,,"This autorevolver is a close-range killer, delivering high burst damage and solid penetration."
+SMGs,SMG-11,Full-Auto Machine Pistol,1,,,
+SMGs,MP-9mm,Burst-Fire Machine Pistol,2,800,,
+SMGs,R-2000,Full-Auto Submachine Gun,3,,,
+SMGs,MP5,Full-Auto Submachine Gun,4,15000,,
+SMGs,Spec Ops SMG-11,Full-Auto Silenced Machine Pistol,2,22000,,
+SMGs,Vector .45ACP,Full-Auto Submachine Gun,5,30000,,
+Shotguns,Shotgun Shells,,,16,,
+Shotguns,ATSG-12,Full-Auto Shotgun,5,,40000,
+Shotguns,D12,Semi-Auto Shotgun,1,,,
+Shotguns,SG-90,Pump-Action Shotgun,1,,,
+Shotguns,SGR-12,Semi-Auto Shotgun,3,,,
+Shotguns,M1014,Semi-Auto Shotgun,3,,,
+Sniper Rifles,Sniper Bullets,,,,,
+Sniper Rifles,SR-25,Semi-Auto Sniper Rifle,2,4000,,
+Sniper Rifles,SVD,Semi-Auto Sniper Rifle,3,,,
+Sniper Rifles,AC-AR,Burst-Fire Sniper Rifle,4,17500,,
+Sniper Rifles,M107,Semi-Auto Sniper Rifle,5,45000,,
