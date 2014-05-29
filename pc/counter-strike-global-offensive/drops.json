@@ -112,5 +112,32 @@
 		"weapon": "Nova",
 		"finish": "Predator",
 		"exterior": "Battle-Scarred"
+	},
+	{
+		"date": "2014-05-11T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "eSports Winter Case"
+	},
+	{
+		"date": "2014-05-12T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Community Sticker Capsule 1"
+	},
+	{
+		"date": "2014-05-19T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "SSG-08",
+		"finish": "Blue Spruce",
+		"exterior": "Well-Worn"
+	},
+	{
+		"date": "2014-05-19T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-05-2T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Huntsman Weapon Case"
 	}
 ]

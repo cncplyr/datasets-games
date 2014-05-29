@@ -30,5 +30,45 @@
 				"perfect impact": 26.5
 			}
 		}
+	},
+	{
+		"datetime": "2014-05-19T00:11:12.000Z",
+		"course": {
+			"name": "Maple Leaf Golf Club",
+			"holes": 18,
+			"Tee": "Regular Tee"
+		},
+		"round stats": {
+			"course records": {
+				"score": -6,
+				"points": 3052,
+				"fairway hits": 85.7,
+				"par pace": 66.6,
+				"average near-pin": 4.3,
+				"avg. putts": 1.2
+			},
+			"player records": {
+				"record drive": 263.1,
+				"longest chip-in": 22.1,
+				"longest putt": 4.7,
+				"perfect impact": 44.1
+			}
+		},
+		"overall stats": {
+			"course records": {
+				"score": -1,
+				"points": 2690,
+				"fairway hits": 80.0,
+				"par pace": 73.3,
+				"average near-pin": 5.1,
+				"avg. putts": 1.5
+			},
+			"player records": {
+				"record drive": 266.9,
+				"longest chip-in": 11.2,
+				"longest putt": 13.0,
+				"perfect impact": 27.1
+			}
+		}
 	}
 ]
