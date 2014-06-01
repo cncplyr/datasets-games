@@ -136,8 +136,13 @@
 		"name": "Operation Phoenix Weapon Case"
 	},
 	{
-		"date": "2014-05-2T00:00:00.000Z",
+		"date": "2014-05-22T00:00:00.000Z",
 		"type": "weapon crate",
 		"name": "Huntsman Weapon Case"
+	},
+	{
+		"date": "2014-05-28T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Sticker Capsule 2"
 	}
 ]
