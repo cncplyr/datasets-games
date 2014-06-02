@@ -1,28 +1,47 @@
-Tournament,Date,Tour Name,Day,Course,Holes,Direction,Tee,Rule One,Rule Two
-Cool Spring Open,28/05/2014,Day 2 Mar Cielo tour,2,Mar Cielo,9,Out,Long Tee (Mirror),No Spin,Mega Cup
-Cool Spring Open,27/05/2014,First Day Al Arabian tour,1,Al Arabian,9,Out,Regular Tee,,
-Sunburst Championship,25/05/2014,Last Day Kagurayama tour,6,Kagurayama,18,,Regular Tee,Limited Clubs,
-Sunburst Championship,24/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),No Wind,Unlimited Power shot
-Sunburst Championship,23/05/2014,Day 4 Legacy tour,4,Legacy,9,Out,Regular Tee,Rainy,
-Sunburst Championship,22/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,In,Long Tee (Mirror),,
-Sunburst Championship,21/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,9,In,Regular Tee,No shot within 15 sec: +1,
-Sunburst Championship,20/05/2014,First Day La Provence tour,1,La Provence,18,,Long Tee (Mirror),Hole Shuffle,
-Europe Day Memorial,18/05/2014,Last Day Maple Leaf tour,6,Maple Leaf,18,,Regular Tee,Hole Shuffle,Mega Cup
-Europe Day Memorial,17/05/2014,Day 5 Mar Cielo tour,5,Mar Cielo,18,,Regular Tee,Gale Force,Rainy
-Europe Day Memorial,16/05/2014,Day 4 La Provence tour,4,La Provence,9,Out,Regular Tee,Teeny Cup,
-Europe Day Memorial,15/05/2014,Day 3 Al Arabian tour,3,Al Arabian,9,Out,Long Tee (Mirror),Intermediate Only,
-Europe Day Memorial,14/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,18,,Long Tee (Mirror),Bunker: +1,
-Europe Day Memorial,13/05/2014,First Day Kagurayama tour,1,Kagurayama,9,In,Regular Tee,,
-May Day Tour,11/05/2014,Last Day Al Arabian tour,6,Al Arabian,18,,Regular Tee,,
-May Day Tour,10/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),Impossible Pin,
-May Day Tour,09/05/2014,Day 4 Mar Cielo tour,4,Mar Cielo,9,Out,Regular Tee,Hit a Tree: +1,Gale Force
-May Day Tour,08/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,18,,Long Tee (Mirror),No shot within 15 sec: +1,
-May Day Tour,07/05/2014,Day 2 Northern Fox tour,2,Northern Fox,9,In,Long Tee (Mirror),Gale Force,
-May Day Tour,06/05/2014,First Day Legacy tour,1,Legacy,9,In,Long Tee (Mirror),,
-Birdsong Challenge,04/05/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,
-Birdsong Challenge,03/05/2014,Day 5 Al Arabian tour,5,Al Arabian,18,,Long Tee (Mirror),Hole Shuffle,
-Birdsong Challenge,02/05/2014,Day 4 Mt. Sakura tour,4,Mt. Sakura,9,Out,Regular Tee,Mild Breeze,
-Birdsong Challenge,01/05/2014,Day 3 Havest Hills tour,3,Harvest Hills,9,In,Long Tee (Mirror),,
-Birdsong Challenge,30/04/2014,Day 2 La Provence tour,2,La Provence,9,In,Regular Tee,No Spin,
-Birdsong Challenge,29/04/2014,First Day Kagurayama tour,1,Kagurayama,18,,Long Tee (Mirror),Impossible Pin,Teeny Cup
-Earth Day Challenge Cup,27/04/2014,Last Day Mt. Sakura tour,6,Mt. Sakura,18,,Regular Tee,Hole Shuffle,Hit a Tree: +1
+Tournament,Date,Tour Name,Day,Course,Holes,Direction,Tee,Rule One,Rule Two,Players,Avg. Score
+Cool Spring Open,01/06/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,,733,4
+Cool Spring Open,31/05/2014,Day 5 Harvest Hills tour,5,Harvest Hills,18,,Long Tee (Mirror),Hole Shuffle,,845,-9
+Cool Spring Open,30/05/2014,Day 4 Northern Fox tour,4,Northern Fox,9,Out,Regular Tee,Gale Force,Unlimited Power shot,730,-4
+Cool Spring Open,29/05/2014,Day 3 Kagurayama tour,3,Kagurayama,18,,Long Tee (Mirror),Sunny,Power Shot: +2,878,-10
+Cool Spring Open,28/05/2014,Day 2 Mar Cielo tour,2,Mar Cielo,9,Out,Long Tee (Mirror),No Spin,Mega Cup,809,-3
+Cool Spring Open,27/05/2014,First Day Al Arabian tour,1,Al Arabian,9,Out,Regular Tee,,,985,-2
+Sunburst Championship,25/05/2014,Last Day Kagurayama tour,6,Kagurayama,18,,Regular Tee,Limited Clubs,,915,-10
+Sunburst Championship,24/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),No Wind,Unlimited Power shot,789,-12
+Sunburst Championship,23/05/2014,Day 4 Legacy tour,4,Legacy,9,Out,Regular Tee,Rainy,,838,1
+Sunburst Championship,22/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,In,Long Tee (Mirror),,,,
+Sunburst Championship,21/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,9,In,Regular Tee,No shot within 15 sec: +1,,,
+Sunburst Championship,20/05/2014,First Day La Provence tour,1,La Provence,18,,Long Tee (Mirror),Hole Shuffle,,,
+Europe Day Memorial,18/05/2014,Last Day Maple Leaf tour,6,Maple Leaf,18,,Regular Tee,Hole Shuffle,Mega Cup,,
+Europe Day Memorial,17/05/2014,Day 5 Mar Cielo tour,5,Mar Cielo,18,,Regular Tee,Gale Force,Rainy,,
+Europe Day Memorial,16/05/2014,Day 4 La Provence tour,4,La Provence,9,Out,Regular Tee,Teeny Cup,,,
+Europe Day Memorial,15/05/2014,Day 3 Al Arabian tour,3,Al Arabian,9,Out,Long Tee (Mirror),Intermediate Only,,,
+Europe Day Memorial,14/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,18,,Long Tee (Mirror),Bunker: +1,,,
+Europe Day Memorial,13/05/2014,First Day Kagurayama tour,1,Kagurayama,9,In,Regular Tee,,,,
+May Day Tour,11/05/2014,Last Day Al Arabian tour,6,Al Arabian,18,,Regular Tee,,,,
+May Day Tour,10/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),Impossible Pin,,,
+May Day Tour,09/05/2014,Day 4 Mar Cielo tour,4,Mar Cielo,9,Out,Regular Tee,Hit a Tree: +1,Gale Force,,
+May Day Tour,08/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,18,,Long Tee (Mirror),No shot within 15 sec: +1,,,
+May Day Tour,07/05/2014,Day 2 Northern Fox tour,2,Northern Fox,9,In,Long Tee (Mirror),Gale Force,,,
+May Day Tour,06/05/2014,First Day Legacy tour,1,Legacy,9,In,Long Tee (Mirror),,,,
+Birdsong Challenge,04/05/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,,,
+Birdsong Challenge,03/05/2014,Day 5 Al Arabian tour,5,Al Arabian,18,,Long Tee (Mirror),Hole Shuffle,,,
+Birdsong Challenge,02/05/2014,Day 4 Mt. Sakura tour,4,Mt. Sakura,9,Out,Regular Tee,Mild Breeze,,,
+Birdsong Challenge,01/05/2014,Day 3 Havest Hills tour,3,Harvest Hills,9,In,Long Tee (Mirror),,,,
+Birdsong Challenge,30/04/2014,Day 2 La Provence tour,2,La Provence,9,In,Regular Tee,No Spin,,,
+Birdsong Challenge,29/04/2014,First Day Kagurayama tour,1,Kagurayama,18,,Long Tee (Mirror),Impossible Pin,Teeny Cup,,
+Earth Day Challenge Cup,27/04/2014,Last Day Mt. Sakura tour,6,Mt. Sakura,18,,Regular Tee,Hole Shuffle,Hit a Tree: +1,,
+Earth Day Challenge Cup,26/04/2014,Day 5 La Provence tour,5,La Provence,18,,Regular Tee,Intermediate Only,Rough: +1,,
+Earth Day Challenge Cup,25/04/2014,Day 4 Legacy tour,4,Legacy,9,In,Long Tee (Mirror),Rainy,,,
+Earth Day Challenge Cup,24/04/2014,Day 3 Northern Fox tour,3,Northern Fox,9,In,Long Tee (Mirror),,,,
+Earth Day Challenge Cup,23/04/2014,Day 2 Al Arabian tour,2,Al Arabian,9,Out,Long Tee (Mirror),No Spin,,,
+Earth Day Challenge Cup,22/04/2014,First Day Maple Leaf tour,1,Maple Leaf,18,,Long Tee (Mirror),Unlimited Power Shot,Mega Cup,,
+Blossom Masters,20/04/2014,Last Day Harvest Hills tour,6,Harvest Hills,18,,Long Tee (Mirror),Gale Force,Rainy,,
+Blossom Masters,19/04/2014,Day 5 Al Arabian tour,5,Al Arabian,18,,Long Tee (Mirror),Mega Cup,Limited Clubs,,
+Blossom Masters,18/04/2014,Day 4 Mt. Sakura tour,4,Mt. Sakura,9,Out,Regular Tee,,,,
+Blossom Masters,17/04/2014,Day 3 Kagurayama tour,3,Kagurayama,9,In,Regular Tee,Rough: +1,,,
+Blossom Masters,16/04/2014,Day 2 Mar Cielo tour,2,Mar Cielo,18,,Regular Tee,Hole Shuffle,,,
+Blossom Masters,15/04/2014,First Day La Provence tour,1,La Provence,9,Out,Regular Tee,Unlimited Power Shot,,,
+Springtime Tour,13/04/2014,Last Day Northern Fox tour,6,Northern Fox,18,,Regular Tee,Hole Shuffle,,,
+Springtime Tour,12/04/2014,Day 5 Kagurayama tour,5,Kagurayama,18,,Regular Tee,Gale Force,Teeny Cup,,
+Springtime Tour,11/04/2014,Day 4 Harvest Hills tour,4,Harvest Hills,9,Out,Regular Tee,Power Shot: +2,,,
+Springtime Tour,10/04/2014,Day 3 Legacy tour,3,Legacy,9,In,Long Tee (Mirror),Bunker: +2,,,
