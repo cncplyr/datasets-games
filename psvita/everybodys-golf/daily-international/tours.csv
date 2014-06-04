@@ -1,4 +1,6 @@
-Tournament,Date,Tour Name,Day,Course,Holes,Direction,Tee,Rule One,Rule Two,Players,Avg. Score
+Tournament,Date,Tour,Day,Course,Holes,Direction,Tee,Rule One,Rule Two,Players,Avg. Score
+Summertime Tee-Off,04/06/2014,Day 2 Northern Fox tour,2,Northern Fox,9,Out,Regular Tee,Hole Shuffle,,,
+Summertime Tee-Off,03/06/2014,First Day Harvest Hills tour,1,Harvest Hills,,,,,,956,-3
 Cool Spring Open,01/06/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,,733,4
 Cool Spring Open,31/05/2014,Day 5 Harvest Hills tour,5,Harvest Hills,18,,Long Tee (Mirror),Hole Shuffle,,845,-9
 Cool Spring Open,30/05/2014,Day 4 Northern Fox tour,4,Northern Fox,9,Out,Regular Tee,Gale Force,Unlimited Power shot,730,-4
@@ -8,9 +10,9 @@ Cool Spring Open,27/05/2014,First Day Al Arabian tour,1,Al Arabian,9,Out,Regular
 Sunburst Championship,25/05/2014,Last Day Kagurayama tour,6,Kagurayama,18,,Regular Tee,Limited Clubs,,915,-10
 Sunburst Championship,24/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),No Wind,Unlimited Power shot,789,-12
 Sunburst Championship,23/05/2014,Day 4 Legacy tour,4,Legacy,9,Out,Regular Tee,Rainy,,838,1
-Sunburst Championship,22/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,In,Long Tee (Mirror),,,,
-Sunburst Championship,21/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,9,In,Regular Tee,No shot within 15 sec: +1,,,
-Sunburst Championship,20/05/2014,First Day La Provence tour,1,La Provence,18,,Long Tee (Mirror),Hole Shuffle,,,
+Sunburst Championship,22/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,In,Long Tee (Mirror),,,929,-5
+Sunburst Championship,21/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,9,In,Regular Tee,No shot within 15 sec: +1,,931,-3
+Sunburst Championship,20/05/2014,First Day La Provence tour,1,La Provence,18,,Long Tee (Mirror),Hole Shuffle,,871,-5
 Europe Day Memorial,18/05/2014,Last Day Maple Leaf tour,6,Maple Leaf,18,,Regular Tee,Hole Shuffle,Mega Cup,,
 Europe Day Memorial,17/05/2014,Day 5 Mar Cielo tour,5,Mar Cielo,18,,Regular Tee,Gale Force,Rainy,,
 Europe Day Memorial,16/05/2014,Day 4 La Provence tour,4,La Provence,9,Out,Regular Tee,Teeny Cup,,,
