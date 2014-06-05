@@ -156,5 +156,10 @@
 		"weapon": "P90",
 		"finish": "Sand Spray",
 		"exterior": "Battle-Scarred"
+	},
+	{
+		"date": "2014-06-05T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "eSports Winter Case"
 	}
 ]
