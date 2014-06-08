@@ -3,6 +3,7 @@ datasets-games
 Datasets from a variety of games. Split out by platform, then game. The games currently covered include:
 
 ## Android
+* Criminal Legacy
 * Disco Zoo
 * Motor World Car Factory
 * SpaceChem
