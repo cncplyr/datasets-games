@@ -8,8 +8,8 @@ Dog Mansion,3,,5,275,3300,
 Fountain,1,100,,600,50,
 Fountain,2,,,900,75,
 Fountain,3,,3,1500,125,
-Greenhouse,1,30000,,400,8000,
-Greenhouse,2,20000,,400,8000,
+Greenhouse,1,30000,0,400,8000,
+Greenhouse,2,20000,0,475,9500,02:00:00
 Putting Green,1,15000,,800,400,02:00:00
 Putting Green,2,,,900,450,
 Putting Green,3,,20,1200,600,
