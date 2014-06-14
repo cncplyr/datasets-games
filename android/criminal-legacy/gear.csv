@@ -1,15 +1,34 @@
-Name,Rarity,Fire,Shadow,Steel,Lightning,Water,Fire2,Level,Max Level,Attack,Defence
-Badland Duds,1x Gold,Yes,Yes,,,,,1,50,184,156
-Basic Fire Gear,Bronze,Yes,,,,,,1,30,80,64
-Basic Steel Gear,Bronze,,,Yes,,,,1,30,72,88
-Basic Water Gear,Bronze,,,,,Yes,,1,30,80,80
-Cartel Threads,Silver,,,,Yes,,,12,30,182,148
-Fire Enhance Boost Gear,2x Gold,,,,,,,1,1,1,1
-Leather Destroyer,Silver,,,Yes,,,,20,30,180,260
-Leather Destroyer S,Silver,,,Yes,,,,1,30,115,141
-Pimp Coat,1x Gold,,Yes,Yes,,,,10,50,210,238
-Rasta Wear,Silver,,,,,Yes,,1,30,115,115
-Rasta Wear,Silver,,,,,Yes,,23,30,225,247
-Scorched Sinner,1x Gold,Yes,,Yes,,,,2,50,128,109
-Superfly Soldier,1x Gold,Yes,,,,Yes,,6,50,198,205
-Yakuza Sea Serpent,1x Gold,,,Yes,,Yes,,1,50,128,177
+Name,Rarity,Fire,Shadow,Steel,Lightning,Water,Max Level,Craft Time,Craft Cost (Cash)
+Alleyway Enforcer,Silver,Yes,,,,,30,00:30:00,500
+Alleyway Enforcer S,Silver,Yes,,,,,30,00:30:00,500
+Aristocrat Dominator,3x Gold,Yes,,Yes,,,,,120000
+Badland Duds,1x Gold,Yes,Yes,,,,50,,15000
+Basic Fire Gear,Bronze,Yes,,,,,30,,300
+Basic Lightning Gear,Bronze,,,,Yes,,30,,300
+Basic Shadow Gear,Bronze,,Yes,,,,30,,300
+Basic Steel Gear,Bronze,,,Yes,,,30,00:05:00,300
+Basic Water Gear,Bronze,,,,,Yes,30,,300
+Battle Ink,3x Gold,,Yes,,,Yes,,,75000
+Bruiser's Gear,2x Gold,,,Yes,Yes,,,,50000
+Cartel Threads,Silver,,,,Yes,,30,,500
+Cartel Threads S,Silver,,,,Yes,,,00:30:00,500
+Cobra Clothes,2x Gold,,Yes,,Yes,,,,70000
+Darkside Justice,Silver,,Yes,,,,30,00:30:00,500
+Deputy Clothes,3x Gold,Yes,Yes,,,,,,100000
+Fire Enhance Boost Gear,2x Gold,,,,,,1,,
+Golden Gambler,1x Gold,,,,Yes,Yes,50,02:00:00,6000
+Leather Destroyer,Silver,,,Yes,,,30,,
+Leather Destroyer S,Silver,,,Yes,,,30,,500
+Lethal Glamor,1x Gold,,,Yes,Yes,,,,9000
+Pimp Coat,1x Gold,,Yes,Yes,,,50,,12000
+Pop's Gear,2x Gold,,Yes,,Yes,,,,50000
+Rasta Wear,Silver,,,,,Yes,30,,
+Rasta Wear S,Silver,,,,,Yes,30,,500
+Scorched Sinner,1x Gold,Yes,,Yes,,,50,,
+Spouse's Garb,2x Gold,Yes,,,,Yes,,,50000
+Superfly Soldier,1x Gold,Yes,,,,Yes,50,,18000
+SWAT Eliminator,3x Gold,,,,,,,,150000
+Tailored Wiseguy,2x Gold,,Yes,,,Yes,,,50000
+Urban Warrior,2x Gold,,,Yes,,Yes,50,,60000
+Vault Robber,2x Gold,Yes,,Yes,,,,,80000
+Yakuza Sea Serpent,1x Gold,,,Yes,,Yes,50,,3000
