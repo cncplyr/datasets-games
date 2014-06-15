@@ -146,6 +146,14 @@ Damage type: Kinetic
 RoF: 150
 Magazine: 15
 
+* Trax Mallus III
+common
+scout rifle
+Semi-automatic rifle. Accurized and fitted with harmonic dampers for long-range work.
+Attack: 51
+type: kinetic
+RoF 180
+mag 11
 
 * Galahad-B
 Common
@@ -156,6 +164,14 @@ Damage type: Kinetic
 RoF: 450
 Mag: 21
 
+* Psi Tempus II
+Pulse Rifle
+Common
+Pulse rifles fire in short, sharp bursts. This Psi Tempus variant is a flexible multirole design.
+Attack: 43
+type: kinetic
+RoF: 360
+Magazine: 27
 
 ### Secondary Weapons
 * Preacher Mk. 22
@@ -207,6 +223,80 @@ Damage type: Kinetic
 RoF: 90
 Mag: 4
 
+* Solas FR2
+fusion rifle
+common
+Directed energy weapon with a short charge cycle. The lightweight Solas is built for close quarters.
+Attack 51
+damage type: arc
+charge time: 83
+mag: 5
+
+* Nox Revus III
+fusion rifle
+uncommon
+The precision FR3 incorporates smart field effectors to hit harder at long ranges
+attack: 51
+type: solar
+charge: 62
+mag 4
+* Red Dot-ORS - Accurized sight. for precise fire
+* Focus Lens FLS2 - Agile scope. modest zoom. light and snappy.
+* Focus Lens FLA5 - Sharpshooter scope. long range, with enhanced target acquisition. surprisingly light.
+* Upgrade attack
+
+### Heavy Weapons
+* Jester SA/3
+Uncommon
+Rocket Launcher
+The SA/3 Jester maintains the Jester series' focus on precise delivery, but with expanded capability.
+Attack: 83
+type: void
+rof 47
+mag 2
+* Colony warhead - this smart warhead has swarm intelligence, allowing you to carry more in reserve and enhancing impact.
+* Light warhead - This compact, lightweight warhead allows you to carry more in reserve.
+* Fieldwire fragments - Charged fieldwire shrapnel enhances impact.
+* upgrade attack
+
+* Breaker SA/2
+common rocket launcher
+Shoulder-mounted devastation. like its cousin the Butcher, the Breaker puts raw damage first.
+attack: 51
+type kinetic
+rof 34
+mag 1
+
+* Baron RS/2A
+common rocket launcher
+shoulder-fired devastation. the baron RS/2a is a general-purpose launcher that was used as a testbed for later development.
+attack 39
+type kinetic
+rof  43
+mag 2
+
+* Xerxes-C
+Uncommon machine gun
+Conquer new worlds with the decisive thunderclap of the Xerxes' heavy rounds.
+attack: 75
+type void
+rof 300
+mag 29
+* fieldwire rounds - a charged fieldwire jacket enhances impact
+* Relic iron rounds - this ammunition considerably improves impact, but fewer rounds can be carried in reserve.
+* skip rounds - ceramic-jacketed rounds ricochet on hard surfaces. their extreme density lets you carry more rounds in reserve. added mass slows down weapon handling.
+* upgrade attack
+
+* Sargon-B2 slate
+common machine gun
+fully automatic heavy machine gun. The B2-Slate is a general-purpose weapon noted for its pleasant ergonomics
+attack:51
+type kinetic
+rof 600
+mag 64
+
+
+
 ### Helmets
 * Sinaa Jaguar 2.1
 Uncommon
@@ -229,6 +319,15 @@ Helmet
 Shielded optics and an armored rebreather for long-duration sorties into the wild.
 Defense: 18
 
+* Komarov 3.1R4
+Uncommon (Lv 9)
+Helmet
+Never lose your bearings. A disoriented Hunter cannot select vital targets or track lines of flight.
+Defense: 54
+Intellect +12 (Increased melee attack speed)
+* Type I Coating
+* Switchblade - Increases melee attack speed
+
 ### Gauntlets
 * Sinaa Jaguar 2.1
 Uncommon
@@ -244,6 +343,22 @@ Common
 Gauntlets
 Wire armor is light and flexibke, perfect for silent motion and cramped conditions
 Defense: 15
+
+* Stratus 3.1
+common
+A  Hunter's armor must be nimble, tough, and wearable - because it will be their only home.
+Defense: 20
+
+* Forester 2.1
+common
+Simple plates and wire lining are enough to stop a Skiff's main guns - when charged with Light.
+Defense: 24
+
+* Stratus 3.0B
+Common
+A  Hunter's armor must be nimble, tough, and wearable - because it will be their only home.
+Defense: 19
+
 
 ### Chest Armor
 * Forester 2.1B
@@ -264,6 +379,18 @@ Chest Armor
 Your Ghost built this wire armor from available mass. It handles lift support, but little else.
 Defense: 18
 
+* Komarov 3.1
+Uncommon
+Hunters craft Komarov patterns in preparation for lunar and exoatmospheric work.
+Defense: 30
+Discipline: +6 (Carry more ammo for Pulse Rifles)
+* Type I coating
+* Pulse Rifle Ammo - Increases the amount of pulse rifle ammunition you can carry
+
+* Foresteer 2.1
+common
+Defense: 24
+
 ### Leg Armor
 * Forester 2.1
 common
@@ -276,6 +403,10 @@ common
 "Play with the fit and the sensors until it feels like going barefoot." - Handbook of (Un)Controversial Advice
 Defense: 13
 
+* Stratus 3.1R4
+Whether the weapon is a rifle or a blade, the kill demands positioning. Know your ground.
+Defense: 17
+
 ### Class Armor
 * Makeshift Scarf
 Common
@@ -286,6 +417,10 @@ The Hunter's cloak speaks to their personality. Your Ghost scrounged up this tou
 Common
 Hunter Cloak
 This cut-down cloak marks thebearer as a rising Hunter, newlyu reborn and eager to roam.
+
+* Cloak of Perception
+Rare (Lv 12)
+"Have you walked the ruins? Seen the machines born from the lightning? We face a mighty foe."
 
 ### Ghost
 * Generalist Shell
