@@ -1,0 +1,254 @@
+destiny alpha
+
+# Gunslinger 
+## Hunter subclass
+"A lone wolf who lives for the perfect shot
+
+### Abilities
+* Incendiary grenade (already unlocked)
+An explosive grenade that catches enemies on fire, causing additional damage over time. Binds to L1
+
+* Swarm grenade
+A grenade which detonates on impact, releasing multiple drones that seek nearby enemies. Binds to L1
+
+* Tripmine Grenade
+An exposive grenade that sticks to surfaces and detonates when enemies pass through its laser trigger. Binds to L1
+
+--- 
+
+* Double Jump
+Jump a second time after leaving the ground. Binds to x
+
+* Better Control
+Upgrades Double Jump for better directional control while in the air.
+
+* Triple Jump
+Upgrades Double Jump with a third jump.
+
+* Higher Jump
+Upgrades Double Jump for even greater height
+
+* Golden Gun
+Summon a flaming pistol which disintegrates enemies with Solar Light. Binds to L1 + R1
+
+* Deadeye
+Significantly increases the accuracy of Golden Gun.
+
+* Combustion
+Killing enemies with Golden Gun causes them to explode.
+
+* Gunfighter
+Reduces the cooldown of Golden Gun, allowing it to be used more often.
+
+* Throwing Knife
+Throw a knife from a distance
+
+* Circle of Life
+Killing an enemy with Throwing Knife while Golden Gun is active extends the duration of Golden Gun.
+
+* Incendiary Blade
+Throwing Knife catches enemies on fire, dealing additional damage over time.
+
+* Knife Juggler
+Precision kills with Throwing Knife immediately resets its cooldown.
+
+---
+
+* Path Forgotten
+Training focused on toughness and speed.
+
+* Path Forbidden
+Training focused on battle recovery and speed.
+
+* Path Unknown
+Training focused on battle recovery and toughness.
+
+* Scavenger
+Picking up ammo reduces the cooldown of your grenade and Throwing Knife
+
+* Keyhole
+Golden Gun overpenetrates and can damage multiple targets.
+
+* Gunslinger's Trance
+Precision kills increase weapon stability. Stacks up to 3 times.
+
+* Way of the Drifter
+Training focused on all attributes.
+
+* Way of the fearless
+Training focused on toughness at all costs.
+
+* Way of the Nomad
+Training focused on maximum battle recovery.
+
+---
+
+* Chain of Woe
+Precision kills increase weapon reload speed. Stacks up to 3 times.
+
+* Over the Horizon
+Increases the range of Golden Gun.
+
+* Gambler's Dagger
+Gain an additional Throwing Knife.
+
+* Illumination
+Seal this Subclass, locking previous choices.
+
+### Primary Weapons
+* Suros JPS-32
+Uncommon
+Pulse Rifle
+The JPS-32 provides precision burst fire. Integrated micromotors control the barrel's harmonic resonance,
+Attack: 51
+RoF: 360
+Magazine: 21
+Damage type: Kinetic
+Scopes: 
+  * Fastdraw IS - Standard sight. A lightweight design, good for recoil control,
+  * Truedight IS - Flexible sight. Light, with good recoil control. Strong target acquisition.
+  * Focus Lens FLA5 - Sharpshooter scope. Long range, with enhanced target acquisition. Surprisingly light,
+Upgrade: Increase this weapon's Attack. Glimmer: 50
+
+* Shingen-B
+Common
+Auto Rifle
+Full-auto instrument of war. A flexible multirole assault rifle produced in vast numbers.
+Attack: 36
+Damage type: Kinetic
+RoF: 450
+Magazine: 24
+
+* Duke Mk. 10
+Common
+Hand Cannon
+Hand cannons reward calm technique and shart shooting. The Mark 10 Duke is a well-balanced example.
+Attack: 43
+Damage type: Kinetic
+RoF: 150
+Magazine: 6
+
+### Secondary Weapons
+* Preacher Mk. 22
+Common
+Shotgun
+The perfect close-quarters tool. The Preacher's always there when you need her.
+Special Weapons use green ammo pickups.
+Attack: 39
+Damage type: Kinetic
+RoF: 65
+Magazine: 5
+
+### Helmets
+* Sinaa Jaguar 2.1
+Uncommon
+Helmet
+Sensory interfaces are a stock component of Hunter gear, but they are rarely tuned so raw.
+Defense: 41
+Strength: 10
+* Type I Coating - This Armor can be recolored using version 1 or newer micromaterial shaders.
+* Light the Blade - Causing damage with a grenade reduces your melee cooldown.
+
+* Tracker 1.0
+Common
+Helmet
+This basic helmet offers a closed rebreather and a decent intenal sensorium.
+Defense: 18
+
+* Forester 2.1
+Common
+Helmet
+Shielded optics and an armored rebreather for long-duration sorties into the wild.
+Defense: 18
+
+### Gauntlets
+* Sinaa Jaguar 2.1
+Uncommon
+Gauntlets
+The wire in these gloves has been tweaked to grow warm when your knife pierces enemy hide.
+Defense: 19
+Discipline: 4 (Discipline decreases the cooldown timeof your grenades, allowing you to use them more often.)
+* Type I Coating
+* Pulse Rifle Loader - Increases the reload speed of Pulse Rifles.
+
+* Tracker 1.0
+Common
+Gauntlets
+Wire armor is light and flexibke, perfect for silent motion and cramped conditions
+Defense: 15
+
+### Chest Armor
+* Forester 2.1B
+Common
+Chest Armor
+Simple plates and wire lining are enough to stop a Skiff's main guns - when charged with Light.
+Defense: 25
+
+* Tracker 1.0
+Common
+Chest Armor
+Field wire stiffens on impact, converting enemy gunfire into heat, shrapnel and bruises.
+Defense: 21
+
+* Prototype 0.9R3
+Common
+Chest Armor
+Your Ghost built this wire armor from available mass. It handles lift support, but little else.
+Defense: 18
+
+### Leg Armor
+* Forester 2.1
+common
+leg armor
+Sparrows burn. Ships crash. The wise Hunger knows machines will fail, and makes ready to walk.
+Defense 13
+
+* Tracker 1.9
+common
+"Play with the fit and the sensors until it feels like going barefoot." - Handbook of (Un)Controversial Advice
+Defense: 13
+
+### Class Armor
+* Makeshift Scarf
+Common
+Hunter Cloak
+The Hunter's cloak speaks to their personality. Your Ghost scrounged up this tough synthetic wrap, marked with an ancient double-headed eagle.
+
+* Tracker's Wrap
+Common
+Hunter Cloak
+This cut-down cloak marks thebearer as a rising Hunter, newlyu reborn and eager to roam.
+
+### Ghost
+* Generalist Shell
+Ghost Shell
+Born from the Traveler, built of machinery and Light, the Ghost is your companion and faithful guide.
+
+### Vehicle
+* Sparrow S-10
+Quick on the ground and small enough for transmat deployment.
+Durability: 70
+* Boost - Hold L2 to accelerate to higher speed.
+
+### Ships
+* Arcadia Class Jumpship
+Ship
+Serviced by the Tower shipyard, this jumpship is in much better shape than when it arrived.
+
+### Shaders
+
+### Emblems
+* Aspect of Blood
+Emblem
+
+## Inventory
+### Material
+* Spinmetal
+Material
+A filigree of bubbled metal grown by wild colonies of Golden Age cytoconstructors.
+
+### Mission
+
+### Consumables
+
+### Bounties
