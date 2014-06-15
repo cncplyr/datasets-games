@@ -122,11 +122,40 @@ Magazine: 24
 * Duke Mk. 10
 Common
 Hand Cannon
-Hand cannons reward calm technique and shart shooting. The Mark 10 Duke is a well-balanced example.
+Hand cannons reward calm technique and sharp shooting. The Mark 10 Duke is a well-balanced example.
 Attack: 43
 Damage type: Kinetic
 RoF: 150
 Magazine: 6
+
+* Duke Mk. 21
+Common
+Hand Cannon
+Hand cannons reward calm technique and sharp shooting. The Mark 21 Duke is notable for its excellent reliability even when wet.
+Attack: 32
+Damage type: Kinetic
+RoF: 150
+Mag: 6
+
+* Trax Callum II-A
+Common
+Scout Rifle
+Semi-automatic rifle. This is a multirole variant with well-balanced capabilities.
+Attack: 36
+Damage type: Kinetic
+RoF: 150
+Magazine: 15
+
+
+* Galahad-B
+Common
+Auto Rifle
+Full-auto instrument of war. Precision-fire variant with a harmonic dampening system for accuracy at range.
+Attack: 51
+Damage type: Kinetic
+RoF: 450
+Mag: 21
+
 
 ### Secondary Weapons
 * Preacher Mk. 22
@@ -138,6 +167,45 @@ Attack: 39
 Damage type: Kinetic
 RoF: 65
 Magazine: 5
+
+* Preacher Mk. 22
+Common
+Shotgun
+The perfect close-quarters tool. The Preacher's always there when you need her.
+Special Weapons use green ammo pickups.
+Attack: 43
+Damage type: Kinetic
+RoF: 65
+Magazine: 5
+
+
+* Tengoku FR2A
+Common
+Fusion Rifle
+Fusion Rifles are directed-energy weapons with a short charge cycle. The RF2a is a multirole design built to kill swarms of light targets.
+Attack: 43
+Damage type: Solar
+Charge Time: 63
+Magazine: 5
+
+* Prost RFR2
+Common - L7
+Fusion Rifle
+Directed energy weapon with a short charge cycle. The Prost's cut-down projector enables rapid fire. Special Weapons use green ammo pickups.
+Attack: 67
+Damage type: Void
+Charge Time: 100
+Magazine: 6
+
+
+* Hieracon-LR2
+Common - Requires Level 7
+Sniper Rifle
+Engage and defeat the enemy at extreme range. The Hieracon-LR2 is a flexible marksman platform designed for all conditions. Special Weapons use green ammo pickups.
+Attack: 67
+Damage type: Kinetic
+RoF: 90
+Mag: 4
 
 ### Helmets
 * Sinaa Jaguar 2.1
