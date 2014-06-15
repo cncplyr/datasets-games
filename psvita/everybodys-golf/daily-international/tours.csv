@@ -1,11 +1,11 @@
 Tournament,Date,Tour,Day,Course,Holes,Direction,Tee,Rule One,Rule Two,Players,Avg. Score
-Suncream Classic,15/06/2014,,6,,,,,,,,
-Suncream Classic,14/06/2014,,5,,,,,,,,
-Suncream Classic,13/06/2014,,4,,,,,,,,
-Suncream Classic,12/06/2014,,3,,,,,,,,
-Suncream Classic,11/06/2014,,2,,,,,,,,
-Suncream Classic,10/06/2014,First Day Mt. Sakura tour,1,Mt. Sakura,9,In,Regular Tee,Sunny,,,
-Summertime Tee-Off,08/06/2014,Last Day Mar Cielo tour,6,Mar Cielo,18,,Long Tee (Mirror),,,,
+Suncream Classic,15/06/2014,Last Day Kagurayama tour,6,Kagurayama,18,,Regular Tee,Bunker: +1,Gale Force,,
+Suncream Classic,14/06/2014,,5,,,,,,,554,-3
+Suncream Classic,13/06/2014,,4,,,,,,,798,-3
+Suncream Classic,12/06/2014,Day 3 Legacy tour,3,Legacy,9,In,Regular Tee,Novice Only,,765,2
+Suncream Classic,11/06/2014,,2,,,,,,,788,-4
+Suncream Classic,10/06/2014,First Day Mt. Sakura tour,1,Mt. Sakura,9,In,Regular Tee,Sunny,,846,-5
+Summertime Tee-Off,08/06/2014,Last Day Mar Cielo tour,6,Mar Cielo,18,,Long Tee (Mirror),,,715,-3
 Summertime Tee-Off,07/06/2014,Day 5 Legacy tour,5,Legacy,18,,Long Tee (Mirror),Mega Cup,,737,-1
 Summertime Tee-Off,06/06/2014,,4,,,,Long Tee (Mirror),,,846,-4
 Summertime Tee-Off,05/06/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,Out,Regular Tee,Teeny Cup,,947,-7
@@ -23,19 +23,19 @@ Sunburst Championship,23/05/2014,Day 4 Legacy tour,4,Legacy,9,Out,Regular Tee,Ra
 Sunburst Championship,22/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,9,In,Long Tee (Mirror),,,929,-5
 Sunburst Championship,21/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,9,In,Regular Tee,No shot within 15 sec: +1,,931,-3
 Sunburst Championship,20/05/2014,First Day La Provence tour,1,La Provence,18,,Long Tee (Mirror),Hole Shuffle,,871,-5
-Europe Day Memorial,18/05/2014,Last Day Maple Leaf tour,6,Maple Leaf,18,,Regular Tee,Hole Shuffle,Mega Cup,,
-Europe Day Memorial,17/05/2014,Day 5 Mar Cielo tour,5,Mar Cielo,18,,Regular Tee,Gale Force,Rainy,,
-Europe Day Memorial,16/05/2014,Day 4 La Provence tour,4,La Provence,9,Out,Regular Tee,Teeny Cup,,,
-Europe Day Memorial,15/05/2014,Day 3 Al Arabian tour,3,Al Arabian,9,Out,Long Tee (Mirror),Intermediate Only,,,
-Europe Day Memorial,14/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,18,,Long Tee (Mirror),Bunker: +1,,,
-Europe Day Memorial,13/05/2014,First Day Kagurayama tour,1,Kagurayama,9,In,Regular Tee,,,,
-May Day Tour,11/05/2014,Last Day Al Arabian tour,6,Al Arabian,18,,Regular Tee,,,,
-May Day Tour,10/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),Impossible Pin,,,
-May Day Tour,09/05/2014,Day 4 Mar Cielo tour,4,Mar Cielo,9,Out,Regular Tee,Hit a Tree: +1,Gale Force,,
-May Day Tour,08/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,18,,Long Tee (Mirror),No shot within 15 sec: +1,,,
-May Day Tour,07/05/2014,Day 2 Northern Fox tour,2,Northern Fox,9,In,Long Tee (Mirror),Gale Force,,,
-May Day Tour,06/05/2014,First Day Legacy tour,1,Legacy,9,In,Long Tee (Mirror),,,,
-Birdsong Challenge,04/05/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,,,
+Europe Day Memorial,18/05/2014,Last Day Maple Leaf tour,6,Maple Leaf,18,,Regular Tee,Hole Shuffle,Mega Cup,971,-17
+Europe Day Memorial,17/05/2014,Day 5 Mar Cielo tour,5,Mar Cielo,18,,Regular Tee,Gale Force,Rainy,659,-1
+Europe Day Memorial,16/05/2014,Day 4 La Provence tour,4,La Provence,9,Out,Regular Tee,Teeny Cup,,889,-1
+Europe Day Memorial,15/05/2014,Day 3 Al Arabian tour,3,Al Arabian,9,Out,Long Tee (Mirror),Intermediate Only,,824,-1
+Europe Day Memorial,14/05/2014,Day 2 Harvest Hills tour,2,Harvest Hills,18,,Long Tee (Mirror),Bunker: +1,,871,-6
+Europe Day Memorial,13/05/2014,First Day Kagurayama tour,1,Kagurayama,9,In,Regular Tee,,,1022,-5
+May Day Tour,11/05/2014,Last Day Al Arabian tour,6,Al Arabian,18,,Regular Tee,,,859,-3
+May Day Tour,10/05/2014,Day 5 Mt. Sakura tour,5,Mt. Sakura,18,,Long Tee (Mirror),Impossible Pin,,768,-9
+May Day Tour,09/05/2014,Day 4 Mar Cielo tour,4,Mar Cielo,9,Out,Regular Tee,Hit a Tree: +1,Gale Force,772,-1
+May Day Tour,08/05/2014,Day 3 Maple Leaf tour,3,Maple Leaf,18,,Long Tee (Mirror),No shot within 15 sec: +1,,965,-11
+May Day Tour,07/05/2014,Day 2 Northern Fox tour,2,Northern Fox,9,In,Long Tee (Mirror),Gale Force,,775,-4
+May Day Tour,06/05/2014,First Day Legacy tour,1,Legacy,9,In,Long Tee (Mirror),,,908,5
+Birdsong Challenge,04/05/2014,Last Day Legacy tour,6,Legacy,18,,Regular Tee,Novice Only,,813,6
 Birdsong Challenge,03/05/2014,Day 5 Al Arabian tour,5,Al Arabian,18,,Long Tee (Mirror),Hole Shuffle,,,
 Birdsong Challenge,02/05/2014,Day 4 Mt. Sakura tour,4,Mt. Sakura,9,Out,Regular Tee,Mild Breeze,,,
 Birdsong Challenge,01/05/2014,Day 3 Havest Hills tour,3,Harvest Hills,9,In,Long Tee (Mirror),,,,
