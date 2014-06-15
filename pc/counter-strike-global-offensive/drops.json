@@ -166,5 +166,17 @@
 		"date": "2014-06-09T00:00:00.000Z",
 		"type": "weapon crate",
 		"name": "Operation Phoenix Weapon Case"
+	},
+	{
+		"date": "2014-06-15T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Sticker Capsule 2"
+	},
+	{
+		"date": "2014-06-15T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "PP-Bizon",
+		"finish": "Sand Dashed",
+		"exterior": "Field-Tested"
 	}
 ]
