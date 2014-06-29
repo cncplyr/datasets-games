@@ -178,5 +178,10 @@
 		"weapon": "PP-Bizon",
 		"finish": "Sand Dashed",
 		"exterior": "Field-Tested"
+	},
+	{
+		"date": "2014-06-28T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Winter Offensive Weapon Case"
 	}
 ]
