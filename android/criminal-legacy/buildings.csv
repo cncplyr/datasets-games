@@ -1,4 +1,4 @@
-Name,Level,Cost (Cash),Cost (Diamons),Cash per Hour,Max Cash,Build Time
+Name,Level,Cost (Cash),Cost (Diamonds),Cash per Hour,Max Cash,Build Time
 Basketball Court,1,1000,,500,500,
 Basketball Court,2,2000,,600,600,
 Basketball Court,3,,10,800,800,
@@ -21,3 +21,4 @@ Swimming Pool,3,,15,750,3000,
 Tailor,1,25000,,,,
 Tailor,2,10000,,,,
 Tiger Habitat,1,100000,,713,2850,
+Tiger Habitat,2,15000,,850,3400,
