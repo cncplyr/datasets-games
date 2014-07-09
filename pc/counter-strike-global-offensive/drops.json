@@ -183,5 +183,34 @@
 		"date": "2014-06-28T00:00:00.000Z",
 		"type": "weapon crate",
 		"name": "Winter Offensive Weapon Case"
+	},
+	{
+		"date": "2014-07-02T00:00:00.000Z",
+		"type": "sticker capsule",
+		"name": "Sticker Capsule 1"
+	},
+	{
+		"date": "2014-07-03T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "MP7",
+		"finish": "Army Recon",
+		"exterior": "Field-Tested"
+	},
+	{
+		"date": "2014-07-08T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Winter Offensive Weapon Case"
+	},
+	{
+		"date": "2014-07-08T00:00:00.000Z",
+		"type": "weapon crate",
+		"name": "Operation Breakout Weapon Case"
+	},
+	{
+		"date": "2014-07-08T00:00:00.000Z",
+		"type": "weapon finish",
+		"weapon": "UMP-45",
+		"finish": "Indigo",
+		"exterior": "Minimal Wear"
 	}
 ]
