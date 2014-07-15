@@ -14,6 +14,7 @@ The current list of games includes:
 
 ## PC
 * Counter-Strike: Global Offensive
+* Hotline Miami
 * SpaceChem
 
 ## PS3
@@ -30,3 +31,4 @@ The current list of games includes:
 * Everybody's Golf
 * Hotline Miami
 * Treasures of Montezuma: Blitz (TOM-blitz)
+* Wipeout 2048
