@@ -1,8 +1,10 @@
 Name,Rarity,Fire,Shadow,Steel,Lightning,Water,Max Level,Craft Time,Craft Cost (Cash)
 Alleyway Enforcer,Uncommon,Yes,,,,,30,00:30:00,500
 Alleyway Enforcer S,Uncommon,Yes,,,,,30,00:30:00,500
-Aristocrat Dominator,Ultra Rare,Yes,,Yes,,,,,120000
+Aristocrat Dominator,Ultra Rare,Yes,,Yes,,,70,,120000
+Bad Yellow Suit,Rare,Yes,,,Yes,,50,,
 Badland Duds,Rare,Yes,Yes,,,,50,,15000
+Badland Duds S,Rare,Yes,Yes,,,,50,,
 Basic Fire Gear,Common,Yes,,,,,30,,300
 Basic Lightning Gear,Common,,,,Yes,,30,,300
 Basic Shadow Gear,Common,,Yes,,,,30,,300
@@ -11,29 +13,42 @@ Basic Water Gear,Common,,,,,Yes,30,,300
 Battle Ink,Ultra Rare,,Yes,,,Yes,,,75000
 Bruiser's Gear,Super Rare,,,Yes,Yes,,,,50000
 Cartel Threads,Uncommon,,,,Yes,,30,,500
-Cartel Threads S,Uncommon,,,,Yes,,,00:30:00,500
+Cartel Threads S,Uncommon,,,,Yes,,30,00:30:00,500
+Chop Shop Owner,,,,,,,,,
+Chop Shop Owner S,,,,,,,,,
 Cobra Clothes,Super Rare,,Yes,,Yes,,,,70000
+Dancer's Gear,Super Rare,,,,Yes,Yes,,,50000
 Darkside Justice,Uncommon,,Yes,,,,30,00:30:00,500
-Darkside Justice S,Uncommon,,Yes,,,,,00:30:00,500
+Darkside Justice S,Uncommon,,Yes,,,,30,00:30:00,500
 Deputy Clothes,Ultra Rare,Yes,Yes,,,,,,100000
+El Toro's Suit,Super Rare,Yes,,Yes,,,,,50000
 Fire Enhance Boost Gear,Super Rare,,,,,,1,,
 Golden Gambler,Rare,,,,Yes,Yes,50,02:00:00,6000
+Golden Gambler S,Rare,,,,Yes,Yes,50,,6000
+Hacker Gear,,,,,,,,,
 Leather Destroyer,Uncommon,,,Yes,,,30,,
 Leather Destroyer S,Uncommon,,,Yes,,,30,,500
-Lethal Glamor,Rare,,,Yes,Yes,,,,9000
+Lethal Glamor,Rare,,,Yes,Yes,,50,,9000
 Marshal's Nemesis,,,,,,,,,
-Marshal's Uniform,Rare,,,,,,,,
+Marshal's Uniform,Rare,Yes,Yes,,,,,,50000
+Motocross Warrior,Ultra Rare,Yes,,,Yes,,70,,
+Motocross Warrior S,Ultra Rare,Yes,,,Yes,,70,,
 Nine Iron's Nemesis,,,,,,,,,
-Nine Iron's Suit,Rare,,,,,,,,
+Nine Iron's Suit,Rare,,,Yes,,Yes,,,50000
 Pimp Coat,Rare,,Yes,Yes,,,50,,12000
 Pop's Gear,Super Rare,,Yes,,Yes,,,,50000
 Rasta Wear,Uncommon,,,,,Yes,30,,
 Rasta Wear S,Uncommon,,,,,Yes,30,,500
 Scorched Sinner,Rare,Yes,,Yes,,,50,,
+Slasher's Nemesis,,,,,,,,,
+Slasher's Outfit,Super Rare,Yes,,,Yes,,,,50000
 Spouse's Garb,Super Rare,Yes,,,,Yes,,,50000
 Superfly Soldier,Rare,Yes,,,,Yes,50,,18000
+Superfly Soldier S,Rare,Yes,,,,Yes,50,,18000
 SWAT Eliminator,Ultra Rare,,,,,,,,150000
-Tailored Wiseguy,Super Rare,,Yes,,,Yes,,,50000
+Tailored Wiseguy,Super Rare,,Yes,,,Yes,50,,50000
+Tailored Wiseguy S,Super Rare,,Yes,,,Yes,,,50000
 Urban Warrior,Super Rare,,,Yes,,Yes,50,,60000
-Vault Robber,Super Rare,Yes,,Yes,,,,,80000
+Urban Warrior S,Super Rare,,,Yes,,Yes,50,,60000
+Vault Robber,Super Rare,Yes,,Yes,,,50,,80000
 Yakuza Sea Serpent,Rare,,,Yes,,Yes,50,,3000
