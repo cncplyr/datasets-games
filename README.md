@@ -5,6 +5,7 @@ Datasets from a variety of games, organised by platform then game. Data includes
 The current list of games includes:
 
 ## Android
+* Adventure Town
 * Criminal Legacy
 * Disco Zoo
 * Farmville 2

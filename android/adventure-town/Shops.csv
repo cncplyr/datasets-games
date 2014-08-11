@@ -1,0 +1,16 @@
+Name,Level Unlocked,Payout (Coins),Payout Time (Mins),Restock Cost (Goods),Drop 1,Drop 2,Cost
+Farm Patch,,,,,,,500
+Bakery,,60,5,20,,,600
+Inn,,240,240,60,,,500
+Lumbermill,,40,2,10,,,500
+Blacksmith,,40,2,10,,,500
+Dairy Farm,,65,5,10,,,500
+Workshop,,180,60,50,,,550
+Fruit Shop,,450,360,100,,,1200
+Fishmonger,,90,10,30,,,650
+Windmill,,400,480,100,,,1000
+Butcher,11,,,,,,
+Magic Shop,13,,,,,,
+Armory,15,,,,,,
+Tailor,17,,,,,,
+Library,19,,,,,,
