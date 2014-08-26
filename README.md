@@ -30,7 +30,7 @@ The current list of games includes:
 * Resogun
 * Watch_Dogs
 
-# PS Vita
+## PS Vita
 * Dynasty Warriors Next
 * Everybody's Golf
 * Hotline Miami
