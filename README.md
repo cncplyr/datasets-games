@@ -16,6 +16,8 @@ The current list of games includes:
 ## PC
 * Counter-Strike: Global Offensive
 * Hotline Miami
+* Microsoft Mahjong
+* Microsoft Sudoku
 * SpaceChem
 
 ## PS3
@@ -32,5 +34,6 @@ The current list of games includes:
 * Dynasty Warriors Next
 * Everybody's Golf
 * Hotline Miami
+* LittleBigPlanet PS Vita
 * Treasures of Montezuma: Blitz (TOM-blitz)
 * Wipeout 2048
