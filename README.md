@@ -15,6 +15,7 @@ The current list of games includes:
 
 ## PC
 * Counter-Strike: Global Offensive
+* Halo: Spartan Assault
 * Hotline Miami
 * Microsoft Mahjong
 * Microsoft Sudoku
