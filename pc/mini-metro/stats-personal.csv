@@ -1,0 +1,25 @@
+Mode,City,Top Score,Total Passengers,Total Days
+Classic,London,638,740,50
+Classic,Paris,281,281,21
+Classic,New York City,,,
+Classic,Saint Petersburg,,,
+Classic,Sao Paulo,,,
+Classic,Hong Kong,,,
+Classic,Cairo,,,
+Classic,Auckland,,,
+Zen,London,15,185,17
+Zen,Paris,,,
+Zen,New York City,,,
+Zen,Saint Petersburg,,,
+Zen,Sao Paulo,,,
+Zen,Hong Kong,,,
+Zen,Cairo,,,
+Zen,Auckland,,,
+Extreme,London,,,
+Extreme,Paris,,,
+Extreme,New York City,,,
+Extreme,Saint Petersburg,,,
+Extreme,Sao Paulo,,,
+Extreme,Hong Kong,,,
+Extreme,Cairo,,,
+Extreme,Auckland,,,

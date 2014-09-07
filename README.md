@@ -19,6 +19,7 @@ The current list of games includes:
 * Hotline Miami
 * Microsoft Mahjong
 * Microsoft Sudoku
+* Mini Metro
 * SpaceChem
 
 ## PS3
