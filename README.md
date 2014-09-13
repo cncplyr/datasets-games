@@ -28,6 +28,7 @@ The current list of games includes:
 ## PS4
 * Destiny (Alpha)
 * Destiny (Beta)
+* Destiny
 * Metal Gear Solid V: Ground Zeroes
 * Resogun
 * Watch_Dogs
