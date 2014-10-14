@@ -34,9 +34,11 @@ The current list of games includes:
 * Watch_Dogs
 
 ## PS Vita
+* Crazy Market
 * Dynasty Warriors Next
 * Everybody's Golf
 * Hotline Miami
 * LittleBigPlanet PS Vita
+* Motorstorm RC
 * Treasures of Montezuma: Blitz (TOM-blitz)
 * Wipeout 2048
