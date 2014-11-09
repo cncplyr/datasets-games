@@ -20,6 +20,7 @@ The current list of games includes:
 * Microsoft Mahjong
 * Microsoft Sudoku
 * Mini Metro
+* OlliOlli
 * SpaceChem
 
 ## PS3
