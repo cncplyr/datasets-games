@@ -39,6 +39,7 @@ The current list of games includes:
 * Everybody's Golf
 * Hotline Miami
 * LittleBigPlanet PS Vita
+* Luftrausers
 * Motorstorm RC
 * Treasures of Montezuma: Blitz (TOM-blitz)
 * Wipeout 2048
