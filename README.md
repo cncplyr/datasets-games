@@ -13,6 +13,7 @@ The current list of games includes:
 * Farmville 2
 * Gun Master 2
 * Motor World Car Factory
+* Retry
 * SpaceChem
 * Subway Surfers World Tour
 
