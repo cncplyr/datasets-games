@@ -53,9 +53,19 @@ Rat,City,Common,22
 Squirrel,City,Rare,26
 Opossum,City,Rare,26
 Sewer Turtle,City,Mythical,30
-Moonkey,Moon,Common,
-Lunar Tick,Moon,Common,
-Tribble,Moon,Common,
-Moonicorn,Moon,Rare,
-Luna Moth,Moon,Rare,
+Goat,Mountain,Common,24
+Cougar,Mountain,Common,24
+Elk,Mountain,Common,24
+Eagle,Mountain,Rare,
+Coyote,Mountain,Rare,
+Aatxe,Mountain,Mythical,
+Moonkey,Moon,Common,18
+Lunar Tick,Moon,Common,18
+Tribble,Moon,Common,18
+Moonicorn,Moon,Rare,22
+Luna Moth,Moon,Rare,22
 Jade Rabbit,Moon,Mythical,
+Rock,Mars,Common,
+Marsmoset,Mars,Common,
+Rover,Mars,Rare,
+Martian,Mars,Rare,
