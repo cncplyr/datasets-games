@@ -7,6 +7,7 @@ The current list of games includes:
 ## Android
 * Adventure Town
 * Criminal Legacy
+* Crossy Road
 * Disco Zoo
 * Farmville 2
 * Gun Master 2
