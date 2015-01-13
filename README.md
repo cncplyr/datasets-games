@@ -9,6 +9,7 @@ The current list of games includes:
 * Criminal Legacy
 * Crossy Road
 * Disco Zoo
+* Don't Touch The Spikes
 * Farmville 2
 * Gun Master 2
 * Motor World Car Factory
