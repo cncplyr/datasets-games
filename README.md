@@ -9,6 +9,7 @@ The current list of games includes:
 * Criminal Legacy
 * Disco Zoo
 * Farmville 2
+* Gun Master 2
 * Motor World Car Factory
 * SpaceChem
 * Subway Surfers World Tour
