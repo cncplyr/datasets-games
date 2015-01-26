@@ -16,6 +16,7 @@ The current list of games includes:
 * Retry
 * SpaceChem
 * Subway Surfers World Tour
+* Warhammer 40,000: Carnage
 
 ## PC
 * Counter-Strike: Global Offensive
