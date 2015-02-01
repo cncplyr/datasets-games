@@ -1,34 +1,29 @@
-Level,Game Mode,Difficulty,Score,Kills,Combos,Time,Wounds
-Drop Pod Landing,Iron Skull,Easy,6717,38,1624,107.86,57
-Drop Pod Landing,Emperor's Laurels,Easy,,,,,
-Drop Pod Landing,Crux Terminatus,Easy,,,,,
-Bloodstone Quarry,Iron Skull,Easy,5357,31,1624,57.08,73
-Bloodstone Quarry,Emperor's Laurels,Easy,,,,,
-Bloodstone Quarry,Crux Terminatus,Easy,,,,,
-Debris Field,Iron Skull,Easy,3538,24,928,42.95,31
-Debris Field,Emperor's Laurels,Easy,,,,,
-Debris Field,Crux Terminatus,Easy,,,,,
-Eagle Claw IX,Iron Skull,Easy,12656,42,3696,97.37,78
-Eagle Claw IX,Emperor's Laurels,Easy,,,,,
-Eagle Claw IX,Crux Terminatus,Easy,,,,,
-Artemar's Passage,Iron Skull,Easy,6180,25,1584,51.24,78
-Artemar's Passage,Emperor's Laurels,Easy,,,,,
-Artemar's Passage,Crux Terminatus,Easy,,,,,
-Arcaze Road,Iron Skull,Easy,7309,22,1776,57.29,151
-Arcaze Road,Emperor's Laurels,Easy,,,,,
-Arcaze Road,Crux Terminatus,Easy,,,,,
-Ash Gate South,Iron Skull,Easy,25766,23,7626,154.88,680
-Ash Gate South,Emperor's Laurels,Easy,,,,,
-Ash Gate South,Crux Terminatus,Easy,,,,,
-Refinery Row I,Iron Skull,Easy,,,,,
-Refinery Row I,Emperor's Laurels,Easy,,,,,
-Refinery Row I,Crux Terminatus,Easy,,,,,
-South East Wall I,Iron Skull,Easy,14643,16,4240,74.71,188
-South East Wall I,Emperor's Laurels,Easy,,,,,
-South East Wall I,Crux Terminatus,Easy,,,,,
-South East Wall II,Iron Skull,Easy,15325,20,3192,57.86,190
-South East Wall II,Emperor's Laurels,Easy,,,,,
-South East Wall II,Crux Terminatus,Easy,,,,,
-South East Wall III,Iron Skull,Easy,19370,23,6344,74.08,281
-South East Wall III,Emperor's Laurels,Easy,,,,,
-South East Wall III,Crux Terminatus,Easy,,,,,
+Area,Level,Game Mode,Difficulty %,Difficulty,Chapter,Score,Stars,Kills,Combos,Time,Wounds
+1,Drop Pod Landing,Iron Skull,100%,Easy,Ultramarine,6717,3,38,1624,107.86,57
+1,Drop Pod Landing,Emperor's Laurels,100%,Easy,Ultramarine,,,,,,
+1,Bloodstone Quarry,Iron Skull,100%,Easy,Ultramarine,5357,3,31,1624,57.08,73
+1,Debris Field,Iron Skull,100%,Easy,Ultramarine,3538,3,24,928,42.95,31
+1,Eagle Claw IX,Iron Skull,100%,Easy,Ultramarine,12656,3,42,3696,97.37,78
+1,Artemar's Passage,Iron Skull,100%,Easy,Ultramarine,6180,3,25,1584,51.24,78
+1,Arcaze Road,Iron Skull,100%,Easy,Ultramarine,7309,3,22,1776,57.29,151
+1,Ash Gate South,Iron Skull,100%,Easy,Ultramarine,25766,3,23,7626,154.88,680
+1,Refinery Row I,Iron Skull,100%,Easy,Ultramarine,8873,3,,,,
+1,Refinery Row II,Iron Skull,100%,Easy,Ultramarine,10239,3,,,,
+1,Refinery Row III,Iron Skull,100%,Easy,Ultramarine,9445,3,,,,
+1,Shroud Town Refinery,Iron Skull,100%,Easy,Ultramarine,37228,3,,,,
+1,South East Wall I,Iron Skull,100%,Easy,Ultramarine,14643,3,16,4240,74.71,188
+1,South East Wall II,Iron Skull,100%,Easy,Ultramarine,15325,3,20,3192,57.86,190
+1,South East Wall III,Iron Skull,100%,Easy,Ultramarine,19370,3,23,6344,74.08,281
+1,Perdition's Heart,Iron Skull,100%,Easy,Ultramarine,42306,2,,,,
+1,Heart's Darkness,Iron Skull,100%,Easy,Ultramarine,13108,1,,,,
+2,Heart's Escape,Iron Skull,100%,Easy,Ultramarine,16864,3,,,,
+2,East Watch Tower,Iron Skull,100%,Easy,Ultramarine,25235,3,,,,
+2,Highborn Cliff I,Iron Skull,100%,Easy,Ultramarine,11355,3,,,,
+2,Highborn Cliff II,Iron Skull,100%,Easy,Ultramarine,16016,3,,,,
+2,Ash Gate North,Iron Skull,100%,Easy,Ultramarine,20443,2,,,,
+1,The Eternal Flame,Iron Skull,100%,Easy,Salamander,10220,2,,,,
+1,The Hammer,Iron Skull,100%,Easy,Salamander,9704,2,,,,
+1,The Anvil,Iron Skull,100%,Easy,Salamander,12007,2,,,,
+1,The Forge,Iron Skull,100%,Normal,Salamander,17344,1,,,,
+1,Artemar's Passage,Iron Skull,100%,Easy,Salamander,,3,,,,
+1,Arcaze Road,Iron Skull,100%,Normal,Salamander,,3,,,,
