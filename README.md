@@ -35,6 +35,7 @@ The current list of games includes:
 * Destiny (Alpha)
 * Destiny (Beta)
 * Destiny
+* Driveclub
 * Metal Gear Solid V: Ground Zeroes
 * Resogun
 * Watch_Dogs
