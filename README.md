@@ -48,5 +48,6 @@ The current list of games includes:
 * LittleBigPlanet PS Vita
 * Luftrausers
 * Motorstorm RC
+* OlliOlli 2: Welcome to Olliwood
 * Treasures of Montezuma: Blitz (TOM-blitz)
 * Wipeout 2048
