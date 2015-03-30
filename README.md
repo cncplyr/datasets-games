@@ -22,6 +22,7 @@ The current list of games includes:
 * Counter-Strike: Global Offensive
 * Halo: Spartan Assault
 * Hotline Miami
+* Hotline Miami 2: Wrong Number
 * Microsoft Mahjong
 * Microsoft Sudoku
 * Mini Metro
