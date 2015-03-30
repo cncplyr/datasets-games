@@ -23,6 +23,7 @@ The current list of games includes:
 * Halo: Spartan Assault
 * Hotline Miami
 * Hotline Miami 2: Wrong Number
+* Infinifactory
 * Microsoft Mahjong
 * Microsoft Sudoku
 * Mini Metro
