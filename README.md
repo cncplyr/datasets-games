@@ -38,7 +38,9 @@ The current list of games includes:
 * Destiny (Beta)
 * Destiny
 * Driveclub
+* Geometry Wars 3: Dimensions Evolved
 * Metal Gear Solid V: Ground Zeroes
+* OlliOlli 2: Welcome to Olliwood
 * Resogun
 * Watch_Dogs
 
