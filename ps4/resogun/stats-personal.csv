@@ -1,21 +1,16 @@
-Level,Difficulty,High Score
-Acis,Rookie,9117300
-Acis,Experienced,2267540
-Acis,Veteran,
-Acis,Master,
-Ceres,Rookie,6446340
-Ceres,Experienced,1147830
-Ceres,Veteran,
-Ceres,Master,
-Decima,Rookie,1811700
-Decima,Experienced,
-Decima,Veteran,
-Decima,Master,
-Febris,Rookie,2608520
-Febris,Experienced,
-Febris,Veteran,
-Febris,Master,
-Mefitis,Rookie,4014210
-Mefitis,Experienced,
-Mefitis,Veteran,
-Mefitis,Master,
+Mode,Difficulty,Level,High Score
+Arcade,Rookie,Acis,
+Arcade,Rookie,Ceres,
+Arcade,Rookie,Decima,
+Arcade,Rookie,Febris,
+Arcade,Rookie,Mefitis,
+Single Level,Rookie,Acis,9177300
+Single Level,Rookie,Ceres,6446340
+Single Level,Rookie,Decima,
+Single Level,Rookie,Febris,
+Single Level,Rookie,Mefitis,4014210
+Single Level,Experienced,Acis,2267540
+Single Level,Experienced,Ceres,2223970
+Single Level,Experienced,Decima,
+Single Level,Experienced,Febris,
+Single Level,Experienced,Mefitis,
