@@ -20,10 +20,12 @@ The current list of games includes:
 
 ## PC
 * Counter-Strike: Global Offensive
+* Flight Control HD
 * Halo: Spartan Assault
 * Hotline Miami
 * Hotline Miami 2: Wrong Number
 * Infinifactory
+* Jack Lumber
 * Microsoft Mahjong
 * Microsoft Sudoku
 * Mini Metro
