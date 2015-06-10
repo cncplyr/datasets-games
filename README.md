@@ -12,6 +12,7 @@ The current list of games includes:
 * Don't Touch The Spikes
 * Farmville 2
 * Gun Master 2
+* Jurassic World
 * Motor World Car Factory
 * Retry
 * SpaceChem
