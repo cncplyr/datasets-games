@@ -1,48 +1,70 @@
-Tier,Type,Manufacturer,Model,Game
-One,Classic Muscle,Chevrolet,Camaro Z28,Base
-One,Classic Muscle,Ford,Mustang Mach 1 Twister Special,Base
-One,Hot Hatch,Ford,Focus ST,Base
-One,Sports Coupe,BMW,1 Series M Coupe,Base
-One,Classic Muscle,Dodge,Charger R/T,Base
-One,Sports Coupe,Hyundai,Genesis Coupe,Base
-One,Euro Classic,BMW,E30 Sport Evo,Base
-One,Euro Classic,Mercedes-Benz,190E 2.5-16 Evolution II,Base
-One,Sports Coupe,Alfa Romeo,4C,Base
-One,Hot Hatch,Alfa Romeo,Giulietta Quadrifoglio Verde,Base
-One,Hot Hatch,Volkswagen,Golf R,Base
-One,JDM Classic,Nissan,Silvia Spec-R Aero (S15),Base
-One,Sports Coupe,Subaru,BRZ,Base
-One,JDM Classic,Nissan,Fairlady Z Version S TT 2seater,Base
-Two,Euro,Volkswagen,Golf R (Performance),DLC
-Two,Euro,BMW,1 Series M Coupe (Performance),DLC
-Two,Euro,BMW,E30 (Performance),DLC
-Two,Muscle,Ford,Mustang Mach 1 (Performance),DLC
-Two,Muscle,Chevrolet,Camaro Z28 (Performance),DLC
-Two,Muscle,Dodge,Charger (Performance),DLC
-Two,JDM,Nissan,Nismo R34GT-R Z-Tune,Base
-Two,Muscle,Chevrolet,Camaro SS,Base
-Two,Touring,Chevrolet,Cruze Touring Car,Base
-Two,Touring,BMW,320 Touring Car,Base
-Two,JDM,Mazda,RX7 Type RZ,Base
-Two,Roadster,Honda,S2000,Base
-Two,Muscle,Ford,Mustang Boss 302,Base
-Two,Roadster,Nissan,370Z Roadster,Base
-Two,Euro,BMW,M3 Coupe,Base
-Two,Euro,Mercedes-Benz,C63 AMG,Base
-Two,Muscle,Dodge,Challenger SRT8 392,Base
-Two,Euro,Audi,RS5 Coupe,Base
-Two,Roadster,Audi,TT RS Roadster,Base
-Three,Super Modified,Honda,5Zigen Civic Super Modified,DLC
-Three,Drift,Chevrolet,"""Tyler McQuarrie"" Camaro SS",DLC
-Three,Drift,Nissan,Daijiro Yoshihara 240SX (S13),DLC
-Three,Super Modified,Nissan,Auto Gallery Skyline GT-R (R32),DLC
-Three,Drift,Nissan,Nos Energy 370Z,DLC
-Three,Super Modified,Mazda,Panspeed RX7,DLC
-Three,Super Modified,Subaru,Tomei Cusco Impreza WRX STI,DLC
-Three,Drift,Mitsubishi,Team Orange Evo X,DLC
-Three,GT,SRT,Viper GTS,Base
-Three,GT,Honda,NSX R,Base
-Three,GT,Aston Martin,Vanquish,Base
-Four,GT3,Mercedes-Benz,SLR McLaren 722 GT,Base
-Four,GT3,McLaren,MP4-12C GT3,Base
-Indycar,Indycar,Dallara,Indycar,Base
+Tier,Manufacturer,Model,Class,Game
+One,Alfa Romeo,4C,Sports Coupe,Base
+One,Alfa Romeo,Giulietta Quadrifoglio Verde,Hot Hatch,Base
+One,BMW,1 Series M Coupe,Sports Coupe,Base
+One,BMW,E30 Sport Evo,Euro Classic,Base
+One,Chevrolet,Camaro Z28,Classic Muscle,Base
+One,Dodge,Charger R/T,Classic Muscle,Base
+One,Ford,Focus ST,Hot Hatch,Base
+One,Ford,Mustang Mach 1 Twister Special,Classic Muscle,Base
+One,Hyundai,Genesis Coupe,Sports Coupe,Base
+One,Mercedes-Benz,190E 2.5-16 Evolution II,Euro Classic,Base
+One,Nissan,Fairlady Z Version S TT 2seater,JDM Classic,Base
+One,Nissan,Silvia Spec-R Aero (S15),JDM Classic,Base
+One,Subaru,BRZ,Sports Coupe,Base
+One,Volkswagen,Golf R,Hot Hatch,Base
+Two,Audi,RS5 Coupe,Euro,Base
+Two,Audi,TT RS Roadster,Roadster,Base
+Two,BMW,1 Series M Coupe (Performance),Euro,DLC
+Two,BMW,320 Touring Car,Touring,Base
+Two,BMW,E30 (Performance),Euro,DLC
+Two,BMW,M3 Coupe,Euro,Base
+Two,Chevrolet,Camaro SS,Muscle,Base
+Two,Chevrolet,Camaro Z28 (Performance),Muscle,DLC
+Two,Chevrolet,Cruze Touring Car,Touring,Base
+Two,Dodge,Challenger SRT8 392,Muscle,Base
+Two,Dodge,Charger (Performance),Muscle,DLC
+Two,Ford,Mustang Boss 302,Muscle,Base
+Two,Ford,Mustang Mach 1 (Performance),Muscle,DLC
+Two,Honda,S2000,Roadster,Base
+Two,Mazda,RX-7 Type RZ,JDM,Base
+Two,Mercedes-Benz,C63 AMG,Euro,Base
+Two,Nissan,370Z Roadster,Roadster,Base
+Two,Nissan,Nismo R34GT-R Z-Tune,JDM,Base
+Two,Volkswagen,Golf R (Performance),Euro,DLC
+Three,Alfa Romeo,8C Competizione,GT,Base
+Three,Ariel,Atom 3,Lightweight,Base
+Three,Aston Martin,V12 Zagato,GT,Base
+Three,Aston Martin,Vanquish,GT,Base
+Three,BAC,Mono,Lightweight,Base
+Three,Caterham,SP300R,Lightweight,Base
+Three,Chevrolet,"""Tyler McQuarrie"" Camaro SS",Drift,DLC
+Three,Chevrolet,Corvette Z06,GT,Base
+Three,GC Automobile,GC10-V8,Super Touring,Base
+Three,Honda,5Zigen Civic Super Modified,Super Modified,DLC
+Three,Honda,NSX R,GT,Base
+Three,Jaguar,XKR-S,GT,Base
+Three,KTM,X-Bow R,Lightweight,Base
+Three,Mazda,Panspeed RX7,Super Modified,DLC
+Three,McLaren,MP4-12C,GT,Base
+Three,Mercedes-Benz,SL65 AMG Black Series,GT,Base
+Three,Mitsubishi,Team Orange Evo X,Drift,DLC
+Three,Nissan,Auto Gallery Skyline GT-R (R32),Super Modified,DLC
+Three,Nissan,Daijiro Yoshihara 240SX (S13),Drift,DLC
+Three,Nissan,GT-R SpecV,GT,Base
+Three,Nissan,NOS Energy 370Z,Drift,DLC
+Three,SRT,Viper GTS,GT,Base
+Three,Subaru,Tomei Cusco Impreza WRX STI,Super Modified,DLC
+Three,Volvo,S60 BTCS,Super Touring,Base
+Four,Aston Martin,One-77,Super,Base
+Four,Audi,R8 LMS Ultra,GT3,Base
+Four,Bugatti,Veyron 16.4 Super Sport,Super,Base
+Four,Koenigsegg,Agera R,Super,Base
+Four,McLaren,F1 GT,Super,Base
+Four,McLaren,MP4-12C GT3,GT3,Base
+Four,Mercedes-Benz,SLR McLaren 722,Super,Base
+Four,Mercedes-Benz,SLR McLaren 722 GT,GT3,Base
+Four,Mercedes-Benz,SLS AMG GT3,GT3,Base
+Four,Pagani,Huayra,Super,Base
+Four,Zenvo,ST1,Super,Base
+Indycar,Dallara,Indycar,Indycar,Base
