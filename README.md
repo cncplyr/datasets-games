@@ -33,6 +33,7 @@ The current list of games includes:
 * Mini Metro
 * OlliOlli
 * SpaceChem
+* World of Guns: Gun Disassembly
 
 ## PS3
 * Gran Turismo 5
