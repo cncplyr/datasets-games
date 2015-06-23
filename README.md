@@ -14,6 +14,7 @@ The current list of games includes:
 * Gun Master 2
 * Jurassic World
 * Motor World Car Factory
+* Peak
 * Retry
 * SpaceChem
 * Subway Surfers World Tour
