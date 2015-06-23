@@ -21,8 +21,10 @@ The current list of games includes:
 * Warhammer 40,000: Carnage
 
 ## PC
+* Assetto Corsa
 * Counter-Strike: Global Offensive
 * Flight Control HD
+* GRID 2
 * Halo: Spartan Assault
 * Hotline Miami
 * Hotline Miami 2: Wrong Number
