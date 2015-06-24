@@ -24,6 +24,7 @@ The current list of games includes:
 * Assetto Corsa
 * Counter-Strike: Global Offensive
 * Flight Control HD
+* GRID
 * GRID 2
 * Halo: Spartan Assault
 * Hotline Miami
