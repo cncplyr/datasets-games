@@ -36,6 +36,7 @@ The current list of games includes:
 * Mini Metro
 * OlliOlli
 * SpaceChem
+* Trackmania 2: Valley
 * World of Guns: Gun Disassembly
 
 ## PS3
