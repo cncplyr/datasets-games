@@ -18,6 +18,7 @@ The current list of games includes:
 * Retry
 * SpaceChem
 * Subway Surfers World Tour
+* Tap Titans
 * Warhammer 40,000: Carnage
 
 ## PC
