@@ -50,6 +50,7 @@ The current list of games includes:
 * Driveclub
 * Geometry Wars 3: Dimensions Evolved
 * Metal Gear Solid V: Ground Zeroes
+* Metal Gear Solid V: The Phantom Pain
 * OlliOlli 2: Welcome to Olliwood
 * Resogun
 * Watch_Dogs
