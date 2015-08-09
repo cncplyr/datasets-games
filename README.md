@@ -37,6 +37,7 @@ The current list of games includes:
 * Mini Metro
 * OlliOlli
 * SpaceChem
+* TIS-100
 * Trackmania 2: Valley
 * World of Guns: Gun Disassembly
 

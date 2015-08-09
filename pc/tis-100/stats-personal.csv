@@ -1,0 +1,14 @@
+Segment,Name,Cycles,Nodes,Instructions
+150,Self-Test Diagnostic,83,8,8
+10981,Signal Amplifier,84,4,6
+20176,Differential Converter,203,5,10
+21340,Signal Comparator,278,6,23
+22280,Signal Multiplexer,279,5,17
+30647,Sequence Generator,120,7,20
+31904,Sequence Counter,300,6,24
+32050,Signal Edge Detector,,,
+33762,Interrupt Handler,,,
+40196,Signal Pattern Detector,,,
+41427,Sequence Peak Detector,,,
+42656,Sequence Reverser,,,
+43786,Signal Multiplier,,,
