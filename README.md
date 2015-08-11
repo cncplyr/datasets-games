@@ -19,6 +19,7 @@ The current list of games includes:
 * SpaceChem
 * Subway Surfers World Tour
 * Tap Titans
+* Toast Time
 * Warhammer 40,000: Carnage
 
 ## PC
@@ -38,6 +39,7 @@ The current list of games includes:
 * OlliOlli
 * SpaceChem
 * TIS-100
+* Toast Time
 * Trackmania 2: Valley
 * World of Guns: Gun Disassembly
 
