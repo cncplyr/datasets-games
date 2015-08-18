@@ -10,6 +10,7 @@ The current list of games includes:
 * Crossy Road
 * Disco Zoo
 * Don't Touch The Spikes
+* Fallout Shelter
 * Farmville 2
 * Gun Master 2
 * Jurassic World

@@ -1,0 +1,10 @@
+#,Name,Rarity,Damage Min,Damage Max,Description
+1,Rusty BB Gun,Common,0,1,"After 20 shots, you just might knock a tin can off the fence."
+3,Rusty .32 Pistol,Common,1,1,The least dependable handgun in the Wasteland. Good luck.
+4,.32 Pistol,Common,1,2,Powerful enough to kill an attacker. Barely.
+9,Rusty Scoped .44,Common,3,3,
+10,Enhanced 10mm Pistol,Common,2,4,
+15,Enhanced Lever-Action Rifle,Common,4,6,
+16,Rusty Hunting Rifle,Common,5,5,
+,Double-Barrel Combat Shotgun,Legendary,13,17,Close-range death dealing… x2. Brutal.
+,Minigun,Legendary,19,20,Shred your enemies in a hail of bullets.
