@@ -14,6 +14,7 @@ The current list of games includes:
 * Fallout Shelter
 * Farmville 2
 * Gun Master 2
+* Hitman GO
 * Jurassic World
 * Motor World Car Factory
 * Peak
