@@ -21,6 +21,7 @@ The current list of games includes:
 * Retry
 * SpaceChem
 * Subway Surfers World Tour
+* Super Hexagon
 * Tap Titans
 * Toast Time
 * Warhammer 40,000: Carnage
