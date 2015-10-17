@@ -1,0 +1,44 @@
+Name,Type,Max Power,PVP Damage,Max Fire Rate,Max Stability (%),Max Reload Speed (s),Max Clip Size
+Sten,SMG,520,,11.5,92%,1.9,34
+Cutter 16,SMG,800,,,,,
+MP 40,SMG,1760,,,,,
+PPSH 41,SMG,1650,,,,,
+Golden MP 40,SMG,1760,,,,,
+Bechowiec MK2,SMG,1930,,,,,
+M1 Garand,Rifle,255,,3.22,91%,1.05,
+KAR 98K,Rifle,790,,1,92%,,1
+SVT 40,Rifle,1180,,,,,
+Johnson M1941,Rifle,1600,,,,,
+Golden Johnson M1941,Rifle,1760,,,,,
+Old M1941 LMG,Assault,90,2760,6.9,95%,2.2,23
+M1941 LMG,Assault,500,,,,,
+FG 42,Assault,770,,,,,
+STG 44,Assault,950,,,,,
+Bren,Assault,1210,,,,,
+Golden Bren,Assault,1210,,,,,
+AK-47,Assault,1760,,,,,
+MG 42,Assault,2420,,,,,
+M1903 Scoped,Sniper,360,,1,85%,1.4,
+Crossbow,Sniper,660,,1,,,
+Mosin Nagant,Sniper,1540,,,,,
+G 43 Prototype,Sniper,1250,,,,,
+Golden Mosin Nagant,Sniper,1540,,,,,
+Dragunov,Sniper,2310,,,,,
+M30 Luftwaffe,Shotgun,815,,,,,3
+Ridge-43,Shotgun,1320,,,,,5
+Steele,Shotgun,1600,,,,,6
+Degtyaryov,Anti-Tank,760,,,,,
+Vladimirov,Anti-Tank,1100,,,,,
+PTRS-41,Anti-Tank,1400,,,,,
+Hammerfall,Experimental Anti-Tank,1900,,,,,
+Zmey 22,Experimental Shotgun,2100,,,,,4
+Derwent,Experimental Rifle,2310,,,,,
+Hailstorm,Experimental SMG,2530,,,,-,-
+Thunder Strike,Experimental Anti-Tank,2800,,,,,
+Chornaya Molniya,Experimental Sniper,2640,,,,,
+Sucker Punch,Experimental Shotgun,3150,,,,,6
+Kapetan,Experimental Assault,2970,,,,,
+Mersey,Experimental Rifle,3080,,,,-,-
+Prazis,Experimental SMG,3190,,,,,
+Hexgewehr,Experimental Sniper,3300,,,,,
+TP45,Experimental Assault,3410,,,,,
