@@ -19,6 +19,7 @@ The current list of games includes:
 * Motor World Car Factory
 * Peak
 * Retry
+* Sniper X with Jason Statham
 * SpaceChem
 * Subway Surfers World Tour
 * Super Hexagon
