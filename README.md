@@ -72,5 +72,6 @@ The current list of games includes:
 * Luftrausers
 * Motorstorm RC
 * OlliOlli 2: Welcome to Olliwood
+* Super Meat Boy
 * Treasures of Montezuma: Blitz (TOM-blitz)
 * Wipeout 2048
