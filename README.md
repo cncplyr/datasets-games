@@ -6,6 +6,7 @@ The current list of games includes:
 
 ## Android
 * Adventure Town
+* Atomas
 * Brothers in Arms 3
 * Criminal Legacy
 * Crossy Road
