@@ -18,6 +18,7 @@ The current list of games includes:
 * Hitman GO
 * Jurassic World
 * Motor World Car Factory
+* Need for Speed: No Limits
 * Peak
 * Retry
 * Sniper X with Jason Statham
