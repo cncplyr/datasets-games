@@ -16,6 +16,7 @@ The current list of games includes:
 * Farmville 2
 * Gun Master 2
 * Hitman GO
+* Jack Lumber
 * Jurassic World
 * Motor World Car Factory
 * Need for Speed: No Limits
