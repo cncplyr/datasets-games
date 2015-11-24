@@ -31,6 +31,7 @@ The current list of games includes:
 * Warhammer 40,000: Carnage
 
 ## PC
+* Anno 2205
 * Assetto Corsa
 * Counter-Strike: Global Offensive
 * Flight Control HD
