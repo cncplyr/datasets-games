@@ -1,11 +1,5 @@
-Name,Type,Description
-Olive Drab,Naked,
-Olive Drab,Standard,
-Olive Drab,,
-Tiger Stripe,Naked,
-Tiger Stripe,Standard,
-Tiger Stripe,,
-Battle Dress,Naked,"The standard Sneaking Suit with bulletproof ceramic plates fitted/inserted throughout to act as heavy combat protective gear, greatly increasing protection for the wearer."
-Battle Dress,Standard,"The standard Sneaking Suit with bulletproof ceramic plates fitted/inserted throughout to act as heavy combat protective gear, greatly increasing protection for the wearer."
-Battle Dress,,"The standard Sneaking Suit with bulletproof ceramic plates fitted/inserted throughout to act as heavy combat protective gear, greatly increasing protection for the wearer."
-Solid Snake,,
+Name,Description
+Olive Drab,
+Tiger Stripe,
+Battle Dress,"The standard Sneaking Suit with bulletproof ceramic plates fitted/inserted throughout to act as heavy combat protective gear, greatly increasing protection for the wearer."
+Solid Snake,
