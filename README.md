@@ -78,5 +78,5 @@ The current list of games includes:
 * OlliOlli 2: Welcome to Olliwood
 * Resogun
 * Super Meat Boy
-* Treasures of Montezuma: Blitz (TOM-blitz)
+* Treasures of Montezuma: Blitz
 * Wipeout 2048
