@@ -61,6 +61,7 @@ The current list of games includes:
 * Destiny
 * Driveclub
 * Geometry Wars 3: Dimensions Evolved
+* Just Cause 3
 * Metal Gear Solid V: Ground Zeroes
 * Metal Gear Solid V: The Phantom Pain
 * OlliOlli 2: Welcome to Olliwood
