@@ -1,7 +1,39 @@
-Mission Title,Tapes
-0 - ???,2
-1 - ???,6
-2 - ???,5
-3 - A Hero's Way,5
-4 - C2W,6
-5 - Over the Fence,5
+Mission,Mission Title,Location,GMP,Tasks,Description
+0, [Flashback] Prologue: Awakening,Hospital,0,2,Escape the hospital.
+1,Phantom Limbs,"Northern Kabul, Afghanistan",80000,6,"Rescue your old partner, Kazuhira Miller. He has been captured by the Soviets and is being interrogated at Ghwandai Town."
+2,[Flashback] Diamond Dogs,Mother Base (Seychelles Waters),0,5,
+3,A Hero's Way,"Northern Kabul, Afghanistan",90000,5,
+4,C2W,"Northern Kabul, Afghanistan",100000,6,
+5,Over The Fence,"Northern Kabul, Afghanistan",100000,5,
+6,Where Do The Bees Sleep?,"Northern Kabul, Afghanistan",110000,6,
+7,Red Brass,"Northern Kabul, Afghanistan",110000,7,
+8,Occupation Forces,"Northern Kabul, Afghanistan",120000,7,
+9,"Backup, Back Down","Northern Kabul, Afghanistan",130000,8,
+10,Angel With Broken Wings,"Northern Kabul, Afghanistan",120000,5,
+11,Cloaked In Silence,"Northern Kabul, Afghanistan",130000,4,
+12,Hellbound,"Northern Kabul, Afghanistan",65000,6,
+13,Pitch Dark,Angola-Zaire Border Region,75000,6,
+14,Lingua Franca,Angola-Zaire Border Region,75000,7,
+15,Footprints Of Phantoms,Angola-Zaire Border Region,75000,5,
+16,Traitors' Caravan,Angola-Zaire Border Region,85000,8,
+17,Rescue The Intel Agents,Angola-Zaire Border Region,85000,6,
+18,Blood Runs Deep,Angola-Zaire Border Region,85000,8,
+19,On The Trail,Angola-Zaire Border Region,85000,7,
+20,Voices,Angola-Zaire Border Region,85000,6,
+21,The War Economy,Angola-Zaire Border Region,85000,8,
+22,Retake The Platform,Mother Base (Seychelles Waters),95000,1,
+23,The White Mamba,Angola-Zaire Border Region,95000,5,
+24,Close Contact,Angola-Zaire Border Region,95000,7,
+25,"Aim True, Ye Vengeful",Angola-Zaire Border Region,95000,6,
+26,Hunting Down,Angola-Zaire Border Region,95000,6,
+27,Root Cause,Angola-Zaire Border Region,95000,3,
+28,Code Talker,Angola-Zaire Border Region,105000,6,
+29,Metallic Archaea,Angola-Zaire Border Region,105000,4,
+30,Skull Face,"Northern Kabul, Afghanistan",105000,6,
+31,Sahelanthropus,"Northern Kabul, Afghanistan",105000,3,
+32,To Know Too Much,"Northern Kabul, Afghanistan",105000,6,
+33,[Subsistence] C2W,"Northern Kabul, Afghanistan",300000,6,
+34,"[Extreme] Backup, Back Down","Northern Kabul, Afghanistan",420000,8,
+35,Cursed Legacy,Angola-Zaire Border Region,250000,6,
+36,[Total Stealth] Footprints of the Phantoms,Angola-Zaire Border Region,500000,5,
+37,[Extreme] Traitors' Caravan,Angola-Zaire Border Region,500000,8,

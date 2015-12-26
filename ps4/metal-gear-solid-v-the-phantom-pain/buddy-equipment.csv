@@ -1,8 +1,17 @@
 Buddy,Type,Name,Description
-D-Dog,Uniform,Naked,Naked D-Dog.
-D-Horse,Uniform,Battle Dress,Battledress for D-Horse. Reinforced with bulletproof ceramic plates fitted/inserted throughout.
-Quiet,Uniform,Naked,
+D-Horse,Equipment,Normal,Standard tactical loadout for D-Horse.
+D-Horse,Equipment,Battle Dress,Battledress for D-Horse. Reinforced with bulletproof ceramic plates fitted/inserted throughout.
+D-Horse,Equipment,Furicorn,"Costume for D-Horse. Jet black loadout inspired by the Man on Fire's horse, though it doesn't envelop its wearer in flames or grant any other special abilities."
+D-Dog,Equipment,Naked,"Naked D-Dog. Use the ""Keep 'em busy"" command to hae him keep an enemy busy."
+D-Dog,Equipment,Sneaking (Knife),"Sneaking Suit for D-Dog. Equipped with a knife. Use the ""Do it (kill enemy)"" command to have him kill an enemy."
+D-Dog,Equipment,Sneaking (Stun),"Sneaking Suit for D-Dog. Equipped with a stun knife. Use the ""Do it (knock out enemy)"" command to have him kill an enemy."
+D-Dog,Equipment,Tactical (Fulton),"Tactical vest for D-Dog. Equipped with a Fulton extraction device. Use the ""Get it"" command to have him Fulton extract neutralized soldiers and prisoners."
+Quiet,Uniform,Naked,"Quiet custom combat gear. Exposes the maximum amount of skin, supposedly so as not to impede her transcutaneous respiration."
+Quiet,Uniform,Naked (Blood),A special blood-soaked Naked uniform that Quiet wears only for those who fight by her side. The fake blood is designed to strike fear into enemies.
+Quiet,Uniform,Naked (Silver Q),A special silver Naked uniform that Quiet wears only for those who have earned her trust. Its magnificent radiance will… leave enemies awestruck?
+Quiet,Uniform,Naked (Gold Q),A special golden Naked uniform that Quiet wears only for those she feels a close bond with. Its magnificent radiance wil… leave enemies awestruck?
+Quiet,Uniform,Gray XOF,"Standard gray combat fatigues worn by Cipher's covert strike force, XOF."
 Quiet,Uniform,Sniper Wolf,
+Quiet,Weapon,Wicked Butterfly,"RENOV-ICKX sniper rifle customized by Quiet. Fitted with a laser sight for improved accuracy. Nicknamed ""Wicked Butterfly."""
 Quiet,Weapon,Guilty Butterfly,"RENOV-ICKX sniper rifle customized by Quiet. Fires tranquilizer rounds at subsonic speeds, for improved accuracy. Nicknamed ""Guilty Butterfly."""
 Quiet,Weapon,Sinful Butterfly,"Brennan LRS-46 sniper rifle customized by Quiet. Uses special handloaded ammunition packed with the maxiumum amount of gunpowder, for severe stopping power. Nicknamed ""Sinful Butterfly."""
-Quiet,Weapon,Wicked Butterfly,
