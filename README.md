@@ -53,6 +53,7 @@ The current list of games includes:
 * World of Guns: Gun Disassembly
 
 ## PS3
+* Gran Turismo 5 Prologue
 * Gran Turismo 5
 
 ## PS4
