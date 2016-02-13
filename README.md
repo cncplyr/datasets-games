@@ -24,6 +24,7 @@ The current list of games includes:
 * Retry
 * Sniper X with Jason Statham
 * SpaceChem
+* Star Trek: Timelines
 * Subway Surfers World Tour
 * Super Hexagon
 * Tap Titans

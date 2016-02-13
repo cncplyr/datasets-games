@@ -1,0 +1,9 @@
+Crew,Rarity,Stars,Level,Command,Diplomacy,Security,Engineering,Science,Medicine,Traits,Passive Ship Stat Bonuses,Equipment 1,Equipment 2,Equipment 3,Equipment 4
+Ensign Crusher,Rare,1,20,40 + (4-6),,,49 + (8-18),81 + (9-17),,"Human, Federation, Starfleet, Prodigy",Accuracy: 20,Starfleet Command Uniform,Wrench,Engineering Lesson,
+Security Chief Tuvok,Rare,2,20,59 + (16-44),,80 + (13-27),,33 + (7-13),,"Vulcan, Federation, Starfleet, Telepath",Accuracy: 10,Starfleet Security Uniform,Kal-Toh,,Writing PADD
+CMO Crusher,Uncommon,2,20,,,,,,79 + (6-12),"Human, Starfleet, Federation, Doctor, Caregiver, Cyberneticist","Accuracy: 20, Evasion: 10",Medical Coat,Hypospray,,Ethnobotonay Experiment
+Enterprise-D Picard,Uncommon,2,20,60 + (5-15),77 + (7-15),,,30 + (3-13),,"Federation, Starfleet, Human, Diplomat, Inspiring, Astrophysicist, Exoarchaeology, Tactician","Accuracy: 10, Evation: 10",Diplomatic Dress Uniform,,Archaeology Text,
+Lt Tasha Yar,Uncommon,2,10,,,51 + (7-15),,,,"Human, Starfleet, Federation",Accuracy: 10,Starfleet Uniform,Phaser Type 2,Security Codes,Security Reports
+Lt Tasha Yar,Uncommon,1,10,,,51 + (7-15),,,,"Human, Starfleet, Federation",,,Phaser Type 2,Security Codes,Security Reports
+Lt Tasha Yar,Uncommon,1,10,,,51 + (7-15),,,,"Human, Starfleet, Federation",Accuracy: 10,Starfleet Uniform,Phaser Type 2,Security Codes,Security Reports
+Security Chief Worf,Uncommon,1,20,49 + (5-15),,65 + (7-15),,,,"Klingon, Federation, Starfleet, Duelist","Accuracy: 10, CritChance: 10",Starfleet Security Uniform,Phaser Type 1,,
