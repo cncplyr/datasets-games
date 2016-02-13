@@ -21,6 +21,7 @@ The current list of games includes:
 * Motor World Car Factory
 * Need for Speed: No Limits
 * Peak
+* Rapala Fishing - Daily Catch
 * Retry
 * Sniper X with Jason Statham
 * SpaceChem
