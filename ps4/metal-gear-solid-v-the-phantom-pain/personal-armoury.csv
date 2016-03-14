@@ -1,24 +1,24 @@
 Name,Type,Amount,Unit Value
 VOL-GA K12,Placed Weapon,74,12000
-HMG-3 WINGATE,Placed Weapon,109,12000
-M2A-304 MORTAR,Placed Weapon,196,9000
+HMG-3 WINGATE,Placed Weapon,116,12000
+M2A-304 MORTAR,Placed Weapon,200,9000
 ZHIZDRA-45,Placed Weapon,23,20000
 M276 AA G-GUN,Placed Weapon,43,20000
 ZaAZ-S84/4W,Vehicle,29,20000
-APE T-41LV,Vehicle,48,20000
-ZI-GRA 6T,Vehicle,17,30000
-BOAR-53CT,Vehicle,37,30000
+APE T-41LV,Vehicle,49,20000
+ZI-GRA 6T,Vehicle,15,30000
+BOAR-53CT,Vehicle,38,30000
 ZHUK BR-3,Vehicle,14,50000
 STOUT IFV-SC,Vehicle,26,50000
 ZHUK RS-ZO,Vehicle,39,70000
-STOUT IFV-FS,Vehicle,18,70000
+STOUT IFV-FS,Vehicle,22,70000
 TT77 NOSOROG,Vehicle,30,100000
-M84A MAGLOADER,Vehicle,34,100000
+M84A MAGLOADER,Vehicle,36,100000
 WG.PP,Walker Gear,17,50000
 CCCP-WG TYPE-C,Walker Gear,18,50000
 CCCP-WG TYPE-A,Walker Gear,19,50000
 CFA-WF TYPE-C,Walker Gear,25,50000
 CFA-WG TYPE-A,Walker Gear,20,50000
-Armor Parasites,Parasite,26,10
+Armor Parasites,Parasite,18,10
 Nuclear Weapon,Nuclear Weapon,0,750000
 Nuclear Waste,Nuclear Weapon,1,100000
