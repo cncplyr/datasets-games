@@ -12,6 +12,7 @@ The current list of games includes:
 * Crossy Road
 * Disco Zoo
 * Don't Touch The Spikes
+* Fading Light
 * Fallout Shelter
 * Farmville 2
 * Gun Master 2
@@ -30,6 +31,7 @@ The current list of games includes:
 * Super Hexagon
 * Tap Titans
 * Toast Time
+* Total War Battles: Kingdom
 * Warhammer 40,000: Carnage
 
 ## PC
