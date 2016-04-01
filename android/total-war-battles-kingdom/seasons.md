@@ -11,5 +11,14 @@
 - Butchering Sheep produces much less food
 
 # Autumn
+- It's the rainy season, watch out for floods!
+- The Tavern produces silver faster
+- The Blacksmith produces silver much slower
+- The Quarry prospects and mines much faster
+- Butchering Sheep produces more food
+- Wheat Fields grow slower
+- Construction is much slower
+- Trees grow much slower
+- Grass grows much slower
 
 # Winter
