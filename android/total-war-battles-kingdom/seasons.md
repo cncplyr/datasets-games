@@ -22,3 +22,10 @@
 - Grass grows much slower
 
 # Winter
+- The water has frozen but the thin ice can be broken
+- The Blacksmith and Tavern produce silver faster
+- Construction is much faster
+- Butchering Sheep provides much more food
+- Wheat fields decay
+- Trees and grass freeze and stop growing
+- The Quarry prospects and mines slower
