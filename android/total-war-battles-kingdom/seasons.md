@@ -1,4 +1,9 @@
 # Spring
+- Wheat Fields grow faster
+- Trees and Grass grow much faster
+- The Quarry prospects and mines faster
+- Construction is much slower
+- Butchering Sheep provides less food
 
 # Summer
 - Water evaporates faster, beware of droughts!

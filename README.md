@@ -19,6 +19,7 @@ The current list of games includes:
 * Hitman GO
 * Jack Lumber
 * Jurassic World
+* Miitomo
 * Motor World Car Factory
 * Need for Speed: No Limits
 * Peak
