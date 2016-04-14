@@ -1,9 +1,11 @@
-Level,Name,Style Points Required
-1,Stylist,0
-2,,10
-3,Original Stylist,20
-4,,30
-5,Boutique Stylist,40
-6,Celebrity Stylist,60
-7,World-Famous Stylist,80
-8,,100
+Level,Name,Style Points Required,Reward
+1,Stylist,0,1x Game Ticket
+2,Natural Stylist,10,1x Game Ticket
+3,Original Stylist,20,1x Game Ticket
+4,Innovative Stylist,30,1x Game Ticket
+5,Boutique Stylist,40,1x Style Lvl. 5 Hat
+6,Celebrity Stylist,60,1x Game Ticket
+7,World-Famous Stylist,80,1x Game Ticket
+8,Genius Stylist,100,
+9,Ultimate Stylist,130,
+10,,160,

@@ -1,0 +1,3 @@
+Title,Effect,Applicable Buildings,Demand,Name,Description
+Priest,"The Order cool down is reduced by 5% in this church the priest is assigned to",Church,Have 3 rank 2 Churches,Gabriel Ketting,"Gabriel, dissatisfied with simply aiding those that enter his church, can often be seen blessing troops before battle and praying for the fallen afterwards."
+Irrigation Master,"Wheat fields around a Farm can grow on unfertile land",Farm,Have 50 wetlands,Stefan of Germania,"Hailing from Germania, Stefan brings his knowledge of dowsing and irrigation, which has helped return acres of arid ground to fertile farmland."
