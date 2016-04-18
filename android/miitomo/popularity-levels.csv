@@ -1,3 +1,21 @@
-Level,Name,Popularity Points Required
-1,Friend,0
-2,,30
+Level,Name,Popularity Points Required,Reward
+1,Friend,0,1x Game Ticket
+2,Good Friend,30,1x Game Ticket
+3,,,1x Game Ticket
+4,Super Friend,,1x Game Ticket
+5,Mega Friend,,1x Popularity Lvl. 5 Hat
+6,Hyper Friend,,1x Game Ticket
+7,,,1x Game Ticket
+8,,,1x Game Ticket
+9,,,1x Game Ticket
+10,,,1x Popularity Lvl. 10 Hat
+11,Cool Kitty,,1x Game Ticket
+12,,,1x Game Ticket
+13,,,1x Game Ticket
+14,,,1x Game Ticket
+15,Mega Cool Cat,,1x Popularity Lvl. 15 Hat
+16,Hyper Cool Cat,,1x Game Ticket
+17,Super Ultra Cool Cat,,1x Game Ticket
+18,Super Ultra Mega Cool Cat,,1x Game Ticket
+19,Super Ultra Mega Hyper Cool Cat,,1x Game Ticket
+20,,,
