@@ -34,6 +34,7 @@ The current list of games includes:
 * Toast Time
 * Total War Battles: Kingdom
 * Warhammer 40,000: Carnage
+* Warhammer 40,000: Freeblade
 
 ## PC
 * Anno 2205
