@@ -73,6 +73,7 @@ The current list of games includes:
 * Metal Gear Solid V: The Phantom Pain
 * OlliOlli 2: Welcome to Olliwood
 * Resogun
+* The Division
 * Watch_Dogs
 
 ## PS Vita
