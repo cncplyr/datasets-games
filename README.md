@@ -26,6 +26,7 @@ The current list of games includes:
 * Rapala Fishing - Daily Catch
 * Retry
 * Sniper X with Jason Statham
+* Snowboarding : The Fourth Phase
 * SpaceChem
 * Star Trek: Timelines
 * Subway Surfers World Tour
