@@ -1,0 +1,38 @@
+Collection,Outfit,Score Bonus,Trade Requirements
+Pacific,Cherry Red,+0.1,
+Pacific,Slim Green,+0.1,
+Pacific,Arctic Orange,+0.1,
+Pacific,Tech Purple,+0.1,
+Pacific,Slim Blue,+0.1,
+Pacific,Dijon Puffy,+0.1,
+Baltic,Weekend Warrior,+0.1,
+Baltic,Slim Orange,+0.1,
+Baltic,Arctic Coach,+0.1,
+Baltic,Euro King,+0.1,
+Baltic,Slim Lemon,+0.1,
+Baltic,Arctic Viking,+0.1,
+Chekhov,Igor Puffy,+0.1,
+Chekhov,Mashuk Grey,+0.1,
+Chekhov,Kazbek Kit,+0.1,
+Chekhov,Boris Green,+0.1,
+Chekhov,Volcano Orange,+0.1,
+Chekhov,Kamchatka Puffy,+0.1,
+Hidaka,Method Camo,+0.3,2x Pacific Cherry Red
+Hidaka,Special Camo,+0.3,"1x Pacific Cherry Red, 1x Pacific Slim Green"
+Hidaka,Jungle Camo,+0.4,"1x Pacific Cherry Red, 1x Pacific Slim Green, 1x Pacific Arctic Orange"
+Hidaka,Desert Camo,+0.5,"1x Pacific Cherry Red, 1x Pacific Slim Green, 1x Pacific Arctic Orange, 1x Pacific Tech Purple"
+Hidaka,Eastern Camo,+0.6,"1x Pacific Cherry Red, 1x Pacific Slim Green, 1x Pacific Arctic Orange, 1x Pacific Tech Purple, 1x Pacific Slim Blue"
+Hidaka,Snow Camo,+0.7,"1x Pacific Cherry Red, 1x Pacific Slim Green, 1x Pacific Arctic Orange, 1x Pacific Tech Purple, 1x Pacific Slim Blue, 1x Pacific Dijon Puffy"
+Gustaave,Lumber Green,+0.3,2x Baltic Weekend Warrior
+Gustaave,Coverboy Yellow,+0.3,"1x Baltic Weekend Warrior, 1x Baltic Slim Orange"
+Gustaave,Airtime Plaid,+0.4,"1x Baltic Weekend Warrior, 1x Baltic Slim Orange, 1x Baltic Arctic Coach"
+Gustaave,Blue Plaid,,
+Gustaave,Pumpkin Plaid,,
+Gustaave,Lumberjack,,
+Callaghan,Lift Line Blue,,
+Callaghan,Lift Line Green,,
+Callaghan,Checkmate Green,,
+Callaghan,Euro King 2,,
+Callaghan,Checkmate Slim,,
+Callaghan,Checkmate Grey,,
+Bralorne,Canuck Flyer,+0.7,

@@ -1,0 +1,25 @@
+Collection,Snowboard,Score Bonus,Trade Requirements
+Slashblaster,Freestyle 155,+0.1,
+Slashblaster,All Mountain 160,+0.1,
+Slashblaster,Cruiser 170,+0.1,
+Slashblaster,Freestyle 157,+0.1,
+Slashblaster,All Mountain 165,+0.1,
+Slashblaster,Cruiser 175,+0.1,
+Aeroflight,Freestyle 155,+0.1,
+Aeroflight,All Mountain 160,+0.1,
+Aeroflight,Cruiser 170,+0.1,
+Aeroflight,Freestyle 157,+0.1,
+Aeroflight,All Mountain 165,+0.1,
+Aeroflight,Cruiser 175,+0.1,
+Balmair,Freestyle 155,+0.1,
+Balmair,All Mountain 160,+0.1,
+Balmair,Cruiser 170,+0.1,
+Balmair,Freestyle 157,+0.1,
+Balmair,All Mountain 165,+0.1,
+Balmair,Cruiser 175,+0.1,
+Kwan Dive,Freestyle 155,+0.3,2x Slashblaster Freestyle 155
+Kwan Dive,All Mountain 160,+0.3,"1x Slashblaster Freestyle 155, 1x Slashblaster All Mountain 160"
+Kwan Dive,Cruiser 170,+0.4,"1x Slashblaster Freestyle 155, 1x Slashblaster All Mountain 160, 1x Slashblaster Cruiser 170"
+Kwan Dive,Freestyle 157,+0.5,"1x Slashblaster Freestyle 155, 1x Slashblaster All Mountain 160, 1x Slashblaster Cruiser 170, 1x Slashblaster Freestyle 157"
+Kwan Dive,All Mountain 165,+0.6,"1x Slashblaster Freestyle 155, 1x Slashblaster All Mountain 160, 1x Slashblaster Cruiser 170, 1x Slashblaster Freestyle 157, 1x Slashblaster All Mountain 165"
+Kwan Dive,Cruiser 175,+0.7,"1x Slashblaster Freestyle 155, 1x Slashblaster All Mountain 160, 1x Slashblaster Cruiser 170, 1x Slashblaster Freestyle 157, 1x Slashblaster All Mountain 165, 1x Slashblaster Cruiser 175"
