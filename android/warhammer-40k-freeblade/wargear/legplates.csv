@@ -1,0 +1,8 @@
+Name,Rarity,Rating,Slots,Strength,Toughness,Bonus
+Warrior Sabatons,Uncommon,64,0/2,0,15,+3.4% Critical Strike Damage
+Thorian Sabatons of Wounding,Rare,55,0/3,0,5,"+1.5% Critical Strike Chance, +6.0% Critical Strike Damage"
+Stygies Greaves of Death,Rare,55,0/3,0,3,"+0.9% Critical Strike Chance, +6.6% Critical Strike Damage, Chance on kill: +2.0% Armor restored over 2.0s"
+Defender's Greaves,Uncommon,40,0/2,3,0,+8.1% Critical Strike Damage
+Urdesh-pattern Leg Guards of Heroism,Rare,30,0/3,4,4,+1.9% Critical Strike Chance
+Dented Legplates,Common,24,0/0,0,10,
+Reinforced Leg Guards,Uncommon,20,1/2,0,0,"+3.5% Critical Strike Chance, +2.8% Critical Strike Damage"

@@ -1,0 +1,4 @@
+Name,Rarity,Rating,Slots,Damage Per Second,Rounds Per Second,Round Capacity,Reload,Strength,Toughness,Bonus
+Stubber of Vindication,Epic,60,0/4,770,16,51,1.8,7,0,+0.9% Critical Strike Chance
+Stubber,Uncommon,44,0/2,760,16,45,2.1,0,0,
+Stubber of the Reborn,Legendary,35,0/5,584,15,52,1.6,3,5,"+1.1% Critical Strike Chance, +1.9% Critical Strike Damage, Chance on block: +2.0% Damage reduction for 5.0s"
