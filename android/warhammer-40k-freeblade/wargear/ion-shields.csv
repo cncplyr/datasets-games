@@ -1,5 +1,6 @@
 Name,Rarity,Rating,Slots,Shield Strength,Charges,Recharge (Secs),Toughness,Bonus
-Ion Shield of Annihilation,Epic,60,2/4,1010,4,5.5,+9,+2.4% Critical Strike Chance; +3.0% Bonus damage against Chaos
+Ion Shield of Decimation,Epic,90,0/4,1500,4,5.4,0,"+4.3% Critical Strike Chance, +7.3% Critical Strike Damage"
+Ion Shield of Annihilation,Epic,60,2/4,1010,4,5.5,9,+2.4% Critical Strike Chance; +3.0% Bonus damage against Chaos
 Ion Shield of Destruction,Rare,60,0/3,1092,3,6,19,
 Ion Shield,Uncommon,44,0/2,858,2,6.4,0,
 Ion Shield,Uncommon,44,0/2,880,2,6.5,0,
