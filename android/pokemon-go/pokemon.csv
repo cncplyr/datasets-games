@@ -1,0 +1,39 @@
+Pokemon,CP,HP,Weight,W XL/XS,Height,H XL/XS,Attack,Special
+Charmander,12,10,14.31,XL,0.76,XL,Scratch,Flamethrower
+Squirtle,37,16,12.21,XL,0.6,,Bubble,Aqua Jet
+Weedle,47,23,3.56,,0.31,,Poison Sting,Struggle
+Weedle,16,13,2.99,,0.31,,Poison Sting,Struggle
+Weedle,15,15,3.38,,0.32,,Bug Bite,Struggle
+Pidgey,90,27,0.63,XS,0.22,XS,Tackle,Aerial Ace
+Pidgey,79,24,1.45,,0.25,,Quick Attack,Air Cutter
+Pidgey,38,17,1.06,XS,0.26,,Tackle,Twister
+Pidgey,27,14,2.6,XL,0.32,,Quick Attack,Twister
+Pidgeotto,80,29,21.29,XS,0.94,,Wing Attack,Twister
+Pidgeotto,49,22,33.55,,1.03,,Steel Wing,Twister
+Pidgeotto,15,12,41.01,XL,1.28,,Steel Wing,Aerial Ace
+Rattata,102,24,3.41,,0.29,,Quick Attack,Dig
+Rattata,71,20,4.03,,0.31,,Tackle,Dig
+Rattata,68,21,2.34,XS,0.25,,Tackle,Dig
+Rattata,37,14,4.51,XL,0.35,,Quick Attack,Dig
+Rattata,10,10,3.61,,0.28,,Tackle,Body Slam
+Raticate,212,38,18.5,,0.68,,Bite,Hyper Fang
+Spearow,93,29,1.93,,0.31,,Peck,Drill Peck
+Spearow,80,23,1.72,,0.26,,Quick Attack,Twister
+Spearow,40,19,2.98,XL,0.37,,Peck,Drill Peck
+Spearow,26,14,2.44,,0.31,,Peck,Drill Peck
+Nidoran (M),10,10,9.49,,0.51,,Peck,Horn Attack
+Zubat,99,28,5.29,XS,0.73,,Bite,Poison Fang
+Zubat,95,26,6.78,,0.75,,Bite,Sludge Bomb
+Zubat,84,26,8.66,,0.86,,Quick Attack,Sludge Bomb
+Zubat,37,17,5.65,,0.77,,Bite,Air Cutter
+Zubat,37,17,5.51,XS,0.79,,Quick Attack,Sludge Bomb
+Oddish,131,28,4.87,,0.47,,Razor Leaf,Sludge Bomb
+Oddish,130,28,5.94,,0.53,,Razor Leaf,Moonblast
+Meowth,44,17,4.36,,0.38,,Scratch,Night Slash
+Meowth,30,15,3.63,,0.4,,Scratch,Body Slam
+Psyduck,104,26,14.03,XS,0.73,,Zen Headbutt,Aqua Tail
+Poliwag,51,17,8.92,XS,0.55,,Bubble,Bubble Beam
+Poliwhirl,16,12,25.17,XL,1.15,,Bubble,Scald
+Slowpoke,85,41,26.05,XS,0.98,,Water Gun,Psychic
+Slowpoke,79,40,24.16,XS,0.95,,Confusion,Water Pulse
+Doduo,54,17,42.44,,1.32,,Peck,Swift
