@@ -73,6 +73,7 @@ The current list of games includes:
 * Just Cause 3
 * Metal Gear Solid V: Ground Zeroes
 * Metal Gear Solid V: The Phantom Pain
+* No Man's Sky
 * OlliOlli 2: Welcome to Olliwood
 * Resogun
 * The Division
