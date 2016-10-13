@@ -10,6 +10,7 @@ The current list of games includes:
 * Brothers in Arms 3
 * Criminal Legacy
 * Crossy Road
+* CSR Racing 2
 * Disco Zoo
 * Don't Touch The Spikes
 * Fading Light
