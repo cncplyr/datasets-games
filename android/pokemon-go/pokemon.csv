@@ -1,112 +1,140 @@
-Pokemon,CP,HP,Weight,W XL/XS,Height,H XL/XS,Attack,Special,IV Att,IV Def,IV Sta
-Bulbasaur,511,55,9.8,XL,0.8,,Tackle,Power whip,0,13,3
-Charmander,12,10,14.31,XL,0.76,XL,Scratch,Flamethrower,,,
-Squirtle,435,56,7.73,,0.5,,Tackle,Water Pulse,,,
-Squirtle,427,55,7.53,,0.49,,Tackle,Aqua Tail,,,
-Squirtle,37,16,12.21,XL,0.6,,Bubble,Aqua Jet,,,
-Wartortle,501,54,4.39,XS,0.78,,Bite,Ice Beam,14,10,0
-Caterpie,146,46,2.45,,0.27,,Bug Bite,Struggle,6,6,0
-Caterpie,116,39,3.91,XL,0.35,,Bug Bite,Struggle,,,
-Caterpie,112,41,2.49,,0.31,,Tackle,Struggle,,,
-Metapod,185,62,4.26,XS,0.74,,Bug Bite,Struggle,,,
-Butterfree,686,72,32,,1.03,,Confusion,Signal Beam,,,
-Weedle,155,48,3.55,,0.32,,Poison Sting,Struggle,,,
-Weedle,68,28,3,,0.31,,Poison Sting,Struggle,,,
-Weedle,47,23,3.56,,0.31,,Poison Sting,Struggle,,,
-Weedle,16,13,2.99,,0.31,,Poison Sting,Struggle,,,
-Weedle,15,15,3.38,,0.32,,Bug Bite,Struggle,,,
-Beedrill,954,92,29.5,,0.98,,Poison Jab,Aerial Ace,14,15,13
-Beedrill,624,75,23.8,,0.99,,Poison Jab,X-Scissor,,,
-Pidgey,140,35,1.77,,0.29,,Quick Attack,Air Cutter,,,
-Pidgey,127,31,1.88,,0.32,,Quick Attack,Twister,,,
-Pidgey,107,29,1.88,,0.27,,Quick Attack,Twister,,,
-Pidgey,105,27,1.24,XS,0.25,,Tackle,Air Cutter,,,
-Pidgey,94,27,1.83,,0.29,,Quick Attack,Aerial Ace,,,
-Pidgey,90,27,0.63,XS,0.22,XS,Tackle,Aerial Ace,,,
-Pidgey,79,24,1.45,,0.25,,Quick Attack,Air Cutter,,,
-Pidgey,38,17,1.06,XS,0.26,,Tackle,Twister,,,
-Pidgey,27,14,2.6,XL,0.32,,Quick Attack,Twister,,,
-Pidgeotto,441,67,21.28,XS,1.06,,Steel Wing,Aerial Ace,,,
-Pidgeotto,436,67,48.75,XL,1.31,,Steel Wing,Twister,,,
-Pidgeotto,433,68,27.38,,1.02,,Wing Attack,Air Cutter,,,
-Pidgeotto,80,29,21.29,XS,0.94,,Wing Attack,Twister,,,
-Pidgeotto,49,22,33.55,,1.03,,Steel Wing,Twister,,,
-Pidgeotto,15,12,41.01,XL,1.28,,Steel Wing,Aerial Ace,,,
-Pidgeot,1155,106,38.28,,1.47,,Steel Wing,Aerial Ace,,,
-Pidgeot,1146,106,39.5,,1.69,,Steel Wing,Hurricane,,,
-Rattata,107,24,3.71,,0.3,,Tackle,Hyper Fang,,,
-Rattata,106,26,4.38,XL,0.35,,Quick Attack,Hyper Fang,,,
-Rattata,102,24,3.41,,0.29,,Quick Attack,Dig,,,
-Rattata,1,20,5.23,XL,0.36,,Tackle,Dig,,,
-Rattata,71,20,4.03,,0.31,,Tackle,Dig,,,
-Rattata,68,21,2.34,XS,0.25,,Tackle,Dig,,,
-Rattata,37,14,4.51,XL,0.35,,Quick Attack,Dig,,,
-Rattata,24,12,1.99,XS,0.24,,Quick Attack,Hyper Fang,,,
-Rattata,24,12,4.94,XL,0.35,,Quick Attack,Body Slam,,,
-Rattata,21,10,3.21,,0.27,,Tackle,Hyper Fang,,,
-Rattata,10,10,3.61,,0.28,,Tackle,Body Slam,,,
-Raticate,866,77,17.33,,0.73,,Quick Attack,Hyper Beam,9,15,13
-Raticate,616,64,4.24,XS,0.51,XS,Quick Attack,Dig,,,
-Raticate,420,53,6.45,XS,0.7,,Bite,Hyper Fang,,,
-Raticate,212,38,18.5,,0.68,,Bite,Hyper Fang,,,
-Spearow,223,41,0.96,XS,0.25,,Quick Attack,Aerial Ace,,,
-Spearow,93,29,1.93,,0.31,,Peck,Drill Peck,,,
-Spearow,80,23,1.72,,0.26,,Quick Attack,Twister,,,
-Spearow,40,19,2.98,XL,0.37,,Peck,Drill Peck,,,
-Spearow,26,14,2.44,,0.31,,Peck,Drill Peck,,,
-Fearow,956,84,5.2,XS,1.13,,Peck,Drill Run,,,
-Ekans,444,48,4.94,XS,1.7,,Poison Sting,Sludge Bomb,,,
-Arbok,970,78,46.55,XS,2.98,,Acid,Sludge Wave,,,
-Pikachu,431,45,6.49,,0.41,,Quick Attack,Thunderbolt,,,
-Sandshrew,452,68,11.11,,0.58,,Scratch,Dig,14,15,15
-Sandshrew,328,59,10.29,,0.54,,Scratch,Rock Slide,,,
-Sandslash,765,84,26.69,,0.88,,Mud Shot,Bulldoze,,,
-Nidoran (M),10,10,9.49,,0.51,,Peck,Horn Attack,,,
-Zubat,99,28,5.29,XS,0.73,,Bite,Poison Fang,,,
-Zubat,95,26,6.78,,0.75,,Bite,Sludge Bomb,,,
-Zubat,84,26,8.66,,0.86,,Quick Attack,Sludge Bomb,,,
-Zubat,37,17,5.65,,0.77,,Bite,Air Cutter,,,
-Zubat,37,17,5.51,XS,0.79,,Quick Attack,Sludge Bomb,,,
-Oddish,131,28,4.87,,0.47,,Razor Leaf,Sludge Bomb,,,
-Oddish,130,28,5.94,,0.53,,Razor Leaf,Moonblast,,,
-Gloom,938,80,6.94,,0.86,,Acid,Moonblast,,,
-Gloom,854,76,8.3,,1.06,XL,Acid,Sludge Bomb,,,
-Venonat,500,71,25.86,,0.93,,Bug Bite,Poison Fang,,,
-Venonat,439,72,41.05,XL,1.1,,Bug Bite,Psybeam,,,
-Venonat,353,63,34.64,,1.05,,Confusion,Signal Beam,,,
-Venonat,252,51,54.97,XL,1.36,XL,Confusion,Poison Fang,,,
-Venonat,189,46,39.31,XL,1.05,,Confusion,Poison Fang,,,
-Venonat,175,46,16.33,XS,0.79,,Bug Bite,Signal Beam,,,
-Venonat,14,21,38.14,XL,1.12,,Bug Bite,Poison Fang,,,
-Venomoth,196,39,12.13,,1.4,,Confusion,Bug Buzz,15,15,13
-Meowth,413,56,4.02,,0.41,,Scratch,Dark Pulse,,,
-Meowth,117,29,4.39,,0.4,,Scratch,Dark Pulse,,,
-Meowth,44,17,4.36,,0.38,,Scratch,Night Slash,,,
-Meowth,30,15,3.63,,0.4,,Scratch,Body Slam,,,
-Psyduck,104,26,14.03,XS,0.73,,Zen Headbutt,Aqua Tail,,,
-Poliwag,51,17,8.92,XS,0.55,,Bubble,Bubble Beam,,,
-Poliwhirl,16,12,25.17,XL,1.15,,Bubble,Scald,,,
-Slowpoke,85,41,26.05,XS,0.98,,Water Gun,Psychic,,,
-Slowpoke,79,40,24.16,XS,0.95,,Confusion,Water Pulse,,,
-Doduo,54,17,42.44,,1.32,,Peck,Swift,,,
-Shellder,140,24,3.98,,0.33,,Ice Shard,Water Pulse,,,
-Shellder,35,12,2.56,XS,0.25,,Tackle,Icy Wind,,,
-Shellder,10,10,4.53,,0.27,,Tackle,Water Pulse,,,
-Shellder,10,10,3.56,0.28,0.28,,Tackle,Icy Wind,,,
-Gastly,71,16,0.14,XL,1.42,,Lick,Sludge Bomb,,,
-Gastly,32,11,0.1,,1.25,,Sucker Punch,Dark Pulse,,,
-Gastly,10,10,0.12,,1.33,,Lick,Sludge Bomb,,,
-Haunter,236,32,0.07,XS,1.49,,Shadow Claw,Sludge Bomb,,,
-Drowzee,162,41,30.69,,0.95,,Pound,Psychic,,,
-Drowzee,128,37,37.8,,1.05,,Confusion,Psyshock,,,
-Drowzee,125,37,40.36,,1.11,,Confusion,Psychic,,,
-Drowzee,101,33,24.76,,0.87,,Pound,Psybeam,,,
-Drowzee,101,34,16.46,XS,0.76,,Confusion,Psychic,,,
-Drowzee,100,31,16.66,XS,0.72,XS,Pound,Psyshock,,,
-Drowzee,68,25,20.56,XS,0.95,,Pound,Psyshock,,,
-Drowzee,14,11,24.07,XS,0.87,,Confusion,Psyshock,,,
-Krabby,160,25,8.04,,0.43,,Mud Shot,Water Pulse,,,
-Krabby,70,15,6.47,,0.43,,Bubble,Bubble Beam,,,
-Krabby,31,11,6.89,,0.39,,Bubble,Bubble Beam,,,
-Krabby,10,10,7.83,,0.44,,Mud Shot,Water Pulse,,,
-Koffing,126,23,1.51,XL,0.75,,Acid,Dark Pulse,,,
+Pokemon,CP,HP,Weight,W XL/XS,Height,H XL/XS,Power Up (Stardust),Attack,Special,IV Att,IV Def,IV Sta,Location
+Bulbasaur,592,60,5.19,,0.63,,2500,Vine Whip,Power whip,13,14,12,"London, UK"
+Bulbasaur,511,55,9.8,XL,0.8,,,Tackle,Power whip,0,13,3,"London, UK"
+Charmander,12,10,14.31,XL,0.76,XL,200,Scratch,Flamethrower,,,,"London, UK"
+Squirtle,639,62,9.51,,0.53,,3500,Bubble,Water Pulse,,,,"London, UK"
+Squirtle,634,64,12.17,XL,0.5,,3500,Tackle,Aqua Jet,,,,"London, UK"
+Squirtle,435,56,7.73,,0.5,,,Tackle,Water Pulse,,,,"London, UK"
+Squirtle,427,55,7.53,,0.49,,,Tackle,Aqua Tail,,,,"London, UK"
+Squirtle,37,16,12.21,XL,0.6,,,Bubble,Aqua Jet,,,,"London, UK"
+Wartortle,501,54,4.39,XS,0.78,,1300,Bite,Ice Beam,14,10,0,"London, UK"
+Caterpie,146,46,2.45,,0.27,,,Bug Bite,Struggle,6,6,0,"London, UK"
+Caterpie,116,39,3.91,XL,0.35,,,Bug Bite,Struggle,,,,"London, UK"
+Caterpie,112,41,2.49,,0.31,,,Tackle,Struggle,,,,"London, UK"
+Metapod,185,62,4.26,XS,0.74,,,Bug Bite,Struggle,,,,"London, UK"
+Butterfree,686,72,32,,1.03,,2500,Confusion,Signal Beam,,,,"London, UK"
+Butterfree,598,64,24.07,,1.17,,1900,Bug Bite,Psychic,,,,"London, UK"
+Weedle,242,56,3.4,,0.29,,2500,Poison Sting,Struggle,,,,"London, UK"
+Weedle,155,48,3.55,,0.32,,,Poison Sting,Struggle,,,,"London, UK"
+Weedle,68,28,3,,0.31,,,Poison Sting,Struggle,,,,"London, UK"
+Weedle,47,23,3.56,,0.31,,,Poison Sting,Struggle,,,,"London, UK"
+Weedle,16,13,2.99,,0.31,,,Poison Sting,Struggle,,,,"London, UK"
+Weedle,15,15,3.38,,0.32,,,Bug Bite,Struggle,,,,"London, UK"
+Kakuna,263,61,12.71,XL,0.71,,2500,Bug Bite,Struggle,13,12,13,"London, UK"
+Kakuna,120,41,10.37,,0.58,,1000,Bug Bite,Struggle,14,13,14,"London, UK"
+Beedrill,954,92,29.5,,0.98,,3500,Poison Jab,Aerial Ace,14,15,13,"London, UK"
+Beedrill,624,75,23.8,,0.99,,1900,Poison Jab,X-Scissor,,,,"London, UK"
+Pidgey,140,35,1.77,,0.29,,,Quick Attack,Air Cutter,,,,"London, UK"
+Pidgey,127,31,1.88,,0.32,,,Quick Attack,Twister,,,,"London, UK"
+Pidgey,107,29,1.88,,0.27,,,Quick Attack,Twister,,,,"London, UK"
+Pidgey,105,27,1.24,XS,0.25,,,Tackle,Air Cutter,,,,"London, UK"
+Pidgey,94,27,1.83,,0.29,,,Quick Attack,Aerial Ace,,,,"London, UK"
+Pidgey,90,27,0.63,XS,0.22,XS,,Tackle,Aerial Ace,,,,"London, UK"
+Pidgey,79,24,1.45,,0.25,,,Quick Attack,Air Cutter,,,,"London, UK"
+Pidgey,38,17,1.06,XS,0.26,,,Tackle,Twister,,,,"London, UK"
+Pidgey,27,14,2.6,XL,0.32,,,Quick Attack,Twister,,,,"London, UK"
+Pidgeotto,441,67,21.28,XS,1.06,,1600,Steel Wing,Aerial Ace,,,,"London, UK"
+Pidgeotto,436,67,48.75,XL,1.31,,1600,Steel Wing,Twister,,,,"London, UK"
+Pidgeotto,433,68,27.38,,1.02,,1600,Wing Attack,Air Cutter,,,,"London, UK"
+Pidgeotto,119,32,30.89,,1.14,,400,Steel Wing,Twister,,,,"London, UK"
+Pidgeotto,80,29,21.29,XS,0.94,,,Wing Attack,Twister,,,,"London, UK"
+Pidgeotto,49,22,33.55,,1.03,,,Steel Wing,Twister,,,,"London, UK"
+Pidgeotto,15,12,41.01,XL,1.28,,,Steel Wing,Aerial Ace,,,,"London, UK"
+Pidgeot,1155,106,38.28,,1.47,,2500,Steel Wing,Aerial Ace,,,,"London, UK"
+Pidgeot,1146,106,39.5,,1.69,,2500,Steel Wing,Hurricane,,,,"London, UK"
+Rattata,107,24,3.71,,0.3,,,Tackle,Hyper Fang,,,,"London, UK"
+Rattata,106,26,4.38,XL,0.35,,,Quick Attack,Hyper Fang,,,,"London, UK"
+Rattata,102,24,3.41,,0.29,,,Quick Attack,Dig,,,,"London, UK"
+Rattata,1,20,5.23,XL,0.36,,,Tackle,Dig,,,,"London, UK"
+Rattata,71,20,4.03,,0.31,,,Tackle,Dig,,,,"London, UK"
+Rattata,68,21,2.34,XS,0.25,,,Tackle,Dig,,,,"London, UK"
+Rattata,37,14,4.51,XL,0.35,,,Quick Attack,Dig,,,,"London, UK"
+Rattata,24,12,1.99,XS,0.24,,200,Quick Attack,Hyper Fang,,,,"London, UK"
+Rattata,24,12,4.94,XL,0.35,,200,Quick Attack,Body Slam,,,,"London, UK"
+Rattata,21,10,3.21,,0.27,,,Tackle,Hyper Fang,,,,"London, UK"
+Rattata,10,10,3.61,,0.28,,,Tackle,Body Slam,,,,"London, UK"
+Raticate,866,77,17.33,,0.73,,3000,Quick Attack,Hyper Beam,9,15,13,"London, UK"
+Raticate,616,64,4.24,XS,0.51,XS,1900,Quick Attack,Dig,,,,"London, UK"
+Raticate,420,53,6.45,XS,0.7,,1300,Bite,Hyper Fang,,,,"London, UK"
+Raticate,277,43,18.91,,0.58,,800,Bite,Hyper Beam,,,,"London, UK"
+Raticate,269,43,19.34,,0.69,,800,Quick Attack,Dig,,,,"London, UK"
+Raticate,212,38,18.5,,0.68,,,Bite,Hyper Fang,,,,"London, UK"
+Spearow,223,41,0.96,XS,0.25,,1300,Quick Attack,Aerial Ace,12,15,10,"London, UK"
+Spearow,93,29,1.93,,0.31,,,Peck,Drill Peck,,,,"London, UK"
+Spearow,80,23,1.72,,0.26,,,Quick Attack,Twister,,,,"London, UK"
+Spearow,40,19,2.98,XL,0.37,,,Peck,Drill Peck,,,,"London, UK"
+Spearow,26,14,2.44,,0.31,,,Peck,Drill Peck,,,,"London, UK"
+Fearow,956,84,5.2,XS,1.13,,2500,Peck,Drill Run,,,,"London, UK"
+Ekans,444,48,4.94,XS,1.7,,,Poison Sting,Sludge Bomb,,,,"London, UK"
+Arbok,970,78,46.55,XS,2.98,,2500,Acid,Sludge Wave,,,,"London, UK"
+Pikachu,431,45,6.49,,0.41,,2200,Quick Attack,Thunderbolt,,,,"London, UK"
+Sandshrew,452,68,11.11,,0.58,,2500,Scratch,Dig,14,15,15,"London, UK"
+Sandshrew,328,59,10.29,,0.54,,1900,Scratch,Rock Slide,,,,"London, UK"
+Sandslash,765,84,26.69,,0.88,,1900,Mud Shot,Bulldoze,,,,"London, UK"
+Nidorina,515,72,18.58,,0.69,,1600,Bite,Dig,15,15,11,"London, UK"
+Nidoran (M),10,10,9.49,,0.51,,,Peck,Horn Attack,,,,"London, UK"
+Zubat,99,28,5.29,XS,0.73,,,Bite,Poison Fang,,,,"London, UK"
+Zubat,95,26,6.78,,0.75,,,Bite,Sludge Bomb,,,,"London, UK"
+Zubat,84,26,8.66,,0.86,,,Quick Attack,Sludge Bomb,,,,"London, UK"
+Zubat,37,17,5.65,,0.77,,,Bite,Air Cutter,,,,"London, UK"
+Zubat,37,17,5.51,XS,0.79,,,Quick Attack,Sludge Bomb,,,,"London, UK"
+Oddish,131,28,4.87,,0.47,,,Razor Leaf,Sludge Bomb,,,,"London, UK"
+Oddish,130,28,5.94,,0.53,,,Razor Leaf,Moonblast,,,,"London, UK"
+Gloom,938,80,6.94,,0.86,,,Acid,Moonblast,,,,"London, UK"
+Gloom,854,76,8.3,,1.06,XL,,Acid,Sludge Bomb,,,,"London, UK"
+Venonat,500,71,25.86,,0.93,,,Bug Bite,Poison Fang,,,,"London, UK"
+Venonat,439,72,41.05,XL,1.1,,,Bug Bite,Psybeam,,,,"London, UK"
+Venonat,353,63,34.64,,1.05,,,Confusion,Signal Beam,,,,"London, UK"
+Venonat,252,51,54.97,XL,1.36,XL,,Confusion,Poison Fang,,,,"London, UK"
+Venonat,189,46,39.31,XL,1.05,,,Confusion,Poison Fang,,,,"London, UK"
+Venonat,175,46,16.33,XS,0.79,,,Bug Bite,Signal Beam,,,,"London, UK"
+Venonat,14,21,38.14,XL,1.12,,,Bug Bite,Poison Fang,,,,"London, UK"
+Venomoth,196,39,12.13,,1.4,,400,Confusion,Bug Buzz,15,15,13,"London, UK"
+Diglett,228,18,0.63,,0.17,,3000,Scratch,Rock Tomb,,,,"London, UK"
+Diglett,42,10,0.95,,0.21,,400,Scratch,Mud Bomb,,,,"London, UK"
+Meowth,413,56,4.02,,0.41,,2500,Scratch,Dark Pulse,,,,"London, UK"
+Meowth,117,29,4.39,,0.4,,,Scratch,Dark Pulse,,,,"London, UK"
+Meowth,44,17,4.36,,0.38,,,Scratch,Night Slash,,,,"London, UK"
+Meowth,30,15,3.63,,0.4,,,Scratch,Body Slam,,,,"London, UK"
+Psyduck,104,26,14.03,XS,0.73,,,Zen Headbutt,Aqua Tail,,,,"London, UK"
+Poliwag,51,17,8.92,XS,0.55,,,Bubble,Bubble Beam,,,,"London, UK"
+Poliwhirl,16,12,25.17,XL,1.15,,,Bubble,Scald,,,,"London, UK"
+Slowpoke,85,41,26.05,XS,0.98,,,Water Gun,Psychic,,,,"London, UK"
+Slowpoke,79,40,24.16,XS,0.95,,,Confusion,Water Pulse,,,,"London, UK"
+Doduo,54,17,42.44,,1.32,,,Peck,Swift,,,,"London, UK"
+Shellder,140,24,3.98,,0.33,,,Ice Shard,Water Pulse,,,,"London, UK"
+Shellder,35,12,2.56,XS,0.25,,,Tackle,Icy Wind,,,,"London, UK"
+Shellder,10,10,4.53,,0.27,,,Tackle,Water Pulse,,,,"London, UK"
+Shellder,10,10,3.56,0.28,0.28,,,Tackle,Icy Wind,,,,"London, UK"
+Gastly,71,16,0.14,XL,1.42,,,Lick,Sludge Bomb,,,,"London, UK"
+Gastly,32,11,0.1,,1.25,,,Sucker Punch,Dark Pulse,,,,"London, UK"
+Gastly,10,10,0.12,,1.33,,,Lick,Sludge Bomb,,,,"London, UK"
+Haunter,236,32,0.07,XS,1.49,,,Shadow Claw,Sludge Bomb,,,,"London, UK"
+Drowzee,162,41,30.69,,0.95,,,Pound,Psychic,,,,"London, UK"
+Drowzee,128,37,37.8,,1.05,,,Confusion,Psyshock,,,,"London, UK"
+Drowzee,125,37,40.36,,1.11,,,Confusion,Psychic,,,,"London, UK"
+Drowzee,101,33,24.76,,0.87,,,Pound,Psybeam,,,,"London, UK"
+Drowzee,101,34,16.46,XS,0.76,,,Confusion,Psychic,,,,"London, UK"
+Drowzee,100,31,16.66,XS,0.72,XS,,Pound,Psyshock,,,,"London, UK"
+Drowzee,68,25,20.56,XS,0.95,,,Pound,Psyshock,,,,"London, UK"
+Drowzee,14,11,24.07,XS,0.87,,,Confusion,Psyshock,,,,"London, UK"
+Voltorb,206,38,8.41,,0.46,,1000,Spark,Thunderbolt,,,,"London, UK"
+Exeggcute,604,80,2.16,,0.39,,2500,Confusion,Psychic,,,,"London, UK"
+Cubone,566,66,8.17,XL,0.44,,3000,Rock Smash,Bone Club,,,,"London, UK"
+Lickitung,357,71,80.54,,1.35,,800,Zen Headbutt,Hyper Beam,,,,"London, UK"
+Krabby,160,25,8.04,,0.43,,,Mud Shot,Water Pulse,,,,"London, UK"
+Krabby,70,15,6.47,,0.43,,,Bubble,Bubble Beam,,,,"London, UK"
+Krabby,31,11,6.89,,0.39,,,Bubble,Bubble Beam,,,,"London, UK"
+Krabby,10,10,7.83,,0.44,,,Mud Shot,Water Pulse,,,,"London, UK"
+Koffing,378,41,1.17,,0.55,,1300,Tackle,Dark Pulse,14,14,9,"London, UK"
+Koffing,148,25,0.67,XS,0.5,,600,Tackle,Sludge Bomb,,,,"London, UK"
+Koffing,126,23,1.51,XL,0.75,,,Acid,Dark Pulse,,,,"London, UK"
+Porygon,492,60,31.32,,0.73,,1300,Zen Headbutt,Psybeam,,,,"London, UK"
+Porygon,453,58,23.36,XS,0.63,,1000,Tackle,Discharge,,,,"London, UK"
+Omanyte,229,28,5.23,XS,0.31,,800,Mud Shot,Brine,,,,"London, UK"
+Omanyte,15,10,3.56,XS,0.34,,200,Water Gun,Ancient Power,,,,"London, UK"
+Omastar,29,14,53.36,XL,1.17,,200,Water Gun,Ancient Power,,,,"London, UK"
+Kabutops,1179,75,56.69,XL,1.54,,3000,Mud Shot,Stone Edge,15,0,4,"London, UK"
+Dratini,485,54,2.4,XS,1.73,,2200,Dragon Breath,Aqua Tail,15,5,15,"London, UK"
+Dragonair,586,62,19.7,,4.52,,1300,Dragon Breath,Wrap,15,9,14,"London, UK"
+Dragonair,275,40,22.4,XL,4.38,,600,Dragon Breath,Aqua Tail,,,,"London, UK"
