@@ -25,6 +25,7 @@ The current list of games includes:
 * Motor World Car Factory
 * Need for Speed: No Limits
 * Peak
+* Pewdiepie's Tuber Simulator
 * Pokemon Go
 * Rapala Fishing - Daily Catch
 * Retry
