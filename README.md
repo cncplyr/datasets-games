@@ -18,6 +18,7 @@ The current list of games includes:
 * Farmville 2
 * Gun Master 2
 * Hitman GO
+* Hitman Sniper
 * Jack Lumber
 * Jurassic World
 * Miitomo
