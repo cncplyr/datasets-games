@@ -26,7 +26,7 @@ Datetime,Car,Track,Time of Day,Time Lapse,Cloud Cover,Precipitation,Finish Time,
 30/12/2014 21:07,BMW M235i,Glenmorgan,14:00,1,Clear,Dry,01:28.7,00:30.3,00:31.3,00:27.1
 30/12/2014 21:12,Volkswagen Golf GTI,Glenmorgan,14:00,1,Clear,Dry,01:31.8,00:31.5,00:32.1,00:28.2
 27/12/2014 11:31,BMW M235i,Glenmorgan,18:00,60,Stormy,Heavy,01:38.8,00:34.8,00:34.1,00:29.9
-31/01/2015 14:04,Icona Vulcano,Goshodaira,14:00,1,Clear,Dry,02:43.6,01:01.7,00:54.8,00:47.1
+31/01/2015 14:04,Icona Vulcano,Goshodaira,14:00,1,Clear,Dry,02:43.631,01:01.713,00:54.827,00:47.091
 10/05/2015 16:44,Ferrari 458 Italia,Goshodiara,14:00,1,Clear,Dry,02:36.3,00:59.5,00:51.9,00:44.9
 10/05/2015 16:35,Ferrari 458 Italia,Goshodiara,14:00,1,Clear,Dry,02:36.5,00:59.0,00:53.3,00:44.2
 10/05/2015 16:31,Ferrari 458 Italia,Goshodiara,14:00,1,Clear,Dry,02:40.7,00:58.8,00:55.8,00:46.1
@@ -38,7 +38,7 @@ Datetime,Car,Track,Time of Day,Time Lapse,Cloud Cover,Precipitation,Finish Time,
 15/05/2015 14:01,Ferrari 430 Scuderia,Kinloch,14:00,1,Clear,Dry,01:31.9,00:29.5,00:32.2,00:30.2
 27/02/2015 23:42,Pagani Zonda R,Kobago,12:00,1,Clear,Heavy,01:47.6,00:39.0,00:38.7,00:30.0
 27/02/2015 23:59,BAC Mono,Lake Shoji,09:00,1,Stormy,Dry,01:16.1,00:23.8,00:23.7,00:28.6
-01/02/2015 13:09,Lotus Evora S Sports Racer,Lake Shoji,14:00,1,Clear,Dry,01:29.0,00:28.7,00:31.1,00:29.3
+01/02/2015 13:09,Lotus Evora S Sports Racer,Lake Shoji,14:00,1,Clear,Dry,01:28.991,00:28.656,00:31.051,00:29.284
 04/03/2015 20:21,Mercedes-Benz A 45 AMG,Loch Duich,14:00,30,Cloudy,Dry,01:47.4,00:36.6,00:37.4,00:33.5
 04/03/2015 20:21,Mercedes-Benz A 45 AMG,Loch Duich,14:00,30,Cloudy,Dry,01:47.4,00:36.6,00:37.4,00:33.5
 13/05/2015 19:02,Ferrari 430 Scuderia,Lytton,14:00,1,Clear,Dry,03:27.2,01:13.4,01:13.6,01:00.2
@@ -90,3 +90,14 @@ Datetime,Car,Track,Time of Day,Time Lapse,Cloud Cover,Precipitation,Finish Time,
 11/05/2015 23:26,Ferrari California,Trotternish (Reverse),14:00,1,Clear,Dry,02:49.3,00:59.3,00:58.1,00:52.0
 11/05/2015 22:58,Ferrari 430 Scuderia,Trotternish (Reverse),14:00,1,Clear,Dry,02:55.9,00:56.3,01:01.7,00:57.9
 02/03/2015 22:24,Bentley Continental GT Speed,Yedapalli,19:00,1,Cloudy,Dry,01:26.0,00:24.5,00:26.7,00:34.8
+23/11/2016 07:44,Renault Clio RS,Old Town 01,14:00,1,Clear,Dry,01:08.595,00:24.112,00:19.791,00:24.692
+23/11/2016 07:52,Renault Clio RS,Bryggen 01,14:00,1,Clear,Dry,1:18.744,0:27.803,0:24.438,0:26.503
+23/11/2016 07:58,Renault Clio RS,Iquique 01,14:00,1,Clear,Dry,0:48.307,0:18.421,0:16.212,0:13.674
+27/11/2016 11:15,Renault DeZir DRIVECLUB Edition,Old Town 03,14:00,1,Clear,Dry,0:53.429,0:17.576,0:19.970,0:15.883
+27/11/2016 19:01,Volkswagen Golf GTI,Iquique 01 (Reverse),14:00,1,Clear,Dry,0:47.609,0:12.066,0:18.196,0:17.347
+27/11/2016 19:05,Volkswagen Golf GTI,Los Pelambres,14:00,1,Clear,Dry,0:47.519,0:18.772,0:14.215,0:14.532
+27/11/2016 19:13,Volkswagen Golf GTI,Kobago,14:00,1,Clear,Dry,1:48.154,0:31.848,0:40.611,0:35.695
+27/11/2016 19:19,Ariel Atom 500 V8,The Kyle,14:00,1,Clear,Dry,2:09.032,0:46.632,0:44.286,0:38.114
+27/11/2016 19:25,Ariel Atom 500 V8,The Kyle,14:00,1,Clear,Dry,2:02.932,0:42.981,0:43.775,0:36.176
+27/11/2016 19:31,Ferrari 488 GTB,The Kyle,14:00,1,Clear,Dry,2:09.237,0:44.967,0:45.550,0:38.720
+,,,,,,,,,,
