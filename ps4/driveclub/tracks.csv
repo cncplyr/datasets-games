@@ -1,0 +1,115 @@
+Country,Track,Direction,Type,DLC,Length (miles),Length (km)
+Japan,Asagiri Hills Racetrack 01,Normal,Race Track,Patch 1.10,2.9,4.7
+Japan,Asagiri Hills Racetrack 02,Normal,Race Track,Patch 1.10,2.4,3.8
+Japan,Asagiri Hills Racetrack 03,Normal,Race Track,Patch 1.10,2.5,4.1
+India,Ashii 01,Normal,Urban Circuit,Patch 1.28,1.42,2.3
+India,Ashii 01 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.42,2.3
+India,Ashii 02,Normal,Urban Circuit,Patch 1.28,1,1.6
+India,Ashii 02 (Reverse),Reverse,Urban Circuit,Patch 1.28,1,1.6
+India,Ashii 03,Normal,Urban Circuit,Patch 1.28,1.36,2.2
+India,Ashii 03 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.36,2.2
+Norway,Atlanterhavsvegen,Normal,Road Circuit,Patch 1.08,2.9,4.6
+Norway,Atlanterhavsvegen (Reverse),Reverse,Road Circuit,Patch 1.08,2.9,4.6
+Chile,Autodromo Frontera 01,Normal,Race Track,Original,1.7,2.7
+Chile,Autodromo Frontera 02,Normal,Race Track,Original,1.7,2.7
+Chile,Autodromo Frontera 03,Normal,Race Track,Original,1.4,2.3
+India,Bandipur,Normal,Road Circuit,"Original, PS+",2.4,3.9
+India,Bandipur (Reverse),Reverse,Road Circuit,"Original, PS+",2.4,3.9
+Scotland,Black Hills Race Circuit 01,Normal,Race Track,Original,2.7,4.3
+Scotland,Black Hills Race Circuit 02,Normal,Race Track,Original,2.5,4
+Scotland,Black Hills Race Circuit 03,Normal,Race Track,Original,3.3,5.3
+Norway,Bryggen 01,Normal,Urban Circuit,Patch 1.28,1.98,3.2
+Norway,Bryggen 01 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.98,3.2
+Norway,Bryggen 02,Normal,Urban Circuit,Patch 1.28,1.24,2
+Norway,Bryggen 02 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.24,2
+Norway,Bryggen 03,Normal,Urban Circuit,Patch 1.28,1.3,2.1
+Norway,Bryggen 03 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.3,2.1
+Canada,Cayoosh Point,Normal,Point to Point,Original,4.7,7.5
+Canada,Cayoosh Point (Reverse),Reverse,Point to Point,Original,4.7,7.5
+Chile,Chungara Lake,Normal,Road Circuit,Original,1.6,2.6
+Chile,Chungara Lake (Reverse),Reverse,Road Circuit,Original,1.6,2.6
+Canada,Fraser Valley,Normal,Road Circuit,Original,1.6,2.6
+Canada,Fraser Valley (Reverse),Reverse,Road Circuit,Original,1.6,2.6
+India,Glenmorgan,Normal,Road Circuit,"Original, PS+",2.1,3.4
+India,Glenmorgan (Reverse),Reverse,Road Circuit,"Original, PS+",2.1,3.4
+Japan,Goshodaira,Normal,Point to Point,Patch 1.10,4.2,6.7
+Japan,Goshodaira (Reverse),Reverse,Point to Point,Patch 1.10,4.2,6.7
+Japan,Gujo 01,Normal,Urban Circuit,Patch 1.28,1.36,2.2
+Japan,Gujo 01 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.36,2.2
+Japan,Gujo 02,Normal,Urban Circuit,Patch 1.28,1.36,2.2
+Japan,Gujo 02 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.36,2.2
+Japan,Gujo 03,Normal,Urban Circuit,Patch 1.28,0.9,1.5
+Japan,Gujo 03 (Reverse),Reverse,Urban Circuit,Patch 1.28,0.9,1.5
+Norway,Holmastad,Normal,Point to Point,Original,5.9,9.4
+Norway,Holmastad (Reverse),Reverse,Point to Point,Original,5.9,9.4
+Norway,Hurrungane,Normal,Point to Point,Original,6,9.7
+Norway,Hurrungane (Reverse),Reverse,Point to Point,Original,6,9.7
+Chile,Iquique 01,Normal,Urban Circuit,Patch 1.28,1.1,1.8
+Chile,Iquique 01 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.1,1.8
+Chile,Iquique 02,Normal,Urban Circuit,Patch 1.28,0.6,1
+Chile,Iquique 02 (Reverse),Reverse,Urban Circuit,Patch 1.28,0.6,1
+Chile,Iquique 03,Normal,Urban Circuit,Patch 1.28,1.36,2.2
+Chile,Iquique 03 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.36,2.2
+Scotland,Kinloch,Normal,Road Circuit,Original,2.8,4.5
+Scotland,Kinloch (Reverse),Reverse,Road Circuit,Original,2.8,4.5
+Japan,Kobago,Normal,Road Circuit,Patch 1.11,2.2,3.6
+Japan,Kobago (Reverse),Reverse,Road Circuit,Patch 1.11,2.2,3.6
+Japan,Lake Shoji,Normal,Road Circuit,Patch 1.10,2.3,3.7
+Japan,Lake Shoji (Reverse),Reverse,Road Circuit,Patch 1.10,2.3,3.7
+Scotland,Loch Duich,Normal,Road Circuit,Original,2.9,4.6
+Scotland,Loch Duich (Reverse),Reverse,Road Circuit,Original,2.9,4.6
+Chile,Los Pelambres,Normal,Road Circuit,Patch 1.07,1,1.6
+Chile,Los Pelambres (Reverse),Reverse,Road Circuit,Patch 1.07,1,1.6
+Canada,Lytton,Normal,Point to Point,Original,5.2,8.4
+Canada,Lytton (Reverse),Reverse,Point to Point,Original,5.2,8.4
+Canada,Maplewood Motorsport Park 01,Normal,Race Track,Original,1.6,2.6
+Canada,Maplewood Motorsport Park 01,Normal,Race Track,Original,1.5,2.4
+Canada,Maplewood Motorsport Park 02,Normal,Race Track,Original,1.2,1.9
+India,Munnar,Normal,Point to Point,"Original, PS+",6.1,9.9
+India,Munnar,Reverse,Point to Point,"Original, PS+",6.1,9.9
+Japan,Nakasendo,Normal,Point to Point,Patch 1.10,6.3,10.2
+Japan,Nakasendo,Reverse,Point to Point,Patch 1.10,6.3,10.2
+India,Nilgiri Hills,Normal,Point to Point,"Original, PS+",5.7,9.2
+India,Nilgiri Hills,Reverse,Point to Point,"Original, PS+",5.7,9.2
+Scotland,Old Town 01,Normal,Urban Circuit,Patch 1.26,1.43,2.3
+Scotland,Old Town 01 (Reverse),Reverse,Urban Circuit,Patch 1.26,1.43,2.3
+Scotland,Old Town 02,Normal,Urban Circuit,Patch 1.26,1.3,2.1
+Scotland,Old Town 02 (Reverse),Reverse,Urban Circuit,Patch 1.26,1.3,2.1
+Scotland,Old Town 03 (Reverse),Normal,Urban Circuit,Patch 1.26,1.24,2
+Scotland,Old Town 03 (Reverse),Reverse,Urban Circuit,Patch 1.26,1.24,2
+Canada,Oliver's Landing,Normal,Road Circuit,Original,2,3.3
+Canada,Oliver's Landing (Reverse),Reverse,Road Circuit,Original,2,3.3
+Canada,Port of Vancouver 01,Normal,Urban Circuit,Patch 1.28,1.3,2.1
+Canada,Port of Vancouver 01 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.3,2.1
+Canada,Port of Vancouver 02,Normal,Urban Circuit,Patch 1.28,1.06,1.7
+Canada,Port of Vancouver 02 (Reverse),Reverse,Urban Circuit,Patch 1.28,1.06,1.7
+Canada,Port of Vancouver 03,Normal,Urban Circuit,Patch 1.28,1,1.6
+Canada,Port of Vancouver 03 (Reverse),Reverse,Urban Circuit,Patch 1.28,1,1.6
+Chile,Putre,Normal,Point to Point,Original,5.5,8.8
+Chile,Putre (Reverse),Reverse,Point to Point,Original,5.5,8.8
+Chile,Salar De Surire,Normal,Road Circuit,Original,1.1,1.8
+Chile,Salar De Surire (Reverse),Reverse,Road Circuit,Original,1.1,1.8
+Norway,Sentraltind,Normal,Road Circuit,Original,2.4,3.9
+Norway,Sentraltind (Reverse),Reverse,Road Circuit,Original,2.4,3.9
+Canada,Sinclair Pass,Normal,Road Circuit,Patch 1.08,2.6,4.2
+Canada,Sinclair Pass (Reverse),Reverse,Road Circuit,Patch 1.08,2.6,4.2
+Norway,Skjolden,Normal,Road Circuit,Original,2.9,4.5
+Norway,Skjolden (Reverse),Reverse,Road Circuit,Original,2.9,4.5
+Norway,SKNO Sognefjord Raceway 01,Normal,Race Track,Original,2.5,4
+Norway,SKNO Sognefjord Raceway 02,Normal,Race Track,Original,2.6,4.1
+Norway,SKNO Sognefjord Raceway 03,Normal,Race Track,Original,2.1,3.4
+Chile,Taapaca,Normal,Point to Point,Original,6,9.7
+Chile,Taapaca (Reverse),Reverse,Point to Point,Original,6,9.7
+Japan,Takahagi Hills,Normal,Road Circuit,Patch 1.10,3.6,5.7
+Japan,Takahagi Hills (Reverse),Reverse,Road Circuit,Patch 1.10,3.6,5.7
+India,Tamil Nadu Circuit 01,Normal,Race Track,"Original, PS+",2.5,3.9
+India,Tamil Nadu Circuit 02,Normal,Race Track,"Original, PS+",1.6,2.6
+India,Tamil Nadu Circuit 03,Normal,Race Track,"Original, PS+",1.7,2.8
+Scotland,The Kyle,Normal,Point to Point,Original,4.6,7.4
+Scotland,The Kyle (Reverse),Reverse,Point to Point,Original,4.6,7.4
+Scotland,Trotternish,Normal,Point to Point,Original,4.5,7.2
+Scotland,Trotternish (Reverse),Reverse,Point to Point,Original,4.5,7.2
+Scotland,Wester Ross,Normal,Road Circuit,Patch 1.07,3.4,5.5
+Scotland,Wester Ross (Reverse),Reverse,Road Circuit,Patch 1.07,3.4,5.5
+India,Yedapalli,Normal,Road Circuit,Patch 1.07,1.9,3
+India,Yedapalli (Reverse),Reverse,Road Circuit,Patch 1.07,1.9,3
