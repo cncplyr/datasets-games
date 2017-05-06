@@ -1,5 +1,19 @@
-Name,Rarity,Mod Slots
-Outcast,Common,0
-Nora Brave,Uncommon,1
-Nora Silent Hunter Light,Uncommon,1
-Nora Silent Hunter Medium,Rare,1
+Name,Rarity,Mod Slots,Trade Cost
+Outcast,Common,0,
+Banuk Ice Hunter Light,Uncommon,0,40x Metal Shards 1x Metalburn
+Banuk Sickness Eater Light,Uncommon,0,60x Metal Shards 2x Fatty Meat
+Carja Blazon Light,Uncommon,0,65x Metal Shards 10x Sparker
+Carja Silks Light,Uncommon,1,35x Metal Shards 6x Blaze
+Nora Brave,Uncommon,1,
+Nora Protector Light,Uncommon,1,65x Metal Shards 5x Sparker
+Nora Silent Hunter Light,Uncommon,1,50x Metal Shards 3x Blaze
+Nora Survivor Light,Uncommon,1,45x Metal Shards 5x Wire
+Oseram Arrow Breaker Light,Uncommon,1,70x Metal Shards 2x Desert Glass
+Oseram Sparkworker Light,Uncommon,0,50x Metal Shards 1x Slagshine Glass
+Banuk Ice Hunter Medium,Rare,,
+Banuk Sickness Eater Medium,Rare,,
+Nora Silent Hunter Medium,Rare,1,
+Nora Survivor Medium,Rare,1,185x Metal Shards 1x Broadhead Lens
+Oseram Arrow Breaker Medium,Rare,1,280x Metal Shards 1x Ravager Lens
+Banuk Ice Hunter Heavy,Very Rare,2,800x Metal Shards 1x Strider Heart 20x Metal Vessel
+Oseram Arrow Breaker Heavy,Very Rare,2,1100x Metal Shards 1x Crystal Braiding
