@@ -27,6 +27,7 @@ The current list of games includes:
 * Peak
 * Pewdiepie's Tuber Simulator
 * Pokemon Go
+* Pokemon: Magikarp Jump
 * Rapala Fishing - Daily Catch
 * Retry
 * Sniper X with Jason Statham
