@@ -76,6 +76,8 @@ The current list of games includes:
 * Destiny
 * Driveclub
 * Geometry Wars 3: Dimensions Evolved
+* Gran Turosmo Sport (Beta)
+* Gran Turismo Sport
 * Horizon: Zero Dawn
 * Just Cause 3
 * Metal Gear Solid V: Ground Zeroes
