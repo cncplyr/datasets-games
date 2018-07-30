@@ -1,29 +1,41 @@
-Track,Car,Condition,Time,Sector 1,Sector 2,Sector 3,Sector 4,Sector 5,Date of Race,Time of Race
-Autodrome Lago Maggiore - GP,Dodge Charger SRT Hellcat '15,,2:41.281,40.171,39.279,31.095,,,2017-10-22,12:03
-Brands Hatch Grand Prix Circuit,Mazda LM55 VGT (Gr.1),Sunny,1:21.198,16.880,12.212,10.037,21.868,19.301,2018-07-11,23:56
-Brands Hatch Grand Prix Circuit,Mazda LM55 VGT (Gr.1),Sunny,1:23.286,18.602,12.701,11.067,21.645,19.271,2018-07-11,23:56
-Brands Hatch Grand Prix Circuit,Corvette C7 Gr.3 Road Car,Sunny,1:36.333,19.121,15.678,14.006,24.331,,2018-07-11,23:43
-Brands Hatch Grand Prix Circuit,Corvette C7 Gr.3 Road Car,Sunny,1:37.649,19.991,14.974,14.321,24.688,,2018-07-11,23:43
+Track,Car,Condition,Time,Sector 1,Sector 2,Sector 3,Sector 4,Sector 5,Sector 6,Date of Race,Time of Race
+Autodrome Lago Maggiore - GP,Dodge Charger SRT Hellcat '15,,2:41.281,40.171,39.279,31.095,,,,2017-10-22,12:03
+Brands Hatch Grand Prix Circuit,Mazda LM55 VGT (Gr.1),Sunny,1:21.198,16.880,12.212,10.037,21.868,19.301,,2018-07-11,23:56
+Brands Hatch Grand Prix Circuit,Mazda LM55 VGT (Gr.1),Sunny,1:23.286,18.602,12.701,11.067,21.645,19.271,,2018-07-11,23:56
+Brands Hatch Grand Prix Circuit,Corvette C7 Gr.3 Road Car,Sunny,1:36.333,19.121,15.678,14.006,24.331,23.765,,2018-07-11,23:43
+Brands Hatch Grand Prix Circuit,Corvette C7 Gr.3 Road Car,Sunny,1:37.649,19.991,14.974,14.321,24.688,23.197,,2018-07-11,23:43
+Brands Hatch Grand Prix Circuit,Mitsubishi Lancer Evolution Final Edition '15,Sunny,1:49.762,22.236,17.329,15.385,26.571,28.241,,2018-07-10,23:49
+Brands Hatch Grand Prix Circuit,Mitsubishi Lancer Evolution Final Edition '15,Sunny,1:52.204,23.316,16.830,15.291,29.998,26.769,,2018-07-10,23:49
+Circuit de Sainte-Croix - A,Lamborghini Huracan LP 610-5 '14,Sunny,3:38.912,32.064,31.035,44.470,44.744,34.363,32.236,2018-07-30,21:38
+Circuit de Sainte-Croix - A,Ford GT '06,Sunny,3:41.164,32.281,30.266,47.504,44.929,34.859,31.325,2018-07-30,21:52
+Circuit de Sainte-Croix - A,Ford GT '06,Sunny,3:43.457,32.280,30.855,49.039,45.171,34.533,31.579,2018-07-30,21:52
+Circuit de Sainte-Croix - A,Lamborghini Huracan LP 610-5 '14,Sunny,3:43.768,33.269,31.302,44.230,47.028,36.050,31.889,2018-07-30,21:38
+Circuit de Sainte-Croix - A,Lamborghini Huracan LP 610-5 '14,Sunny,3:49.459,33.221,35.972,44.534,45.543,37.935,32.254,2018-07-30,21:38
 Dragon Trail - Seaside,Hyundai N 2025 VGT,Cloudy,1:36.137,,,,,,2017-10-19,23:01
-Dragon Trail - Seaside,Mercedes-AMG GT GT3 '16,Sunny,1:46.408,35.148,34.145,37.115,,,2017-10-23,10:53
-Dragon Trail - Seaside,Mercedes-AMG GT GT3 '16,Sunny,1:47.581,35.668,34.584,37.329,,,2017-10-23,10:53
-Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,Sunny,1:49.293,36.544,34.891,37.858,,,2017-10-23,10:43
-Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,Sunny,1:49.352,,,,,,2017-10-23,10:54
-Dragon Trail - Seaside,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car,Sunny,1:51.598,36.577,35.544,39.477,,,2017-10-22,12:37
-Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.426,37.805,36.067,40.554,,,2017-10-23,10:33
-Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.675,37.732,35.428,41.515,,,2017-10-23,10:33
-Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.971,38.433,36.033,40.505,,,2017-10-23,10:33
-Dragon Trail - Seaside,Lancer Evolution Final Edition Gr.B Rally Car,Sunny,1:55.011,37.545,36.864,40.602,,,2017-10-22,12:37
-Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,1:56.664,38.352,37.447,40.865,,,2017-10-22,12:24
-Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,1:59.798,39.747,38.074,41.977,,,2017-10-22,12:24
-Dragon Trail - Seaside,BMW M4 Coupe '14,Sunny,2:00.886,,,,,,2017-10-22,12:31
-Dragon Trail - Seaside,Honda Civic Type R (FK2) '15,Sunny,2:02.574,,,,,,2017-10-22,19:41
-Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,2:04.098,41.140,39.796,43.162,,,2017-10-23,10:27
-Dragon Trail - Seaside,Renault Megane R.S. Trophy '11,Sunny,2:05.639,41.933,39.224,44.482,,,2017-10-23,10:48
-Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,3:07.097,,,,,,2017-10-22,12:19
-Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:21.971,20.499,16.345,20.207,24.920,,2018-06-10,23:59
-Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:22.395,21.284,16.124,20.225,24.762,,2018-06-10,23:59
-Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:22.655,20.149,16.367,20.017,26.122,,2018-06-10,23:59
-Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:31.259,22.843,18.150,22.436,27.830,,2018-06-10,23:50
-Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:32.216,22.481,18.836,22.546,28.353,,2018-06-10,23:50
-Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:33.514,23.376,19.078,22.768,28.292,,2018-06-10,23:50
+Dragon Trail - Seaside,Mercedes-AMG GT GT3 '16,Sunny,1:46.408,35.148,34.145,37.115,,,,2017-10-23,10:53
+Dragon Trail - Seaside,Mercedes-AMG GT GT3 '16,Sunny,1:47.581,35.668,34.584,37.329,,,,2017-10-23,10:53
+Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,Sunny,1:49.293,36.544,34.891,37.858,,,,2017-10-23,10:43
+Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,Sunny,1:49.352,,,,,,,2017-10-23,10:54
+Dragon Trail - Seaside,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car,Sunny,1:51.598,36.577,35.544,39.477,,,,2017-10-22,12:37
+Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.426,37.805,36.067,40.554,,,,2017-10-23,10:33
+Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.675,37.732,35.428,41.515,,,,2017-10-23,10:33
+Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,1:54.971,38.433,36.033,40.505,,,,2017-10-23,10:33
+Dragon Trail - Seaside,Lancer Evolution Final Edition Gr.B Rally Car,Sunny,1:55.011,37.545,36.864,40.602,,,,2017-10-22,12:37
+Dragon Trail - Seaside,Ford GT '06,Sunny,1:55.673,38.658,36.517,40.498,,,,2018-07-30,22:05
+Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,1:56.664,38.352,37.447,40.865,,,,2017-10-22,12:24
+Dragon Trail - Seaside,Lamborghini Huracan LP 610-4 '15,Sunny,1:57.799,38.562,37.288,41.949,,,,2018-07-30,22:09
+Dragon Trail - Seaside,Ford GT '06,Sunny,1:57.915,38.904,38.715,40.296,,,,2018-07-30,22:05
+Dragon Trail - Seaside,Lamborghini Huracan LP 610-4 '15,Sunny,1:58.852,38.379,38.394,42.079,,,,2018-07-30,22:12
+Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,1:59.798,39.747,38.074,41.977,,,,2017-10-22,12:24
+Dragon Trail - Seaside,BMW M4 Coupe '14,Sunny,2:00.886,,,,,,,2017-10-22,12:31
+Dragon Trail - Seaside,Ford GT '06,Sunny,2:02.570,39.737,38.990,43.843,,,,2018-07-30,22:05
+Dragon Trail - Seaside,Honda Civic Type R (FK2) '15,Sunny,2:02.574,,,,,,,2017-10-22,19:41
+Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car,Sunny,2:04.098,41.140,39.796,43.162,,,,2017-10-23,10:27
+Dragon Trail - Seaside,Renault Megane R.S. Trophy '11,Sunny,2:05.639,41.933,39.224,44.482,,,,2017-10-23,10:48
+Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,Sunny,3:07.097,,,,,,,2017-10-22,12:19
+Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:21.971,20.499,16.345,20.207,24.920,,,2018-06-10,23:59
+Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:22.395,21.284,16.124,20.225,24.762,,,2018-06-10,23:59
+Tokyo Expressway - Central Outer Loop,Bugatti Veyron 16.4 '13,Sunny,1:22.655,20.149,16.367,20.017,26.122,,,2018-06-10,23:59
+Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:31.259,22.843,18.150,22.436,27.830,,,2018-06-10,23:50
+Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:32.216,22.481,18.836,22.546,28.353,,,2018-06-10,23:50
+Tokyo Expressway - Central Outer Loop,Lamborghini Huracan LP 610-4 '15,Sunny,1:33.514,23.376,19.078,22.768,28.292,,,2018-06-10,23:50
