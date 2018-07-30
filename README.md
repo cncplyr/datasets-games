@@ -85,6 +85,7 @@ The current list of games includes:
 * No Man's Sky
 * OlliOlli 2: Welcome to Olliwood
 * Resogun
+* Ruiner
 * The Division
 * Watch_Dogs
 
