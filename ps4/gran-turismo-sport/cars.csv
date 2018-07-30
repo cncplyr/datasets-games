@@ -52,7 +52,7 @@ Daihatsu,Copen Active Top,2002,N 100
 Daihatsu,DAIHATSU COPEN RJ Vision Gran Turismo,2017,Gr.X
 De Tomaso,Pantera,1971,N 300
 Dodge,Challenger R/T,1970,N 400
-Dodge,Dodge Charger SRT Hellcat,2015,N 700
+Dodge,Charger SRT Hellcat,2015,N 700
 Dodge,SRT Tomahawk GTS-R Vision Gran Turismo,2015,Gr.X
 Dodge,SRT Tomahawk S Vision Gran Turismo,2015,Gr.X
 Dodge,SRT Tomahawk Vision Gran Turismo (Gr.1),2015,Gr.1
@@ -104,8 +104,8 @@ Hyundai,Genesis Coupe 3.8 Track,2013,N 300
 Hyundai,Genesis Gr.3,2013,Gr.3
 Hyundai,Genesis Gr.4,2103,Gr.4
 Hyundai,Genesis Gr.B Rally Car,2013,Gr.B Rally
-Hyundai,HYUNDAI N 2025 Vision Gran Turismo,2015,Gr.X
-Hyundai,HYUNDAI N 2025 Vision Gran Turismo,2015,Gr.1
+Hyundai,N 2025 Vision Gran Turismo Gr.X,2015,Gr.X
+Hyundai,N 2025 Vision Gran Turismo Gr.1,2015,Gr.1
 Infiniti,INFINITI CONCEPT Vision Gran Turismo,2014,Gr.X
 Jaguar,F-type Gr.3,2015,Gr.3
 Jaguar,F-type Gr.4,2015,Gr.4
@@ -132,8 +132,8 @@ Mazda,Atenza Gr.3,2016,Gr.3
 Mazda,Atenza Gr.3 Road Car,2016,N 500
 Mazda,Atenza Gr.4,2016,Gr.4
 Mazda,Atenza Sedan XD L Package,2015,N 200
-Mazda,LM55 Vision Gran Turismo,2014,Gr.X
-Mazda,LM55 Vision Gran Turismo,2014,Gr.1
+Mazda,LM55 Vision Gran Turismo Gr.X,2014,Gr.X
+Mazda,LM55 Vision Gran Turismo Gr.1,2014,Gr.1
 Mazda,Mazda 787B,1991,Gr.1
 Mazda,Roadster S (ND),2015,N 100
 Mazda,RX-7 GT-X (FC),1990,N 200
@@ -146,13 +146,13 @@ McLaren,Ultimate Vision Gran Turismo2017,,Gr.X
 McLaren,Ultimate Vision Gran Turismo,2017,Gr.1
 McLaren,MP4-12C,2010,N 600
 Mercedes-Benz,A 45 AMG 4MATIC,2013,N 400
+Mercedes-Benz,AMG Vision Gran Turismo,2013,Gr.X
+Mercedes-Benz,AMG Vision Gran Turismo Racing Series,2014,Gr.X
 Mercedes-Benz,Mercedes-AMG F1 W08 EQ Power+,2017,Gr.X
 Mercedes-Benz,Mercedes-AMG F1 W08 EQ Power+ (Color Variation),2017,Gr.X
 Mercedes-Benz,Mercedes-AMG GT S,2014,N 500
 Mercedes-Benz,Mercedes-AMG GT Safety Car,2014,Gr.X
-Mercedes-Benz,Mercedes-AMG GT3 (AMG-Team HTP-Motorsport),2015,Gr.3
-Mercedes-Benz,Mercedes-Benz AMG Vision Gran Turismo,2013,Gr.X
-Mercedes-Benz,Mercedes-Benz AMG Vision Gran Turismo Racing Series,2014,Gr.X
+Mercedes-Benz,Mercedes-AMG GT GT3,2015,Gr.3
 Mercedes-Benz,Sauber Mercedes C9,1989,Gr.1
 Mercedes-Benz,SLS AMG,2010,N 600
 Mercedes-Benz,SLS AMG Gr.4,2010,Gr.4
