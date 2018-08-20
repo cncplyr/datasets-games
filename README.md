@@ -88,6 +88,7 @@ The current list of games includes:
 * Ruiner
 * The Division
 * Watch_Dogs
+* Wipeout: Omega Collection
 
 ## PS Vita
 * Crazy Market
