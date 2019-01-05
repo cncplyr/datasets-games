@@ -1,14 +1,21 @@
-Type, Name, Stars, Rarity, Quantity, Cost (Coins), Cost (Helix Credits)
-Training Codex, Codex Page, 1, , 4, 160,
-Crafting Material, Copper Ore, 1, , 15, 600, 
-Crafting Material, Fabric, 1, , 15, 600, 
-Crafting Material, Leather Scraps, 1, , 20, 800, 
-Medicine, Mild Medicine, 1, , 3, , 15
-Medicine, Average Medicine, 2, , 2, , 14
-Medicine, Average Medicine, 2, , 3, , 21
-Intel, Intel, , , 30, , 90
-Intel, Intel, , , 40, , 120 
-Rift Tokens, Rift Tokens, , , 100, , 300
-DNA Fragment, Girolamo Da Lucca, , Legendary, 3, , 255
-DNA Fragment, Mayya al-Dabbaj, , Rare, 3, , 180
-DNA Fragment, Maximo Barrosa, , Common, 3, , 165
+Type,Name,Stars,Rarity,Quantity,Cost (Coins),Cost (Helix Credits)
+Training Codex,Codex Page,1,,4,160,
+Training Codex,Codex Page,1,,8,320,
+Crafting Material,Copper Ore,1,,15,600,
+Crafting Material,Tin Ore,1,,15,600,
+Crafting Material,Fabric,1,,15,600,
+Crafting Material,Leather Scraps,1,,20,800,
+Medicine,Mild Medicine,1,,3,,15
+Medicine,Average Medicine,2,,2,,14
+Medicine,Average Medicine,2,,3,,21
+Medicine,Average Medicine,2,,4,,28
+Intel,Intel,,,30,,90
+Intel,Intel,,,40,,120
+Intel,Intel,,,50,,150
+Rift Tokens,Rift Tokens,,,100,,300
+DNA Fragment,Girolamo Da Lucca,,Legendary,3,,255
+DNA Fragment,Maria,,Legendary,3,,255
+DNA Fragment,Mayya al-Dabbaj,,Rare,3,,180
+DNA Fragment,Tereysa de Lyano,,Rare,3,,180
+DNA Fragment,Maximo Barrosa,,Common,3,,165
+DNA Fragment,Constanza Ramos,,Common,3,,165
