@@ -70,6 +70,7 @@ The current list of games includes:
 * Gran Turismo 5
 
 ## PS4
+* Apex Legends
 * Assetto Corsa
 * The Crew
 * Destiny (Alpha)
