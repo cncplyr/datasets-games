@@ -41,6 +41,7 @@ The current list of games includes:
 * Tap Titans
 * Toast Time
 * Total War Battles: Kingdom
+* War Planet Online: Global Conquest
 * Warhammer 40,000: Carnage
 * Warhammer 40,000: Freeblade
 
