@@ -8,10 +8,10 @@ Alfa Romeo,4C Launch Edition,2014,N 200
 Alfa Romeo,GIULIA TZ2 carrozzata da ZAGATO CN.AR750106,,Gr.X
 Alfa Romeo,MiTo 1.4 T Sport,2014,N 200
 Alpine,A110 1600S,1972,N 100
-Alpine,A110 Première Édition,2017,N 300
-Alpine,Alpine Vision Gran Turismo,2014,Gr.X
-Alpine,Alpine Vision Gran Turismo 2017,2017,Gr.1
-Alpine,Alpine Vision Gran Turismo Race Mode,2014,Gr.X
+Alpine,A110 PremiÃ¨re Ã‰dition,2017,N 300
+Alpine,Vision Gran Turismo,2014,Gr.X
+Alpine,Vision Gran Turismo 2017,2017,Gr.1
+Alpine,Vision Gran Turismo Race Mode,2014,Gr.X
 Amuse,Amuse S2000 GT1 Turbo,,N 600
 Aston Martin,DB11,2016,N 600
 Aston Martin,DP-100 Vision Gran Turismo,2014,Gr.X
@@ -28,11 +28,11 @@ Audi,Sport quattro S1 Pikes Peak,1987,Gr.B Rally
 Audi,Vision Gran Turismo,2018,Gr.1
 Audi,R8 4.2 FSI R tronic,2007,N 400
 Audi,TT cup,2016,Gr.4
-Audi,TTS Coupé,2015,N 300
+Audi,TTS CoupÃ©,2015,N 300
 BMW,i3,2015,N 200
 BMW,M3 GT (BMW Motorsport,,Gr.3
 BMW,M3 Sport Evolution,1989,N 200
-BMW,M4 Coupé,2014,N 400
+BMW,M4 CoupÃ©,2014,N 400
 BMW,M4 Gr.4,2014,Gr.4
 BMW,M4 Safety Car,2014,Gr.X
 BMW,M6 GT3 (Walkenhorst Motorsport),2016,Gr.3
@@ -50,10 +50,10 @@ Chevrolet,Corvette C7 Gr.3 Road Car,2014,N 500
 Chevrolet,Corvette C7 Gr.4,2014,Gr.4
 Chevrolet,Corvette Stingray (C7),2014,N 500
 Chevrolet,Corvette Stingray Convertible (C3),1969,N 300
-Citroën,DS3 Racing,2015,N 200
-Citroën,GT by Citroën Gr.4,2010,Gr.4
-Citroën,GT by Citroën Race Car (Gr.3),2010,Gr.3
-Citroën,GT by Citroën Road Car,2010,N 500
+CitroÃ«n,DS3 Racing,2015,N 200
+CitroÃ«n,GT by CitroÃ«n Gr.4,2010,Gr.4
+CitroÃ«n,GT by CitroÃ«n Race Car (Gr.3),2010,Gr.3
+CitroÃ«n,GT by CitroÃ«n Road Car,2010,N 500
 Daihatsu,Copen Active Top,2002,N 100
 Daihatsu,DAIHATSU COPEN RJ Vision Gran Turismo,2017,Gr.X
 De Tomaso,Pantera,1971,N 300
@@ -118,16 +118,16 @@ Hyundai,N 2025 Vision Gran Turismo Gr.1,2015,Gr.1
 Infiniti,INFINITI CONCEPT Vision Gran Turismo,2014,Gr.X
 Jaguar,F-type Gr.3,2015,Gr.3
 Jaguar,F-type Gr.4,2015,Gr.4
-Jaguar,F-type R Coupé,2015,N 500
+Jaguar,F-type R CoupÃ©,2015,N 500
 Jaguar,Jaguar XJ13,1966,Gr.X
 Jaguar,Jaguar XJR-9,1988,Gr.1
 KTM,X-BOW R,2012,N 300
-Lamborghini,2015 Lamborghini Huracán GT3,2015,Gr.3
+Lamborghini,2015 Lamborghini HuracÃ¡n GT3,2015,Gr.3
 Lamborghini,Aventador LP 700-4,2011,N 700
 Lamborghini,Countach LP400,1974,N 400
 Lamborghini,Diablo GT,2000,N 600
-Lamborghini,Huracán Gr.4,2015,Gr.4
-Lamborghini,Huracán LP 610-4,2015,N 600
+Lamborghini,HuracÃ¡n Gr.4,2015,Gr.4
+Lamborghini,HuracÃ¡n LP 610-4,2015,N 600
 Lamborghini,Miura P400 Bertone Prototype CN.0706,1967,N 400
 Lamborghini,Veneno,2013,N 800
 Lancia,DELTA HF Integrale Evoluzione,,N 200
@@ -188,9 +188,9 @@ Nissan,MOTUL AUTECH GT-R,2016,Gr.2
 Nissan,CONCEPT 2020 Vision Gran Turismo,2014,Gr.X
 Nissan,Nissan GT-R NISMO,2015,N 600
 Nissan,R92CP,1992,Gr.1
-Nissan,Skyline GT-R V·spec (R33),1997,N 300
-Nissan,Skyline GT-R V·spec II (R32),1994,N 300
-Nissan,Skyline GT-R V·spec II Nür (R34),2002,N 300
+Nissan,Skyline GT-R VÂ·spec (R33),1997,N 300
+Nissan,Skyline GT-R VÂ·spec II (R32),1994,N 300
+Nissan,Skyline GT-R VÂ·spec II NÃ¼r (R34),2002,N 300
 Peugeot,208 GTi by Peugeot Sport,2015,N 200
 Peugeot,908 HDi FAP - Team Peugeot Total,2010,Gr.1
 Peugeot,L500R HYbrid Vision Gran Turismo 2017,2017,Gr.X
@@ -211,9 +211,9 @@ Porsche,Cayman GT4 Clubsport,2016,Gr.4
 Porsche,919 Hybrid (Porsche Team),2017,Gr.1
 Renault Sport,Clio R.S. 220 EDC Trophy '15,2015,N 200
 Renault Sport,Clio R.S. 220 EDC Trophy '16,2016,N 200
-Renault Sport,Mégane Gr.4,2011,Gr.4
-Renault Sport,Mégane R.S. Trophy,2011,N 300
-Renault Sport,Mégane Trophy,2011,Gr.4
+Renault Sport,MÃ©gane Gr.4,2011,Gr.4
+Renault Sport,MÃ©gane R.S. Trophy,2011,N 300
+Renault Sport,MÃ©gane Trophy,2011,Gr.4
 Renault Sport,R.S.01,2016,Gr.X
 Renault Sport,R.S.01 GT3,2016,Gr.3
 Shelby,Cobra 427,1966,N 500
