@@ -59,8 +59,10 @@ The current list of games includes:
 * Jack Lumber
 * Microsoft Mahjong
 * Microsoft Sudoku
+* Minecraft
 * Mini Metro
 * OlliOlli
+* Opus Magnum
 * SpaceChem
 * TIS-100
 * Toast Time
