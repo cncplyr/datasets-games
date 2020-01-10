@@ -94,6 +94,7 @@ The current list of games includes:
 * Resogun
 * Ruiner
 * The Division
+* Titanfall 2
 * Watch_Dogs
 * Wipeout: Omega Collection
 
