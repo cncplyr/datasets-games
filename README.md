@@ -64,6 +64,7 @@ The current list of games includes:
 * Mini Metro
 * OlliOlli
 * Opus Magnum
+* Slay the Spire
 * SpaceChem
 * TIS-100
 * Toast Time
