@@ -9,6 +9,7 @@ The current list of games includes:
 * Assassin's Creed Rebellion
 * Atomas
 * Brothers in Arms 3
+* Call of Duty: Mobile
 * Criminal Legacy
 * Crossy Road
 * CSR Racing 2
