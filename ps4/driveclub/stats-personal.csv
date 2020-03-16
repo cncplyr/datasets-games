@@ -1,5 +1,6 @@
 Track,Car,Time of Day,Time Lapse,Cloud Cover,Precipitation,Finish Time,Sector 1,Sector 2,Sector 3,Date of Race,Time of Race
 Asagiri Hills Racetrack 02,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:23.552,00:22.780,00:30.889,00:29.873,2015-03-02,22:15
+Asagiri Hills Racetrack 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,01:23.979,00:23.487,00:31.488,00:29.004,2020-03-16,09:13
 Asagiri Hills Racetrack 03,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:17.177,00:22.943,00:24.438,00:29.796,2015-03-02,22:15
 Asagiri Hills Racetrack 03,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:17.938,00:22.652,00:25.005,00:30.281,2015-03-02,21:58
 Asagiri Hills Racetrack 03,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:17.916,00:23.502,00:24.493,00:29.921,2015-03-02,22:05
@@ -8,6 +9,11 @@ Asagiri Hills Racetrack 03,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:20.391,00:22.
 Asagiri Hills Racetrack 03,RUF CTR3 Clubsport,13:00,1,Clear,Dry,01:23.6,00:22.8,00:30.9,00:29.9,2015-03-02,21:49
 Ashii 02 (Reverse),Caterham SP/300.R,13:00,1,Stormy,Dry,00:41.467,00:09.738,00:18.197,00:13.532,2017-04-03,19:02
 Atlanterhavsvegen,Ferrari FXX K,14:00,1,Clear,Dry,01:34.064,00:33.065,00:25.169,00:35.830,2017-04-03,22:09
+Autodromo Frontera 03,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:47.661,00:15.378,00:15.309,00:16.974,2020-03-16,08:47
+Autodromo Frontera 03,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:47.675,00:15.511,00:15.219,00:16.945,2020-03-16,08:46
+Autodromo Frontera 03,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:48.424,00:15.494,00:15.819,00:17.111,2020-03-16,08:45
+Autodromo Frontera 03,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:48.691,00:15.575,00:16.541,00:16.575,2020-03-16,08:40
+Autodromo Frontera 03,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:50.296,00:15.338,00:16.617,00:18.341,2020-03-16,08:38
 Autodromo Frontera 03,Ferrari 430 Scuderia,14:00,1,Clear,Dry,00:50.570,00:16.442,00:16.464,00:17.664,2015-05-10,17:45
 Bandipur,Audi A1 Quattro,02:00,1,Cloudy,Dry,01:35.288,00:32.636,00:30.099,00:32.553,2020-02-13,00:38
 Black Hills Race Circuit 01,Rimac Automobili Concept_One,14:00,1,Clear,Dry,01:11.799,00:23.658,00:24.884,00:23.257,2020-02-12,23:56
@@ -72,6 +78,9 @@ Oliver's Landing,Audi A1 Quattro,14:00,1,Stormy,Heavy,01:34.390,00:29.096,00:32.
 Port of Vancouver 01,Honda Civic Type R,14:00,1,Sunny,Dry,01:03.044,00:16.407,00:22.943,00:23.694,2020-02-16,09:16
 Port of Vancouver 01,Volkswagen Golf GTI,14:00,1,Sunny,Dry,01:03.100,00:17.038,00:22.368,00:23.694,2020-02-16,09:20
 Port of Vancouver 01,Volkswagen Beetle GSR,14:00,1,Sunny,Dry,01:04.942,00:16.724,00:23.829,00:24.389,2020-02-16,09:13
+SKNO Sognefjord Raceway 03,Ferrari Enzo Ferrari,14:00,1,Sunny,Dry,01:04.550,00:22.554,00:21.650,00:20.346,2020-03-16,09:09
+SKNO Sognefjord Raceway 03,Ferrari Enzo Ferrari,14:00,1,Sunny,Dry,01:06.521,00:24.725,00:21.687,00:20.109,2020-03-16,09:06
+SKNO Sognefjord Raceway 03,Ferrari Enzo Ferrari,14:00,1,Sunny,Dry,01:13.685,00:26.686,00:26.408,00:20.591,2020-03-16,09:05
 Sinclair Pass,Kawasaki Ninja ZX-10R 30th Anniversary Edition,14:00,1,Clear,Dry,01:36.902,00:28.380,00:38.228,00:30.294,2020-02-13,08:44
 Taapaca,Peugeot Onyx Concept,14:00,1,Clear,Dry,03:23.536,01:11.684,01:08.023,01:03.829,2015-05-10,17:03
 Takahagi Hills,Koenigsegg Regera,14:00,1,Clear,Dry,01:42.552,00:35.325,00:32.336,00:34.891,2017-05-07,23:24
@@ -86,39 +95,51 @@ Takahagi Hills,Mercedes-Benz SLS AMG Couple Black Series,14:00,1,Clear,Dry,02:00
 Takahagi Hills,Savage Rivale GTR-S,12:00,15,Clear,Dry,02:03.619,00:43.982,00:37.811,00:41.826,2015-03-07,21:27
 Takahagi Hills,Maserati GranTurismo MC Stradale,12:00,60,Clear,Dry,02:06.773,00:44.981,00:38.196,00:43.596,2015-03-07,21:24
 Tamil Nadu Circuit 01,Hennessey Venom GT,09:00,15,Cloudy,Dry,01:19.347,00:23.468,00:27.909,00:27.970,2015-03-24,22:08
-Tamil Nadu Circuit 02,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,0:44.404,00:14.942,00:15.436,00:14.026,2020-03-12,08:59
+Tamil Nadu Circuit 02,Koenigsegg Regera,14:00,1,Clear,Dry,00:43.371,00:14.223,00:14.809,00:14.339,2020-03-12,19:07
+Tamil Nadu Circuit 02,Koenigsegg One:1,14:00,1,Clear,Dry,00:43.690,00:14.231,00:14.697,00:14.762,2020-03-12,19:12
+Tamil Nadu Circuit 02,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,00:44.404,00:14.942,00:15.436,00:14.026,2020-03-12,08:59
+Tamil Nadu Circuit 02,Koenigsegg One:1,14:00,1,Clear,Dry,00:44.426,00:14.558,00:15.892,00:13.976,2020-03-12,19:11
+Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:44.614,00:14.812,00:15.241,00:14.561,2020-03-16,08:24
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:44.687,00:14.948,00:15.407,00:14.332,2020-03-12,08:41
 Tamil Nadu Circuit 02,Ferrari FXX K,14:00,1,Clear,Dry,00:44.732,00:14.745,00:15.058,00:14.929,2020-03-09,23:45
+Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:44.768,00:15.192,00:15.175,00:14.401,2020-03-16,08:33
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:44.803,00:14.716,00:15.665,00:14.422,2020-03-11,19:18
+Tamil Nadu Circuit 02,Koenigsegg Regera,14:00,1,Clear,Dry,00:44.824,00:15.103,00:15.151,00:14.570,2020-03-12,19:04
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:44.835,00:15.089,00:15.599,00:14.147,2020-03-12,08:31
+Tamil Nadu Circuit 02,Koenigsegg Regera,14:00,1,Clear,Dry,00:44.996,00:14.827,00:15.489,00:14.680,2020-03-12,19:10
 Tamil Nadu Circuit 02,Jaguar C-X75 Prototype Edition,14:00,1,Clear,Dry,00:45.044,00:15.079,00:15.314,00:14.651,2020-03-12,08:55
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.083,00:15.044,00:15.737,00:14.302,2020-03-11,19:34
+Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.090,00:15.309,00:15.794,00:13.987,2020-03-16,08:29
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:45.240,00:15.319,00:15.501,00:14.420,2020-03-11,19:17
-Tamil Nadu Circuit 02,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,0:45.257,00:15.162,00:15.899,00:14.196,2020-03-12,08:58
+Tamil Nadu Circuit 02,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,00:45.257,00:15.162,00:15.899,00:14.196,2020-03-12,08:58
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.365,00:15.102,00:15.385,00:14.878,2020-03-10,15:37
-Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,0:45.415,00:15.262,00:15.590,00:14.563,2020-03-12,08:47
+Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,00:45.415,00:15.262,00:15.590,00:14.563,2020-03-12,08:47
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:45.470,00:15.283,00:15.694,00:14.493,2020-03-11,19:15
 Tamil Nadu Circuit 02,Gumpert Apollo Enraged,14:00,1,Clear,Dry,00:45.543,00:15.296,00:15.512,00:14.735,2020-03-11,08:47
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.560,00:15.344,00:16.065,00:14.241,2020-03-10,15:34
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.568,00:14.894,00:15.835,00:14.839,2020-03-11,19:33
+Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.710,00:15.577,00:15.058,00:15.075,2020-03-16,08:32
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:45.760,00:15.083,00:15.548,00:15.129,2020-03-10,15:36
+Tamil Nadu Circuit 02,RUF CTR3 Clubsport,14:00,1,Clear,Dry,00:45.854,00:15.223,00:15.660,00:14.971,2020-03-12,19:17
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:45.860,00:15.042,00:15.413,00:15.405,2020-03-09,23:48
-Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,0:45.943,00:15.429,00:15.692,00:14.822,2020-03-12,08:46
+Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,00:45.943,00:15.429,00:15.692,00:14.822,2020-03-12,08:46
 Tamil Nadu Circuit 02,Ferrari 599XX Evoluzione,14:00,1,Clear,Dry,00:45.910,00:15.480,00:15.963,00:14.467,2020-03-09,23:32
+Tamil Nadu Circuit 02,RUF CTR3 Clubsport,14:00,1,Clear,Dry,00:46.010,00:15.353,00:15.840,00:14.817,2020-03-12,19:14
 Tamil Nadu Circuit 02,McLaren P1,14:00,1,Clear,Dry,00:46.113,00:16.040,00:15.478,00:14.595,2020-03-11,08:49
 Tamil Nadu Circuit 02,Peugeot Onyx Concept,14:00,1,Clear,Dry,00:46.147,00:15.619,00:15.613,00:14.915,2020-03-12,08:52
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:46.282,00:16.375,00:15.791,00:14.116,2020-03-11,19:28
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:46.202,00:15.584,00:15.908,00:14.710,2020-03-09,23:44
 Tamil Nadu Circuit 02,Lamborghini Veneno,14:00,1,Clear,Dry,00:46.337,00:15.223,00:15.884,00:15.230,2020-03-12,08:50
 Tamil Nadu Circuit 02,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,00:46.740,00:15.574,00:16.511,00:14.655,2020-03-10,15:32
-Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,0:46.748,00:15.434,00:15.822,00:15.492,2020-03-12,08:45
+Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,00:46.748,00:15.434,00:15.822,00:15.492,2020-03-12,08:45
 Tamil Nadu Circuit 02,W Motors Lykan Hypersport,14:00,1,Clear,Dry,00:46.794,00:15.798,00:15.875,00:15.121,2020-03-12,09:01
 Tamil Nadu Circuit 02,Jaguar C-X75 Prototype Edition,14:00,1,Clear,Dry,00:47.058,00:16.180,00:15.613,00:15.265,2020-03-12,08:54
 Tamil Nadu Circuit 02,Gumpert Apollo Enraged,14:00,1,Clear,Dry,00:47.097,00:14.787,00:16.193,00:16.117,2020-03-11,08:46
 Tamil Nadu Circuit 02,Lamborghini Veneno,14:00,1,Clear,Dry,00:47.105,00:16.379,00:15.943,00:14.783,2020-03-12,08:49
 Tamil Nadu Circuit 02,Peugeot Onyx Concept,14:00,1,Clear,Dry,00:47.368,00:15.697,00:16.239,00:15.432,2020-03-012,08:51
-Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,0:47.374,00:15.095,00:16.012,00:16.267,2020-03-12,08:43
+Tamil Nadu Circuit 02,Rimac Automobili Concept_One,14:00,1,Clear,Dry,00:47.374,00:15.095,00:16.012,00:16.267,2020-03-12,08:43
 Tamil Nadu Circuit 02,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,00:47.963,00:15.693,00:15.529,00:16.741,2020-03-07,00:11
+Tamil Nadu Circuit 02,Wombat Typhoon,14:00,1,Clear,Dry,00:52.006,00:17.571,00:17.788,00:16.647,2020-03-12,19:19
 The Kyle,Hennessey Venom GT,14:00,1,Clear,Dry,01:48.433,00:38.432,00:35.538,00:34.463,2017-05-05,19:53
 The Kyle,Ferrari FXX K,14:00,1,Clear,Dry,01:49.182,00:39.309,00:36.791,00:33.082,2017-05-05,19:15
 The Kyle,Koenigsegg One:1,14:00,1,Clear,Dry,01:49.403,00:39.417,00:36.110,00:33.876,2017-05-05,19:22
@@ -128,6 +149,7 @@ The Kyle,Koenigsegg Agera R,14:00,1,Clear,Dry,01:51.697,00:40.430,00:37.572,00:3
 The Kyle,McLaren F1 LM,14:00,1,Clear,Dry,01:52.166,00:40.681,00:37.411,00:34.074,2017-05-05,19:29
 The Kyle,Ferrari FXX Evoluzione,14:00,1,Clear,Dry,01:52.709,00:39.132,00:37.352,00:36.225,2017-05-07,23:45
 The Kyle,McLaren P1 GTR,14:00,1,Clear,Dry,01:53.427,00:40.006,00:38.562,00:34.859,2017-05-05,19:19
+The Kyle,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,01:53.701,00:41.293,00:38.120,00:34.288,2020-03-16,09:03
 The Kyle,Koenigsegg Regera,14:00,1,Clear,Dry,01:54.137,00:40.042,00:36.789,00:37.306,2017-05-04,23:01
 The Kyle,Jaguar C-X75 Prototype Edition,14:00,1,Clear,Dry,01:54.164,00:40.536,00:37.865,00:35.763,2017-05-04,22:51
 The Kyle,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,01:54.200,00:40.233,00:40.455,00:33.512,2017-05-04,22:54
@@ -141,6 +163,7 @@ The Kyle,W Motors Lykan Hypersport,14:00,1,Clear,Dry,01:56.576,00:41.651,00:38.9
 The Kyle,Jaguar C-X75 Prototype Edition,14:00,1,Clear,Dry,01:56.829,00:41.634,00:38.627,00:36.568,2017-04-03,00:25
 The Kyle,Rimac Automobili Concept_One,14:00,1,Clear,Dry,01:56.432,00:40.124,00:39.969,00:36.339,2017-05-04,22:42
 The Kyle,W Motors Lykan Hypersport,14:00,1,Clear,Dry,01:56.9,00:41.4,00:40.2,00:35.3,2014-12-26,17:14
+The Kyle,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,01:57.106,00:41.582,00:38.199,00:37.325,2020-03-16,08:59
 The Kyle,Lamborghini Veneno,14:00,1,Clear,Dry,01:57.726,00:41.683,00:39.180,00:36.863,2017-05-04,22:45
 The Kyle,W Motors Lykan Hypersport,14:00,1,Clear,Dry,01:57.8,00:41.8,00:39.0,00:37.1,2014-12-26,17:11
 The Kyle,Pagani Huayra,14:00,1,Clear,Dry,01:58.9,00:42.8,00:40.1,00:36.1,2014-12-30,20:20
