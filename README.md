@@ -6,6 +6,7 @@ The current list of games includes:
 
 ## Android
 * Adventure Town
+* Asphalt-9
 * Assassin's Creed Rebellion
 * Atomas
 * Brothers in Arms 3
