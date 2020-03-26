@@ -79,7 +79,7 @@ The current list of games includes:
 ## PS4
 * Apex Legends
 * Assetto Corsa
-* The Crew
+* Call of Duty: Modern Warfare (2019)
 * Destiny (Alpha)
 * Destiny (Beta)
 * Destiny
@@ -96,6 +96,7 @@ The current list of games includes:
 * Red Dead Redemption 2
 * Resogun
 * Ruiner
+* The Crew
 * The Division
 * Titanfall 2
 * Watch_Dogs
