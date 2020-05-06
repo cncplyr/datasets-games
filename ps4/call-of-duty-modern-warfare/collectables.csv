@@ -1,58 +1,89 @@
 Name,Type,Rarity,Description,Unlock
+Death Support,Calling Card,Legendary,,Bundle - Enlisted
 Fatal Attraction,Calling Card,Legendary,,Bundle - Arachnid
 Affrodisiac,Calling Card,Epic,,Bundle - Blunt Force
+Boot Camp,Calling Card,Epic,,Bundle - Heavy Hitter
 Catching Air,Calling Card,Epic,,Bundle - Battle Hardened
+Charly,Calling Card,Epic,,Bundle - Gift Pack
 Cya,Calling Card,Epic,,Bundle - Akimbo Pack: Anime
 Desert Wraith,Calling Card,Epic,,Bundle - Akimbo Pack: Dark Damascus
 Freedom Fighters,Calling Card,Epic,,Bundle - Lone Marauder
+Heaven Sent,Calling Card,Epic,,Bundle - Heavenly Aim
+Heli Storm,Calling Card,Epic,,Bundle - Air Assault
 Hold The Line,Calling Card,Epic,,Bundle - Imperatorium
 I Shot First,Calling Card,Epic,,Bundle - Caliber Conversion Pack: .41 Action Express
 Insatiable,Calling Card,Epic,,Bundle - Deathbringer
+Magic Powers,Calling Card,Epic,,Bundle - Tacticolor II
 Master Fisher,Calling Card,Epic,,Bundle - Bird of Prey
+Mowed Down,Calling Card,Epic,,Bundle - Old School
 Nocturnal Predator,Calling Card,Epic,,Bundle - Nightstalker
 Party Favors,Calling Card,Epic,,Bundle - FNG
 Point Taken,Calling Card,Epic,,Bundle - Cloak and Dagger
+Rainin' Lead,Calling Card,Epic,,Bundle - Mother Russia
+Repugnance,Calling Card,Epic,,Bundle - Red Iron
 Ruthless,Calling Card,Epic,,Bundle - Brutalizer Pack: Bare Metal
+Scoped In,Calling Card,Epic,,Bundle - Standard Issue I
 Silent Night,Calling Card,Epic,,Bundle - Covert Operations
 Skull Splitter,Calling Card,Epic,,Bundle - Battle-Ready
+Squatch,Calling Card,Epic,,Bundle - Hunter's Paradise
 Successful Hunt,Calling Card,Epic,,Bundle - Wolf Pack
+Swamp Creature,Calling Card,Epic,,Bundle - Toxic Ooze
 Through The Mist,Calling Card,Epic,,Bundle - Operator Bundle: Ronin
 Uplinked,Calling Card,Epic,,Bundle - Tracer Pack: Green
 A Fool's Errand,Calling Card,Rare,,Bundle - Fool's Gold II
+Aggro Ape,Calling Card,Rare,,Bundle - Carnivorous
+Bone-Headed,Calling Card,Rare,,Bundle - Gift Pack
 Bright Future,Calling Card,Rare,,Bundle - Blue Steele
 Burrowing Behemoth,Calling Card,Rare,,Bundle - Diamond Days
+Chest Pain,Calling Card,Rare,,Bundle - Heartburn
 Chimera Graffiti,Calling Card,Rare,,Bundle - Chimera Pack
 Colossal Take Down,Calling Card,Rare,,Bundle - Caliber Conversion Pack: Dragon's Breath
 Desolate Despair,Calling Card,Rare,,Bundle - Matte Black
 Diplomacy,Calling Card,Rare,,Bundle - British Metal
+Double Vision,Calling Card,Rare,,Mission - WZ - Get 15 kills with a common weapon.
 Drainage,Calling Card,Rare,,Bundle - Cleanup Crew
+Hot Box,Calling Card,Rare,,Mission - WZ - Get 6 kills with a legendary weapon.
 Ice Myths,Calling Card,Rare,,Bundle - Cold Blood
 In The Grid,Calling Card,Rare,,Bundle - Organic Circuitry
 Knockout,Calling Card,Rare,,Bundle - Close Quarters
+Minor Accident,Calling Card,Rare,,Mission - MP - Destroy 15 vehicle(s) with Launchers.
 Modern Woodland,Calling Card,Rare,,Bundle - Emerald Ranger
 Rat Race,Calling Card,Rare,,Bundle - Geometric
+The Drifter,Calling Card,Rare,,Bundle - The Texan
+Warcom Graffiti,Calling Card,Rare,,Bundle - Warcom Pack
 Wrong Angel,Calling Card,Rare,,Bundle - Asanbosam
+Brighter Tomorrow,Calling Card,Common,,Mission - MP - Get 20 Longshot Kills
+Crimson Storm,Calling Card,Common,,
+Deciduous,Calling Card,Common,,Bundle - Gift Pack
+Fall,Calling Card,Common,,Bundle - Gift Pack
+Hit The Deck,Calling Card,Common,,
+Mile High,Calling Card,Common,,Mission - MP - Get 75 kills with Light Machine Guns.
 Redemption,Calling Card,Common,,Mission - MP - 3 Win(s) in Team Deathmatch.
 Wise Raptor,Calling Card,Common,,Mission - WZ - Earn top 15 placement with your team 3 time(s).
 Nature Provides,Calling Card,,,Playstation - PS Plus Combat Pack Season 03
 Folktale,Charm,Legendary,,Bundle - Asanbosam
-Night Light,Charm,Legendary,,
+Night Light,Charm,Legendary,,Bundle - Enlisted
 Ancient Royal,Charm,Epic,,Bundle - Executive Armory IV
 Bear Trap,Charm,Epic,,Playstation - PS Plus Combat Pack Season 03
 Dream Catchin,Charm,Epic,,
 English Breakfast,Charm,Epic,,Bundle - British Metal
 Gas This!,Charm,Epic,,Season 1 - Tier 97
 Gilded Afterlife,Charm,Epic,,Bundle - Executive Armory V
+Haymaker,Charm,Epic,,Bundle - Air Assault
 Helpful Doge,Charm,Epic,,
 Jabberwock,Charm,Epic,,Bundle - Caliber Conversion Pack: Dragon's Breath
+Knuckle Break,Charm,Epic,,Bundle - Half Dead
 Leprechaun,Charm,Epic,,Bundle - Tracer Pack: Green
 Lethal Tender,Charm,Epic,,Season 2 - Tier 84
 Love Bomb,Charm,Epic,,Bundle - Tracer Pack: Anime
 Loyal Specter,Charm,Epic,,Bundle - Akimbo Pack: Dark Damascus
 Making Bank,Charm,Epic,,
 Orizuru,Charm,Epic,,Bundle - Akimbo Pack: Anime
+Roadtripper,Charm,Epic,,Bundle - Hang Ten
+Scoutin',Charm,Epic,,Bundle - Old Scout
 Shredded,Charm,Epic,,
 Skull Comms,Charm,Epic,,Season 2 - Tier 97
+Spart Farkles,Charm,Epic,,Bundle - Tacticolor II
 Star of Night,Charm,Epic,,Bundle - Sakura Edition
 Supreme Slice,Charm,Epic,,
 Time Piece,Charm,Epic,,
@@ -64,8 +95,10 @@ Armor On,Charm,Rare,,Bundle - Battle Hardened
 Bestfriend,Charm,Rare,,Bundle - Alpha Dog
 Blade of Valor,Charm,Rare,,
 Bombs Away,Charm,Rare,,Season 1 - Tier 69
+Bone Dry,Charm,Rare,,Bundle - The Texan
 Boomerang,Charm,Rare,,
 Boots on the Ground,Charm,Rare,,Bundle - Lonestar
+Carotene,Charm,Rare,,Bundle - Hare Hunter
 Centipede,Charm,Rare,,
 Chess Moves,Charm,Rare,,Bundle - Bronze Knight
 Chibi Machine Gunner,Charm,Rare,,Bundle - Notice Me II
@@ -74,15 +107,18 @@ Decked Out,Charm,Rare,,Bundle - Matte Black
 Dragon Eye,Charm,Rare,,
 Explosive Surprise,Charm,Rare,,Bundle - Emerald Ranger
 Fishbones,Charm,Rare,,Bundle - Bone Dry
+Fowl Play,Charm,Rare,,Bundle - Hunter's Paradise
 Free Dive,Charm,Rare,,Bundle - Modern Warfare 2 Campaign Remastered
 Freshen Up,Charm,Rare,,Bundle - The Unseen
 Getting Paid,Charm,Rare,,Bundle - Executive Armory III
 Gloves Off,Charm,Rare,,Bundle - Chill Confirmed
 Good Luck,Charm,Rare,,
+Good Luck,Charm,Rare,,Bundle - The Gambler
 Gun Run,Charm,Rare,,
 Heritage,Charm,Rare,,Bundle - Bird of Prey
 Hibiscus,Charm,Rare,,Bundle - Flower Power
 High Sodium,Charm,Rare,,Bundle - Heavy Shot
+Holy Grail,Charm,Rare,,Bundle - Fool's Gold
 IED,Charm,Rare,,
 Jurassic Claw,Charm,Rare,,Bundle - Lone Marauder
 Key Rex,Charm,Rare,,Bundle  - Tomogunchi
@@ -92,6 +128,7 @@ Luna,Charm,Rare,,
 Mack8,Charm,Rare,,
 Mine Over Matter,Charm,Rare,,Season 1 - Tier 39
 Misfortune Cookie,Charm,Rare,,Bundle - Dead Man's Fortune
+Mister Ginger,Charm,Rare,,Bundle - Ginger Red
 Old School,Charm,Rare,,
 Opynxe,Charm,Rare,,
 Pink Bones,Charm,Rare,,Bundle - Lady Luck
@@ -105,15 +142,21 @@ Scarab,Charm,Rare,,Bundle - Desert Marksman
 Sergeant,Charm,Rare,,
 Set To Blow,Charm,Rare,,Season 1 - Tier 84
 Sharp Dresser,Charm,Rare,,Bundle - Cloak and Dagger
+Space Race,Charm,Rare,,Bundle - Red Iron
+Stay Frosty,Charm,Rare,,Bundle - Old School
 Stick' Em,Charm,Rare,,
+Taco Tuesdays,Charm,Rare,,Bundle - Heartburn
+Tags Denied,Charm,Rare,,Bundle - Blood Stained
 Tasty Treat,Charm,Rare,,Bundle - Panda's Treasure
 Tempus,Charm,Rare,,Season 1 - Tier 24
 The One-Four-One,Charm,Rare,,Season 2 - Tier 24
 The Widow,Charm,Rare,,Bundle - Arachnid
 Top Dog,Charm,Rare,,Bundle - First Hunt
+Turbocharged,Charm,Rare,,Bundle - Checkered Flag
 Valhalla,Charm,Rare,,Bundle - Viking Burial II
 Wall Hacks,Charm,Rare,,Season 1 - Tier 54
 Watch Your Step,Charm,Rare,,Bundle - Tacticolor III
+Whiskey Tango Foxtrot,Charm,Rare,,Bundle - Heavy Hitter
 Zipes!,Charm,Rare,,Bundle - Double Strike
 50 Cal,Charm,Common,,
 Blackshot,Charm,Common,,Season 2 - Tier 39
@@ -133,10 +176,15 @@ Saddled,Charm,Common,,
 Smoke in my Eyes,Charm,Common,,
 Sunny Disposition,Charm,Common,,
 Wolf Pup,Charm,Common,,
+Cause and Effect,Emblem,Legendary,,Bundle - Old School
+Angelic Rounds,Emblem,Epic,,Bundle - Heavenly Aim
+Bear Bites,Emblem,Epic,,Bundle - Old Scout
 Bear Claw,Emblem,Epic,,Bundle - First Hunt
+Burnin' Rubber,Emblem,Epic,,Bundle - Checkered Flag
 Cause and Affect,Emblem,Epic,,Bundle - Diamond Days
 Chained Down,Emblem,Epic,,Bundle - Caliber Conversion Pack: .41 Action Express
 Eurotas,Emblem,Epic,,Bundle - Imperatorium
+Explosive Puppeteers,Emblem,Epic,,Mission - MP - Get 10 kills with a Cluster Strike.
 Ghost Story,Emblem,Epic,,Bundle - Brutalizer Pack: Bare Metal
 Grim Outlook,Emblem,Epic,,Bundle - Wasteland
 Hive Mind,Emblem,Epic,,Bundle - Geometric
@@ -144,51 +192,80 @@ Honor Bound,Emblem,Epic,,Bundle - British Metal
 Inky Business,Emblem,Epic,,Bundle - The Octopus Garden
 Life in the Balance,Emblem,Epic,,Bundle - Covert Operations
 Mastermind,Emblem,Epic,,Bundle - Organic Circuitry
+Red Rage,Emblem,Epic,,Bundle - Gift Pack
 Skull Crusher,Emblem,Epic,,Bundle - Battle-Ready
+Slughead,Emblem,Epic,,Bundle - Toxic Ooze
 Smoking Buddy,Emblem,Epic,,Bundle - Blunt Force
+Snake Eyes,Emblem,Epic,,Bundle - The Gambler
 Terminal Patrol,Emblem,Epic,,Bundle - Cleanup Crew
+The Roc,Emblem,Epic,,Bundle - Roc Slayer
 Two Toned Teeth: Silver,Emblem,Epic,,Bundle - Blue Steele
+Venom Strike,Emblem,Epic,,Bundle - Amphibious
 War Dog,Emblem,Epic,,Bundle - Wolf Pack
 Ancient Ram,Emblem,Rare,,Bundle - Desert Marksman
+Astrologicus,Emblem,Rare,,Mission - WZ - Collect a Weapon in 6 different matches.
 Black Skull Badge,Emblem,Rare,,Bundle - Sentinel
 Blood and Thunder,Emblem,Rare,,Bundle - Operator Bundle: Ronin
 Boom Bloom,Emblem,Rare,,Bundle - Flower Power
+Brain-Kebab,Emblem,Rare,,Bundle - Standard Issue I
 Chimera,Emblem,Rare,,Bundle - Chimera Pack
 Devil Horns,Emblem,Rare,,Bundle - Asanbosam
 Edge Lord,Emblem,Rare,,Mission - MP - Get 5 kills without dying 3 time(s)
 Fruit Salad,Emblem,Rare,,Bundle - Tacticolor III
 G.O.M.E. Illuminations,Emblem,Rare,,Mission - WZ - Complete 5 'Recon' Contract(s).
 Garden Grove,Emblem,Rare,,Bundle - Panda's Treasure
+Hellhound,Emblem,Rare,,Bundle - Carnivorous
 Ice Age,Emblem,Rare,,Bundle - Cold Blood
+Killer Slice,Emblem,Rare,,Bundle - Heartburn
 Long Toothed,Emblem,Rare,,Bundle - Deathbringer
 Pinkeye,Emblem,Rare,,Bundle - Fire Claw II
 Royal Chamber,Emblem,Rare,,Bundle - Fool's Gold II
+Ursa Roar,Emblem,Rare,,Bundle - Mother Russia
 Wading Marauder,Emblem,Rare,,Bundle - Dead Man's Fortune
 War Birds,Emblem,Rare,,Bundle - Lights Out
+Warcom,Emblem,Rare,,Bundle - Warcom Pack
 Web Of Death,Emblem,Rare,,Bundle - Arachnid
 Knife Fight,Emblem,Common,,Bundle - Gift Pack
+Poleaxe,Emblem,Common,,Bundle - Gift Pack
+Boinkers!,Spray,Rare,,Mission - WZ - Start 5 Contract(s) at the Zordaya Prison Complex.
 Center Mass,Spray,Rare,,Bundle - FNG
 Chill,Spray,Rare,,Bundle - Blue Steele
+Covert Takedown,Spray,Rare,,Mission - MP - Get 30 Hipfire Kills.
+Dead Center,Spray,Rare,,Bundle - Gift Pack
 Dope Thoughts,Spray,Rare,,Bundle - Chill Confirmed
+Heavy,Spray,Rare,,Bundle - Heavy Shot
+Lil Devil,Spray,Rare,,Bundle - Standard Issue I
 Rally Cry,Spray,Rare,,Bundle - Operator Bundle: Ronin
 Thunder Knight,Spray,Rare,,Bundle - Bronze Knight
 Tyrannical,Spray,Rare,,Bundle - Fool's Gold II
+Belly Flop,Spray,Common,,Bundle - Standard Issue I
+Puppy Patdown,Spray,Common,,Bundle - Gift Pack
 Stalking Gargoyle,Spray,Common,,Bundle - Lone Marauder
 Off The Lawn!,Spray,,,Playstation - PS Plus Combat Pack Season 03
 Assertive Octopod,Sticker,Legendary,,Bundle - Executive Armory III
 Deep Wounds,Sticker,Legendary,,Bundle - Operator Bundle: Ronin
+Grunt's Last Gasp,Sticker,Legendary,,Bundle - Heavy Hitter
 Poison Arrow,Sticker,Legendary,,Bundle - Cloak and Dagger
 Savage Champion,Sticker,Legendary,,Bundle - Alpha Dog
+Still Smiling,Sticker,Legendary,,Bundle - Fool's Gold
+The Face of Spades,Sticker,Legendary,,Bundle - The Gambler
 War Dog,Sticker,Legendary,,Bundle - FNG
+Bloody Knucks,Sticker,Epic,,Bundle - Half Dead
 Dark Claw,Sticker,Epic,,Bundle - Nightstalker
+Island Beauty,Sticker,Epic,,Bundle - Hang Ten
 Ouroboros,Sticker,Epic,,Bundle - Executive Armory V
 Pharaoh,Sticker,Epic,,Bundle - Executive Armory IV
 Ruler of Gods,Sticker,Epic,,Bundle - Viking Burial II
+Spread Eagle,Sticker,Epic,,Bundle - The Texan
 Tentacles,Sticker,Epic,,Bundle - Blue Steele
+All Aces,Sticker,Rare,,Mission - MP - 3 Win(s) in Search and Destroy.
 Apex Predator,Sticker,Rare,,Bundle - Fire Claw I
+Bedrockabilly Red,Sticker,Rare,,Bundle - Ginger Red
 Blunt Silk Wrap,Sticker,Rare,,Bundle - Blunt Force
 Chevron Colliding,Sticker,Rare,,Bundle - Emerald Ranger
 Crossbones,Sticker,Rare,,Bundle - Bone Dry
+Death On 2 Wheels,Sticker,Rare,,Bundle - Checkered Flag
+Desert DOA,Sticker,Rare,,Bundle - Old School
 Designation,Sticker,Rare,,Bundle - Desert Marksman
 Fruit Punch,Sticker,Rare,,Bundle - Tacticolor III
 Gladiator,Sticker,Rare,,Bundle - Sentinel
@@ -196,11 +273,16 @@ Head Case,Sticker,Rare,,Bundle - Lights Out
 In The Rough,Sticker,Rare,,Bundle - Lady Luck
 Liberty,Sticker,Rare,,Bundle - Lonestar
 Mincing Meat,Sticker,Rare,,Bundle - Close Quarters
+Motherland,Sticker,Rare,,Bundle - Mother Russia
+Only A Lil Dead,Sticker,Rare,,Bundle - Hare Hunter
 Peckish,Sticker,Rare,,Bundle - Battle Hardened
+Pierce The Sky,Sticker,Rare,,Bundle - Roc Slayer
 Seabed Head,Sticker,Rare,,Bundle - The Octopus Garden
+Sinister Stare,Sticker,Rare,,Bundle - Blood Stained
 Striker,Sticker,Rare,,Bundle - Double Strike
 Tan Diagonal,Sticker,Rare,,Bundle - Bronze Knight
 Disco Stud,Watch,Legendary,,Season 1 - Tier 62
+Emblem Precision I,Watch,Legendary,"Show off your true colors and your impeccable timekeeping skills, all in one chronographic triumph.",Bundle - Amphibious
 Emblem Precision II,Watch,Legendary,Show them what you've got with the Emblem Precision II Watch which displays your currently equiped Emblem on its,Season 2 - Tier 93
 Final Countdown,Watch,Legendary,How many kills until I get the nuke? Now you don't have to ask anymore - just look at your watch.,
 Freeze Frame,Watch,Legendary,Get a little extra time with the Freeze Frame Watch.,
@@ -210,6 +292,7 @@ Radioactive,Watch,Legendary,"Count down to the apocalypse with the Radioactive W
 Red Ratio,Watch,Legendary,Beat more than Father Time with the Red Ratio Watch and keep track of your K/D ratio while you're at it.,Season 2 - Tier 62
 Skilltrack 55,Watch,Legendary,,
 Skilltrack 56,Watch,Legendary,"This watch ranks as one of the most progressive out there. Oh, and it shows your rank progress too.",Playstation - PS Plus  Combat Pack Season 02
+Time to Die,Watch,Legendary,Time is the fire in which our K/D ratios burn. Keep track of it all with the Time to Die watch.,Bundle - Mother Russia
 Time To Kill,Watch,Legendary,"You HAVE time to kill, or it Is time to kill? Your choice with this functional timepiece which tracks your K/D.",Bundle - Deathbringer
 Tomogunchi,Watch,Legendary,,Bundle  - Tomogunchi
 Acid Rain,Watch,Epic,,Bundle - Cleanup Crew
@@ -239,3 +322,4 @@ Paris Legion,Watch,Rare,This is the Paris Legion watch.,Bundle - Paris Legion
 Seattle Surge,Watch,Rare,This is the Seattle Surge watch.,Bundle - Seattle Surge
 Spetsnaz Watch,Watch,Rare,"In Communist Russia, time kills you. The Spetsnaz Watch.",
 Toronto Ultra,Watch,Rare,This is the Toronto Ultra watch.,Bundle - Toronto Ultra
+Warcom Watch,Watch,Rare,Come correct and get buttoned up with the Warcom Watch.,Bundle - Warcom Pack
