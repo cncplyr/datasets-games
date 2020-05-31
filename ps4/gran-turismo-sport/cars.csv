@@ -1,24 +1,25 @@
 Manufacturer,Model,Year,Category
-Abarth,1500 Biposto Bertone B.A.T. 1,,N 100
-Abarth,500,,N 100
+Abarth,1500 Biposto Bertone B.A.T. 1,,N100
+Abarth,500,,N100
 Alfa Romeo,4C Gr.3,2009,Gr.3
-Alfa Romeo,4C Gr.3 Road Car,2014,N 500
+Alfa Romeo,4C Gr.3 Road Car,2014,N500
 Alfa Romeo,4C Gr.4,2014,Gr.4
-Alfa Romeo,4C Launch Edition,2014,N 200
+Alfa Romeo,4C Launch Edition,2014,N200
 Alfa Romeo,GIULIA TZ2 carrozzata da ZAGATO CN.AR750106,,Gr.X
-Alfa Romeo,MiTo 1.4 T Sport,2014,N 200
-Alpine,A110 1600S,1972,N 100
-Alpine,A110 Première Édition,2017,N 300
+Alfa Romeo,MiTo 1.4 T Sport,2014,N200
+Alpine,A110 1600S,1972,N100
+Alpine,A110 Première Édition,2017,N300
 Alpine,Vision Gran Turismo,2014,Gr.X
 Alpine,Vision Gran Turismo,2017,Gr.1
 Alpine,Vision Gran Turismo Race Mode,2014,Gr.X
-Amuse,Amuse S2000 GT1 Turbo,,N 600
+Amuse,Amuse S2000 GT1 Turbo,,N600
 Aston Martin,DB3S CN.1,,Gr.X
-Aston Martin,DB11,2016,N 600
+Aston Martin,DB11,2016,N600
+Aston Martin,DBR9 GT1,2020,Gr.3
 Aston Martin,DP-100 Vision Gran Turismo,2014,Gr.X
-Aston Martin,One-77,2011,N 800
+Aston Martin,One-77,2011,N800
 Aston Martin,V12 Vantage GT3,2012,Gr.3
-Aston Martin,V8 Vantage S,2015,N 400
+Aston Martin,V8 Vantage S,2015,N400
 Aston Martin,V8 Vantage Gr.4,2015,Gr.4
 Aston Martin,Vulcan,2015,Gr.X
 Audi,e-tron Vision Gran Turismo,2018,Gr.X
@@ -27,201 +28,205 @@ Audi,R18 TDI (Audi Sport Team Joest),2011,Gr.1
 Audi,R8 LMS (Audi Sport Team WRT),2015,Gr.3
 Audi,Sport quattro S1 Pikes Peak,1987,Gr.B Rally
 Audi,Vision Gran Turismo,2018,Gr.1
-Audi,R8 4.2 FSI R tronic,2007,N 400
+Audi,R8 4.2 FSI R tronic,2007,N400
 Audi,TT cup,2016,Gr.4
-Audi,TT Coupé 3.2 quattro,,N 200
-Audi,TTS Coupé,2015,N 300
-BMW,i3,2015,N 200
-BMW,M3 Coupé,,N 400
+Audi,TT Coupé 3.2 quattro,,N200
+Audi,TTS Coupé,2015,N300
+BMW,i3,2015,N200
+BMW,M3 Coupé,,N400
 BMW,M3 GT (BMW Motorsport),,Gr.3
-BMW,M3 Sport Evolution,1989,N 200
-BMW,M4 Coupé,2014,N 400
+BMW,M3 Sport Evolution,1989,N200
+BMW,M4 Coupé,2014,N400
 BMW,M4 Gr.4,2014,Gr.4
 BMW,M4 Safety Car,2014,Gr.X
 BMW,M6 GT3 (Walkenhorst Motorsport),2016,Gr.3
 BMW,M6 GT3 M Power Livery,2016,Gr.3
 BMW,Vision Gran Turismo,2014,Gr.X
 BMW,Z4 GT3,2011,Gr.3
-BMW,Z8,2001,N 400
+BMW,Z8,2001,N400
 Bugatti,Vision Gran Turismo,2015,Gr.X
 Bugatti,Vision Gran Turismo,2015,Gr.1
 Bugatti,Veyron 16.4,2013,N1000
 Bugatti,Veyron Gr.4,2013,Gr.4
 Chaparral,Chevrolet Chaparral 2X Vision Gran Turismo,2014,Gr.X
-Chevrolet,Camaro SS,2016,N 500
+Chevrolet,Camaro SS,2016,N500
 Chevrolet,Camaro Z28,1969,
 Chevrolet,Corvette C7 Gr.3,2014,Gr.3
-Chevrolet,Corvette C7 Gr.3 Road Car,2014,N 500
+Chevrolet,Corvette C7 Gr.3 Road Car,2014,N500
 Chevrolet,Corvette C7 Gr.4,2014,Gr.4
-Chevrolet,Corvette Stingray (C7),2014,N 500
-Chevrolet,Corvette Stingray Convertible (C3),1969,N 300
-Chevrolet,Corvette Sting Ray Sport Coupe (C2),,N 200
-Citroën,DS3 Racing,2015,N 200
+Chevrolet,Corvette Stingray (C7),2014,N500
+Chevrolet,Corvette Stingray Convertible (C3),1969,N300
+Chevrolet,Corvette Sting Ray Sport Coupe (C2),,N200
+Citroën,DS3 Racing,2015,N200
 Citroën,GT by Citroën Gr.4,2010,Gr.4
 Citroën,GT by Citroën Race Car (Gr.3),2010,Gr.3
-Citroën,GT by Citroën Road Car,2010,N 500
-Daihatsu,Copen Active Top,2002,N 100
+Citroën,GT by Citroën Road Car,2010,N500
+Daihatsu,Copen Active Top,2002,N100
 Daihatsu,DAIHATSU COPEN RJ Vision Gran Turismo,2017,Gr.X
 Dallara,SF19 Super Formula / Honda,,Gr.X
 Dallara,SF19 Super Formula / Toyota,,Gr.X
-De Tomaso,Pantera,1971,N 300
-Dodge,Challenger R/T,1970,N 400
-Dodge,Charger SRT Hellcat,2015,N 700
+De Tomaso,Pantera,1971,N300
+Dodge,Challenger R/T,1970,N400
+Dodge,Charger SRT Hellcat,2015,N700
+Dodge,Charger SRT Hellcat Safety Car,,
 Dodge,SRT Tomahawk GTS-R Vision Gran Turismo,2015,Gr.X
 Dodge,SRT Tomahawk S Vision Gran Turismo,2015,Gr.X
 Dodge,SRT Tomahawk Vision Gran Turismo (Gr.1),2015,Gr.1
 Dodge,SRT Tomahawk X Vision Gran Turismo,2015,Gr.X
 Dodge,Viper Gr.4,2013,Gr.4
-Dodge,Viper GTS,,N 600
-Dodge,Viper GTS,,N 500
-Dodge,Viper SRT10 Coupe,,N 500
+Dodge,Viper GTS,,N600
+Dodge,Viper GTS,,N500
+Dodge,Viper SRT10 Coupe,,N500
 Dodge,Viper SRT GT3-R,2014,Gr.3
-Ferrari,250 GT Berlinetta passo corto CN.2521,,N 300
+Ferrari,250 GT Berlinetta passo corto CN.2521,,N300
 Ferrari,250 GTO CN.3729GT,1962,Gr.X
 Ferrari,330 P4,1967,Gr.X
-Ferrari,458 Italia,2009,N 600
+Ferrari,458 Italia,2009,N600
 Ferrari,458 Italia Gr.4,2009,Gr.4
 Ferrari,458 Italia GT3,2013,Gr.3
-Ferrari,512 BB,1976,N 400
-Ferrari,Dino 246 GT,,N 200
-Ferrari,Enzo Ferrari,2002,N 700
-Ferrari,F40,1992,N 500
-Ferrari,F50,,N 500
-Ferrari,GTO,,N 400
+Ferrari,512 BB,1976,N400
+Ferrari,Dino 246 GT,,N200
+Ferrari,Enzo Ferrari,2002,N700
+Ferrari,F40,1992,N500
+Ferrari,F50,,N500
+Ferrari,GTO,,N400
 Ferrari,LaFerrari,2013,N1000
+Fiat,500 1.2 8V Lounge SS,2008,N100
 Fiat,500 F,1968,N100
 Fittipaldi Motors,Fittipaldi EF7 Vision Gran Turismo by Pininfarina,2017,Gr.X
-Ford,F-150 SVT Raptor,2011,N 400
+Ford,F-150 SVT Raptor,2011,N400
 Ford,Focus Gr.B Rally Car,2015,Gr.B Rally
-Ford,Focus ST,2015,N 300
-Ford,GT,2006,N 600
+Ford,Focus ST,2015,N300
+Ford,GT,2006,N600
+Ford,GT,2017,
 Ford,GT LM Spec II Test Car,2007,Gr.3
-Ford,GT40 Mark I,1966,N 400
+Ford,GT40 Mark I,1966,N400
 Ford,Mark IV Race Car,,Gr.X
 Ford,Mustang Gr.3,2015,Gr.3
 Ford,Mustang Gr.4,2015,Gr.4
 Ford,Mustang Gr.B Rally Car,2015,Gr.B Rally
-Ford,Mustang GT Premium Fastback,2015,N 400
-Ford,Mustang Gr.3 Road Car,2015,N 500
-Ford,Mustang Mach 1,1971,N 300
+Ford,Mustang GT Premium Fastback,2015,N400
+Ford,Mustang Gr.3 Road Car,2015,N500
+Ford,Mustang Mach 1,1971,N300
 Gran Turismo,F1500T-A,1985,Gr.X
 Gran Turismo,Gran Turismo Racing Kart 125 Shifter,2010,Gr.X
 Gran Turismo,Gran Turismo Red Bull X2014 Junior,2014,Gr.X
 Gran Turismo,Gran Turismo Red Bull X2014 Standard,2014,Gr.X
 Gran Turismo,Gran Turismo Red Bull X2019 Competition,2019,Gr.X
 Greddy,Fugu Z,,Gr.X
-GT Awards (SEMA),Chris Holstrom Concepts,2013,N 700
-GT Awards (SEMA),Mach Forty,2012,N 800
-Honda,Beat,1991,N 100
-Honda,Civic Type R (FK2),2016,N 300
+GT Awards (SEMA),Chris Holstrom Concepts,2013,N700
+GT Awards (SEMA),Mach Forty,2012,N800
+Honda,Beat,1991,N100
+Honda,Civic Type R (FK2),2016,N300
 Honda,EPSON NSX,,Gr.2
-Honda,Fit Hybrid,,N 100
+Honda,Fit Hybrid,,N100
 Honda,Project 2&4 powered by RC213V,2015,Gr.X
 Honda,Sports Vision Gran Turismo,2017,Gr.X
-Honda,Integra Type R (DC2),,N 200
-Honda,NSX,2017,N 600
+Honda,Integra Type R (DC2),,N200
+Honda,NSX,2017,N600
 Honda,NSX Gr.3,2017,Gr.3
 Honda,NSX Gr.4,2017,Gr.4
 Honda,NSX Gr.B Rally Car,2017,Gr.B Rally
-Honda,NSX Type R,1992,N 300
+Honda,NSX Type R,1992,N300
 Honda,RAYBRIG NSX CONCEPT-GT,2016,Gr.2
-Honda,S660,2015,N 100
-Hyundai,Genesis Coupe 3.8 Track,2013,N 300
+Honda,S660,2015,N100
+Hyundai,Genesis Coupe 3.8 Track,2013,N300
 Hyundai,Genesis Gr.3,2013,Gr.3
 Hyundai,Genesis Gr.4,2103,Gr.4
 Hyundai,Genesis Gr.B Rally Car,2013,Gr.B Rally
 Hyundai,N 2025 Vision Gran Turismo Gr.X,2015,Gr.X
 Hyundai,N 2025 Vision Gran Turismo Gr.1,2015,Gr.1
 Infiniti,INFINITI CONCEPT Vision Gran Turismo,2014,Gr.X
-Jaguar,E-Type Coupé,,N 300
+Jaguar,E-Type Coupé,,N300
 Jaguar,F-type Gr.3,2015,Gr.3
 Jaguar,F-type Gr.4,2015,Gr.4
-Jaguar,F-type R Coupe,2015,N 500
+Jaguar,F-type R Coupe,2015,N500
 Jaguar,Jaguar XJ13,1966,Gr.X
 Jaguar,Jaguar XJR-9,1988,Gr.1
-KTM,X-BOW R,2012,N 300
+KTM,X-BOW R,2012,N300
 Lamborghini,2015 Lamborghini Huracán GT3,2015,Gr.3
-Lamborghini,Aventador LP 700-4,2011,N 700
-Lamborghini,Countach 25th Anniversary,,N 500
-Lamborghini,Countach LP400,1974,N 400
-Lamborghini,Diablo GT,2000,N 600
+Lamborghini,Aventador LP 700-4,2011,N700
+Lamborghini,Countach 25th Anniversary,,N500
+Lamborghini,Countach LP400,1974,N400
+Lamborghini,Diablo GT,2000,N600
 Lamborghini,Huracán Gr.4,2015,Gr.4
-Lamborghini,Huracán LP 610-4,2015,N 600
-Lamborghini,Miura P400 Bertone Prototype CN.0706,1967,N 400
-Lamborghini,Veneno,2013,N 800
-Lancia,DELTA HF Integrale Evoluzione,,N 200
-Lancia,Stratos,,N 200
+Lamborghini,Huracán LP 610-4,2015,N600
+Lamborghini,Miura P400 Bertone Prototype CN.0706,1967,N400
+Lamborghini,Veneno,2013,N800
+Lancia,DELTA HF Integrale Evoluzione,,N200
+Lancia,Stratos,,N200
 Lexus,au TOM'S RC F,2016,Gr.2
-Lexus,LC500,2017,N 500
+Lexus,LC500,2017,N500
 Lexus,LF-LC GT Vision Gran Turismo,2014,Gr.X
 Lexus,PETRONAS TOM'S SC430,,Gr.2
-Lexus,RC F,2014,N 500
+Lexus,RC F,2014,N500
 Lexus,RC F Gr.4,2014,Gr.4
 Lexus,RC F GT3 (Emil Frey Racing),2016,Gr.3
 Lexus,RC F GT3 prototype (Emil Frey Racing),2017,Gr.3
-Maserati,GranTurismo S,,N 400
+Maserati,GranTurismo S,,N400
 Mazda,Atenza Gr.3,2016,Gr.3
-Mazda,Atenza Gr.3 Road Car,2016,N 500
+Mazda,Atenza Gr.3 Road Car,2016,N500
 Mazda,Atenza Gr.4,2016,Gr.4
-Mazda,Atenza Sedan XD L Package,2015,N 200
-Mazda,Eunos Roadster (NA Special Package),,N 200
+Mazda,Atenza Sedan XD L Package,2015,N200
+Mazda,Eunos Roadster (NA Special Package),,N200
 Mazda,LM55 Vision Gran Turismo Gr.X,2014,Gr.X
 Mazda,LM55 Vision Gran Turismo Gr.1,2014,Gr.1
 Mazda,Mazda 787B,1991,Gr.1
-Mazda,Roadster S (ND),2015,N 100
-Mazda,RX500,,N 300
-Mazda,RX-7 GT-X (FC),1990,N 200
-Mazda,RX-7 Spirit R Type A (FD),2002,N 300
-McLaren,650S Coupe,2014,N 700
+Mazda,Roadster S (ND),2015,N100
+Mazda,RX500,,N300
+Mazda,RX-7 GT-X (FC),1990,N200
+Mazda,RX-7 Spirit R Type A (FD),2002,N300
+McLaren,650S Coupe,2014,N700
 McLaren,650S GT3,2015,Gr.3
 McLaren,650S Gr.4,2015,Gr.4
-McLaren,F1,1994,N 600
+McLaren,F1,1994,N600
 McLaren,F1 GTR - BMW (Kokusai Kaihatsu UK Racing),,Gr.3
 McLaren,Ultimate Vision Gran Turismo2017,,Gr.X
 McLaren,Ultimate Vision Gran Turismo,2017,Gr.1
-McLaren,MP4-12C,2010,N 600
+McLaren,MP4-12C,2010,N600
 McLaren,P1 GTR,,Gr.X
-Mercedes-Benz,A 45 AMG 4MATIC,2013,N 400
+Mercedes-Benz,A 45 AMG 4MATIC,2013,N400
 Mercedes-Benz,AMG Vision Gran Turismo,2013,Gr.X
 Mercedes-Benz,AMG Vision Gran Turismo Racing Series,2014,Gr.X
 Mercedes-Benz,Mercedes-AMG F1 W08 EQ Power+,2017,Gr.X
 Mercedes-Benz,Mercedes-AMG F1 W08 EQ Power+ (Color Variation),2017,Gr.X
-Mercedes-Benz,Mercedes-AMG GT S,2014,N 500
+Mercedes-Benz,Mercedes-AMG GT S,2014,N500
 Mercedes-Benz,Mercedes-AMG GT Safety Car,2014,Gr.X
 Mercedes-Benz,Mercedes-AMG GT GT3,2015,Gr.3
 Mercedes-Benz,Sauber Mercedes C9,1989,Gr.1
-Mercedes-Benz,SLR McLarn,,N 600
-Mercedes-Benz,SLS AMG,2010,N 600
+Mercedes-Benz,SLR McLarn,,N600
+Mercedes-Benz,SLS AMG,2010,N600
 Mercedes-Benz,SLS AMG Gr.4,2010,Gr.4
 Mercedes-Benz,SLS AMG GT3,2011,Gr.3
 MINI,MINI Clubman Vision Gran Turismo,2014,Gr.X
-MINI,MINI Cooper S,,N 200
-MINI,Mini-Cooper 'S',,N 100
+MINI,MINI Cooper S,,N200
+MINI,Mini-Cooper 'S',,N100
 Mitsubishi,Concept XR-PHEV EVOLUTION Vision Gran Turismo,2014,Gr.X
-Mitsubishi,Lancer Evolution Final Edition,2015,N 300
+Mitsubishi,Lancer Evolution Final Edition,2015,N300
 Mitsubishi,Lancer Evolution Final Edition Gr.3,2015,Gr.3
 Mitsubishi,Lancer Evolution Final Edition Gr.4,2015,Gr.4
 Mitsubishi,Lancer Evolution Final Edition Gr.B Rally Car,2015,Gr.B Rally
-Mitsubishi,Lancer Evolution Final Edition Gr.B Road Car,2015,N 500
-Mitsubishi,Lancer Evolution IV GSR,1996,N 300
-Nissan,Fairlady Z 300ZX TwinTurbo 2 seater (Z32),,N 300
-Nissan,Fairlady Z Version S (Z33),,N 300
+Mitsubishi,Lancer Evolution Final Edition Gr.B Road Car,2015,N500
+Mitsubishi,Lancer Evolution IV GSR,1996,N300
+Nissan,180SX Type X,1996,N200
+Nissan,Fairlady Z 300ZX TwinTurbo 2 seater (Z32),,N300
+Nissan,Fairlady Z Version S (Z33),,N300
 Nissan,GT-R Gr.4,2017,Gr.4
 Nissan,GT-R Gr.B Rally Car,2017,Gr.B Rally
 Nissan,GT-R LM NISMO,2017,Gr.1
 Nissan,GT-R NISMO GT3 N24 Schulze Motorsport,2013,Gr.3
-Nissan,GT-R Premium edition,2017,N 600
+Nissan,GT-R Premium edition,2017,N600
 Nissan,GT-R Safety Car,2017,Gr.X
 Nissan,MOTUL AUTECH GT-R,2016,Gr.2
 Nissan,CONCEPT 2020 Vision Gran Turismo,2014,Gr.X
-Nissan,Nissan GT-R NISMO,2015,N 600
+Nissan,Nissan GT-R NISMO,2015,N600
 Nissan,R92CP,1992,Gr.1
-Nissan,Skyline GT-R V·spec (R33),1997,N 300
-Nissan,Skyline GT-R V·spec II (R32),1994,N 300
-Nissan,Skyline GT-R V·spec II Nür (R34),2002,N 300
+Nissan,Skyline GT-R V·spec (R33),1997,N300
+Nissan,Skyline GT-R V·spec II (R32),1994,N300
+Nissan,Skyline GT-R V·spec II Nür (R34),2002,N300
 Pagani,Huayra,,N700
 Pagani,Zonda R,,Gr.X
-Peugeot,208 GTi by Peugeot Sport,2015,N 200
+Peugeot,208 GTi by Peugeot Sport,2015,N200
 Peugeot,908 HDi FAP - Team Peugeot Total,2010,Gr.1
 Peugeot,L500R HYbrid Vision Gran Turismo,2017,Gr.X
 Peugeot,L750R HYbrid Vision Gran Turismo,2017,Gr.1
@@ -230,69 +235,74 @@ Peugeot,Vision Gran Turismo (Gr.3),2015,Gr.3
 Peugeot,RCZ Gr.3,2015,Gr.3
 Peugeot,RCZ Gr.4,2015,Gr.4
 Peugeot,RCZ Gr.B Rally Car,2015,Gr.B Rally
-Peugeot,RCZ GT Line,2015,N 200
-Peugeot,RCZ Gr.3 Road Car,2015,N 500
-Plymouth,XNR Ghia Roadster,,N 300
-Pontiac,Firebird Trans Am,1978,N 200
-Porsche,356 A/1500 GS GT Carrera Speedster,,N 100
-Porsche,911 GT3 RS (991),2016,N 500
-Porsche,911 GT3 (996),,N 400
-Porsche,911 GT3 (997),,N 400
+Peugeot,RCZ GT Line,2015,N200
+Peugeot,RCZ Gr.3 Road Car,2015,N500
+Plymouth,XNR Ghia Roadster,,N300
+Pontiac,Firebird Trans Am,1978,N200
+Porsche,356 A/1500 GS GT Carrera Speedster,,N100
+Porsche,911 Carrera RS Club Sport (993),1995,
+Porsche,911 GT3 RS (991),2016,N500
+Porsche,911 GT3 (996),,N400
+Porsche,911 GT3 (997),,N400
 Porsche,911 RSR (991),2017,Gr.3
+Porsche,919 Hybrid (Porsche Team),2017,Gr.1
 Porsche,962 C,,Gr.1
 Porsche,Cayman GT4 Clubsport,2016,Gr.4
-Porsche,919 Hybrid (Porsche Team),2017,Gr.1
 Renault,R8 Gordini,,Gr.X
-Renault Sport,Clio R.S. 220 EDC Trophy '15,2015,N 200
-Renault Sport,Clio R.S. 220 EDC Trophy '16,2016,N 200
+Renault Sport,Clio R.S. 220 EDC Trophy '15,2015,N200
+Renault Sport,Clio R.S. 220 EDC Trophy '16,2016,N200
 Renault Sport,Clio V6 24V,2000,
 Renault Sport,Mégane Gr.4,2011,Gr.4
-Renault Sport,Mégane R.S. Trophy,2011,N 300
+Renault Sport,Mégane R.S. Trophy,2011,N300
 Renault Sport,Mégane Trophy,2011,Gr.4
 Renault Sport,R.S.01,2016,Gr.X
 Renault Sport,R.S.01 GT3,2016,Gr.3
-Shelby,Cobra 427,1966,N 500
+Shelby,Cobra 427,1966,N500
 Shelby,Cobra Daytona Coupe,,Gr.X
-Shelby,Shelby G.T.350,,N 300
-Subaru,BRZ S,2017,N 200
+Shelby,Shelby G.T.350,,N300
+Subaru,BRZ S,2017,N200
 Subaru,Falken Tire / Turn 14 Distribution BRZ,2017,Gr.X
-Subaru,Impreza 22B-STi Version,,N 300
+Subaru,Impreza 22B-STi Version,,N300
 Subaru,SUBARU VIZIV GT Vision Gran Turismo2014,,Gr.X
 Subaru,Subaru WRX STI Isle of Man Time Attack Car,2016,Gr.X
 Subaru,WRX Gr.3,2014,Gr.3
 Subaru,WRX Gr.4,2014,Gr.4
 Subaru,WRX Gr.B Rally Car,2014,Gr.B Rally
-Subaru,WRX Gr.B Road Car,2014,N 500
-Subaru,WRX STI Type S,2014,N 300
-Suzuki,Swift Sport,2007,N 100
-Toyota,86 GRMN,2016,N 200
+Subaru,WRX Gr.B Road Car,2014,N500
+Subaru,WRX STI Type S,2014,N300
+Suzuki,Swift Sport,2007,N100
+Toyota,86 GRMN,2016,N200
+Toyota,Crown Athlete G,2013,
+Toyota,Crown Athlete G Safety Car,,
 Toyota,GR Supra Racing Concept,2018,Gr.3
-Toyota,GR Supra RZ,,N 300
-Toyota,MR2 GT-S,1987,N 200
+Toyota,GR Supra RZ,2019,N300
+Toyota,GR Supra RZ,2020,N400
+Toyota,MR2 GT-S,1987,N200
 Toyota,Sports 800,1965,
-Toyota,Sprinter Trueno 3door 1600GT APEX (AE86),,N 100
-Toyota,Supra 3.0GT Turbo A,1988,N 300
-Toyota,Supra RZ,1997,N 300
+Toyota,Sprinter Trueno 3door 1600GT APEX (AE86),,N100
+Toyota,Supra 3.0GT Turbo A,1988,N300
+Toyota,Supra RZ,1997,N300
 Toyota,Tundra TRD Pro,2019,
-Toyota,2000GT,1967,N 200
+Toyota,2000GT,1967,N200
 Toyota,86 Gr.4,2015,Gr.4
 Toyota,86 Gr.B Rally Car,2015,Gr.B Rally
-Toyota,86 GT,2015,N 200
+Toyota,86 GT,2015,N200
 Toyota,FT-1,2014,Gr.X
 Toyota,FT-1 Vision Gran Turismo,2014,Gr.X
 Toyota,FT-1 Vision Gran Turismo (Gr.3),2014,Gr.3
-Toyota,S-FR,2015,N 100
-Toyota,S-FR Racing Concept,2015,N 400
+Toyota,S-FR,2015,N100
+Toyota,S-FR Racing Concept,2015,N400
 Toyota,TS050 - Hybrid (Toyota Gazoo Racing),2017,Gr.1
 Toyota,TS030 Hybrid,2012,Gr.1
 Tesla,Model S Signature Performance,2012,Gr.X
-TVR,Tuscan Speed 6,,N 400
-Volkswagen,1200,,N 100
-Volkswagen,Golf VII GTI,2014,N 200
+TVR,Tuscan Speed 6,,N400
+Volkswagen,1200,,N100
+Volkswagen,Golf I GTI,1983,
+Volkswagen,Golf VII GTI,2014,N200
 Volkswagen,GTI Roadster Vision Gran Turismo,2014,Gr.X
 Volkswagen,GTI Supersport Vision Gran Turismo,2014,Gr.X
 Volkswagen,GTI Vision Gran Turismo (Gr.3),2014,Gr.3
-Volkswagen,Sambabus Typ 2 (T1),1962,N 100
+Volkswagen,Sambabus Typ 2 (T1),1962,N100
 Volkswagen,Scirocco Gr.4,2011,Gr.4
 Volkswagen,Beetle Gr.3,2016,Gr.3
 Zagato,IsoRivolta Zagato Vision Gran Turismo,2017,Gr.X
