@@ -1,11 +1,11 @@
 Manufacturer,Model,Year,Category
-Abarth,1500 Biposto Bertone B.A.T. 1,,N100
-Abarth,500,,N100
+Abarth,1500 Biposto Bertone B.A.T. 1,1952,N100
+Abarth,500,2009,N100
 Alfa Romeo,4C Gr.3,2009,Gr.3
 Alfa Romeo,4C Gr.3 Road Car,2014,N500
 Alfa Romeo,4C Gr.4,2014,Gr.4
 Alfa Romeo,4C Launch Edition,2014,N200
-Alfa Romeo,GIULIA TZ2 carrozzata da ZAGATO CN.AR750106,,Gr.X
+Alfa Romeo,GIULIA TZ2 carrozzata da ZAGATO CN.AR750106,1965 ,Gr.X
 Alfa Romeo,MiTo 1.4 T Sport,2014,N200
 Alpine,A110 1600S,1972,N100
 Alpine,A110 Première Édition,2017,N300
@@ -146,13 +146,14 @@ Jaguar,Jaguar XJR-9,1988,Gr.1
 KTM,X-BOW R,2012,N300
 Lamborghini,2015 Lamborghini Huracán GT3,2015,Gr.3
 Lamborghini,Aventador LP 700-4,2011,N700
-Lamborghini,Countach 25th Anniversary,,N500
+Lamborghini,Aventador LP 750-4 Superveloce,2015,N800
+Lamborghini,Countach 25th Anniversary,1988,N500
 Lamborghini,Countach LP400,1974,N400
 Lamborghini,Diablo GT,2000,N600
 Lamborghini,Huracán Gr.4,2015,Gr.4
 Lamborghini,Huracán LP 610-4,2015,N600
 Lamborghini,Miura P400 Bertone Prototype CN.0706,1967,N400
-Lamborghini,Veneno,2013,N800
+Lamborghini,Veneno,2014 ,N800
 Lancia,DELTA HF Integrale Evoluzione,,N200
 Lancia,Stratos,,N200
 Lexus,au TOM'S RC F,2016,Gr.2
@@ -163,7 +164,7 @@ Lexus,RC F,2014,N500
 Lexus,RC F Gr.4,2014,Gr.4
 Lexus,RC F GT3 (Emil Frey Racing),2016,Gr.3
 Lexus,RC F GT3 prototype (Emil Frey Racing),2017,Gr.3
-Maserati,GranTurismo S,,N400
+Maserati,GranTurismo S,2008,N400
 Mazda,Atenza Gr.3,2016,Gr.3
 Mazda,Atenza Gr.3 Road Car,2016,N500
 Mazda,Atenza Gr.4,2016,Gr.4
@@ -174,9 +175,10 @@ Mazda,LM55 Vision Gran Turismo Gr.X,2014,Gr.X
 Mazda,LM55 Vision Gran Turismo Gr.1,2014,Gr.1
 Mazda,Mazda 787B,1991,Gr.1
 Mazda,Roadster S (ND),2015,N100
-Mazda,RX500,,N300
+Mazda,RX500,1970,N300
 Mazda,RX-7 GT-X (FC),1990,N200
 Mazda,RX-7 Spirit R Type A (FD),2002,N300
+Mazda,RX-Vision GT3 Concept,2020,Gr.3
 McLaren,650S Coupe,2014,N700
 McLaren,650S GT3,2015,Gr.3
 McLaren,650S Gr.4,2015,Gr.4
@@ -226,8 +228,8 @@ Nissan,R92CP,1992,Gr.1
 Nissan,Skyline GT-R V·spec (R33),1997,N300
 Nissan,Skyline GT-R V·spec II (R32),1994,N300
 Nissan,Skyline GT-R V·spec II Nür (R34),2002,N300
-Pagani,Huayra,,N700
-Pagani,Zonda R,,Gr.X
+Pagani,Huayra,2013,N700
+Pagani,Zonda R,2009,Gr.X
 Peugeot,208 GTi by Peugeot Sport,2015,N200
 Peugeot,908 HDi FAP - Team Peugeot Total,2010,Gr.1
 Peugeot,L500R HYbrid Vision Gran Turismo,2017,Gr.X
@@ -239,7 +241,7 @@ Peugeot,RCZ Gr.4,2015,Gr.4
 Peugeot,RCZ Gr.B Rally Car,2015,Gr.B Rally
 Peugeot,RCZ GT Line,2015,N200
 Peugeot,RCZ Gr.3 Road Car,2015,N500
-Plymouth,XNR Ghia Roadster,,N300
+Plymouth,XNR Ghia Roadster,1960,N300
 Pontiac,Firebird Trans Am,1978,N200
 Porsche,356 A/1500 GS GT Carrera Speedster,,N100
 Porsche,911 Carrera RS Club Sport (993),1995,
@@ -260,8 +262,8 @@ Renault Sport,Mégane Trophy,2011,Gr.4
 Renault Sport,R.S.01,2016,Gr.X
 Renault Sport,R.S.01 GT3,2016,Gr.3
 Shelby,Cobra 427,1966,N500
-Shelby,Cobra Daytona Coupe,,Gr.X
-Shelby,Shelby G.T.350,,N300
+Shelby,Cobra Daytona Coupe,1964,Gr.X
+Shelby,Shelby G.T.350,1965,N300
 Subaru,BRZ S,2017,N200
 Subaru,Falken Tire / Turn 14 Distribution BRZ,2017,Gr.X
 Subaru,Impreza 22B-STi Version,,N300
@@ -297,9 +299,9 @@ Toyota,S-FR Racing Concept,2015,N400
 Toyota,TS050 - Hybrid (Toyota Gazoo Racing),2017,Gr.1
 Toyota,TS030 Hybrid,2012,Gr.1
 Tesla,Model S Signature Performance,2012,Gr.X
-TVR,Tuscan Speed 6,,N400
-Volkswagen,1200,,N100
-Volkswagen,Golf I GTI,1983,
+TVR,Tuscan Speed 6,2000,N400
+Volkswagen,1200,1966 ,N100
+Volkswagen,Golf I GTI,1983,N100 
 Volkswagen,Golf VII GTI,2014,N200
 Volkswagen,GTI Roadster Vision Gran Turismo,2014,Gr.X
 Volkswagen,GTI Supersport Vision Gran Turismo,2014,Gr.X
