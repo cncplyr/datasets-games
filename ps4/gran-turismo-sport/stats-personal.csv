@@ -1,5 +1,8 @@
 Track,Car,Tyres,Condition,Time,Sector 1,Sector 2,Sector 3,Sector 4,Sector 5,Sector 6,Date of Race,Time of Race
 Autodrome Lago Maggiore - GP,Alpine Vision Gran Turismo '17,RH,Sunny,1:50.674,31.810,27.510,23.929,27.425,,,2020-06-03,09:23
+Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.408,31.443,27.119,23.892,28.954,,,2019-06-29,10:54
+Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.731,32.740,26.822,23.562,28.607,,,2019-06-29,10:54
+Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:53.026,32.847,27.588,23.499,29.092,,,2019-06-29,10:54
 Autodrome Lago Maggiore - GP,Alpine Vision Gran Turismo '17,RH,Sunny,1:57.111,32.994,30.674,25.005,28.438,,,2020-06-03,09:23
 Autodrome Lago Maggiore - GP,Bugatti Veyron 16.4 '13,,Sunny,2:11.666,,,,,,,2017-10-21,11:01
 Autodrome Lago Maggiore - GP,Hyundai N 2025 Vision Gran Turismo Gr.X '15,RH,Sunny,2.13.343,,,,,,,2017-10-19,22:54
@@ -11,7 +14,11 @@ Autodrome Lago Maggiore - GP,Lamborghini Huracán LP 610-4 '15,,Sunny,2:23.368,3
 Autodrome Lago Maggiore - GP,Nissan Skyline GT-R V·spec II Nür (R34) '02,,Sunny,2:30.192,41.497,38.227,32.136,38.332,,,2012-06-03,09:07
 Autodrome Lago Maggiore - GP,Nissan Skyline GT-R V·spec II Nür (R34) '02,,Sunny,2:32.989,42.556,38.870,33.371,38.192,,,2012-06-03,09:07
 Autodrome Lago Maggiore - GP,Dodge Charger SRT Hellcat '15,,None,2:41.281,40.171,39.279,31.095,,,,2017-10-22,12:03
+Autodromo de Interlagos,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:39.808,24.829,50.237,24.742,,,,2019-06-02,18:39
+Autodromo de Interlagos,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:42.457,25.184,52.436,24.837,,,,2019-06-02,18:39
+Autodromo de Interlagos,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:48.740,25.852,51.293,31.595,,,,2019-06-02,18:39
 Autodromo Nazionale Monza,Lamborghini Veneno '13,SH,Sunny,2:00.876,36.285,43.506,41.085,,,,2018-10-06,11:36
+Autodromo Nazionale Monza,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,2:03.216,38.014,43.632,41.570,,,,2019-06-02,18:52
 Autodromo Nazionale Monza,Lamborghini Veneno '13,SH,Sunny,2:04.742,40.004,43.449,41.239,,,,2018-10-06,11:36
 Blue Moon Speedway,Hyundai N 2025 Vision Gran Turismo Gr.X '15,,Sunny,0:40.469,,,,,,,2017-11-05,11:20
 Blue Moon Speedway,Hyundai N 2025 Vision Gran Turismo Gr.X '15,,Sunny,0:40.469,,,,,,,2017-11-05,11:20
@@ -19,8 +26,12 @@ Blue Moon Speedway,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,0:49.464,17.12
 Blue Moon Speedway,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,0:49.826,17.349,15.864,16.613,,,,2019-06-01,22:33
 Blue Moon Speedway,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,0:51.635,18.260,16.290,17.085,,,,2019-06-01,22:33
 Blue Moon Speedway,Alfa Romeo 4C Launch Edition '14,,Sunny,1:01.718,,,,,,,2018-07-29,14:39
+Brands Hatch Grand Prix Circuit,Alpine Vision Gran Turismo '17,RH,Sunny,1:20.641,18.016,12.639,11.156,20.189,18.641,,2019-07-03,19:13
 Brands Hatch Grand Prix Circuit,Mazda LM55 Vision Gran Turismo Gr.1 '14,,Sunny,1:21.198,16.880,12.212,10.037,21.868,19.301,,2018-07-11,23:56
+Brands Hatch Grand Prix Circuit,Alpine Vision Gran Turismo '17,RH,Sunny,1:21.998,16.316,12.379,10.899,19.805,22.599,,2019-07-03,19:13
+Brands Hatch Grand Prix Circuit,Alpine Vision Gran Turismo '17,RH,Sunny,1:22.315,19.017,12.943,11.552,19.576,19.227,,2019-07-03,19:13
 Brands Hatch Grand Prix Circuit,Mazda LM55 Vision Gran Turismo Gr.1 '14,,Sunny,1:23.286,18.602,12.701,11.067,21.645,19.271,,2018-07-11,23:56
+Brands Hatch Grand Prix Circuit,Alpine Vision Gran Turismo '17,RH,Sunny,1:26.790,17.102,12.925,10.921,26.303,19.539,,2019-07-03,19:13
 Brands Hatch Grand Prix Circuit,Mercedes-Benz Mercedes-AMG GT GT3 '15,RH,Sunny,1.29.178,17.857,13.895,12.727,23.309,21.390,,2019-06-26,08:20
 Brands Hatch Grand Prix Circuit,Mercedes-Benz Mercedes-AMG GT GT3 '15,RH,Sunny,1:30.857,13.741,13.918,12.393,23.628,22.177,,2019-06-26,08:20
 Brands Hatch Grand Prix Circuit,Mercedes-Benz Mercedes-AMG GT GT3 '15,RH,Sunny,1:32.179,20.518,14.259,12.214,23.439,21.749,,2019-06-26,08:20
@@ -34,6 +45,8 @@ Brands Hatch Grand Prix Circuit,Mitsubishi Lancer Evolution Final Edition '15,,S
 Brands Hatch Grand Prix Circuit,Tesla Model S Signature Performance '12,SH,Sunny,1:51.423,23.954,16.642,15.825,28.252,26.750,,2019-06-30,20:58
 Brands Hatch Grand Prix Circuit,Mitsubishi Lancer Evolution Final Edition '15,,Sunny,1:52.204,23.316,16.830,15.291,29.998,26.769,,2018-07-10,23:49
 Brands Hatch Grand Prix Circuit,Chevrolet Corvette C7 Gr.3 Road Car '14,,Sunny,2:01.196,,,,,,,2018-07-24,00:19
+Circuit de Sainte-Croix - A,Alpine Vision Gran Turismo '17,RH,Sunny,2:48.976,24.873,23.760,34.274,35.337,25.605,25.128,2019-07-03,19:21
+Circuit de Sainte-Croix - A,Alpine Vision Gran Turismo '17,RH,Sunny,2:55.411,26.279,23.757,34.428,37.565,28.031,25.351,2019-07-03,19:21
 Circuit de Sainte-Croix - A,Lamborghini Huracán LP 610-4 '15,SH,Sunny,3:38.912,32.064,31.035,44.470,44.744,34.363,32.236,2018-07-30,21:38
 Circuit de Sainte-Croix - A,Ford GT '06,SH,Sunny,3:41.164,32.281,30.266,47.504,44.929,34.859,31.325,2018-07-30,21:52
 Circuit de Sainte-Croix - A,Ford GT '06,SH,Sunny,3:43.457,32.280,30.855,49.039,45.171,34.533,31.579,2018-07-30,21:52
@@ -44,18 +57,25 @@ Circuit de Spa-Francorchamps,Alpine Vision Gran Turismo '17,RH,Sunny,2:14.888,36
 Dragon Trail - Gardens,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car '15,RH,Sunny,1:41.186,30.081,31.740,39.365,,,,2019-06-17,22:38
 Dragon Trail - Gardens,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car '15,RH,Sunny,1:44.182,31.122,32.304,40.756,,,,2019-06-17,22:38
 Dragon Trail - Gardens,Lamborghini Veneno '13,SH,Sunny,1:48.409,32.167,34.631,41.611,,,,2018-10-06,15:27
+Dragon Trail - Seaside,Alpine Vision Gran Turismo '17,RH,Sunny,1:28.787,29.653,27.654,31.480,,,,2019-07-03,19:26
+Dragon Trail - Seaside,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:29.839,29.807,27.760,32.272,,,,2019-06-27,22:30
 Dragon Trail - Seaside,Alpine Vision Gran Turismo '17,RH,Sunny,1:31.223,31.218,28.286,31.719,,,,2020-05-30,15:09
+Dragon Trail - Seaside,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:31.420,31.248,28.020,32.152,,,,2019-06-27,22:30
 Dragon Trail - Seaside,Alpine Vision Gran Turismo '17,RH,Sunny,1:31.724,30.218,28.723,32.783,,,,2020-05-30,15:09
+Dragon Trail - Seaside,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:31.822,30.997,28.170,32.655,,,,2019-06-27,22:30
+Dragon Trail - Seaside,Alpine Vision Gran Turismo '17,RH,Sunny,1:32.006,30.854,28.586,32.566,,,,2019-07-03,19:26
 Dragon Trail - Seaside,Toyota TS030 Hybrid '12,RH,Cloudy,1:32.020,31.492,28.230,32.298,,,,2018-10-05,23:37
 Dragon Trail - Seaside,Toyota TS030 Hybrid '12,RH,Cloudy,1:32.212,30.370,28.320,33.522,,,,2018-10-05,23:37
+Dragon Trail - Seaside,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:32.286,32.533,28.111,31.642,,,,2019-06-27,22:30
 Dragon Trail - Seaside,Alpine Vision Gran Turismo '17,RH,Sunny,1:32.327,31.225,28.600,32.502,,,,2020-05-30,15:09
 Dragon Trail - Seaside,Peugeot 908 HDi FAP - Team Peugeot Total '10,RH,Sunny,1:32.595,,,,,,,2017-10-24,23:44
 Dragon Trail - Seaside,Hyundai N 2025 Vision Gran Turismo Gr.X '15,,Cloudy,1:36.137,,,,,,,2017-10-19,23:01
 Dragon Trail - Seaside,Toyota TS030 Hybrid '12,RH,Cloudy,1:36.681,33.159,30.002,33.520,,,,2018-10-05,23:37
-Dragon Trail - Seaside,Nissan GT-R NISMO GT3 N24 Schulze Motorsport '13,RH,Sunny,1:46.179,,,,,,,2019-04-30,08:33
+Dragon Trail - Seaside,Nissan GT-R NISMO GT3 N24 Schulze Motorsport '13,RH,Sunny,1:46.179,36.125,33.462,36.592,,,,2019-04-30,08:33
 Dragon Trail - Seaside,Mercedes-Benz Mercedes-AMG GT GT3 '15,,Sunny,1:46.408,35.148,34.145,37.115,,,,2017-10-23,10:53
 Dragon Trail - Seaside,Mercedes-Benz Mercedes-AMG GT GT3 '15,,Sunny,1:47.581,35.668,34.584,37.329,,,,2017-10-23,10:53
 Dragon Trail - Seaside,Peugeot Vision Gran Turismo (Gr.3) '15,,Sunny,1:47.743,,,,,,,2019-10-07,08:43
+Dragon Trail - Seaside,Nissan GT-R NISMO GT3 N24 Schulze Motorsport '13,RH,Sunny,1:47.946,36.771,33.211,37.964,,,,2019-04-30,08:33
 Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,,Sunny,1:49.293,36.544,34.891,37.858,,,,2017-10-23,10:43
 Dragon Trail - Seaside,Bugatti Veyron 16.4 '13,,Sunny,1:49.352,,,,,,,2017-10-23,10:54
 Dragon Trail - Seaside,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car '15,,Sunny,1:51.598,36.577,35.544,39.477,,,,2017-10-22,12:37
@@ -69,8 +89,9 @@ Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car '14,,Sunny,1:54.675,3
 Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car '14,,Sunny,1:54.971,38.433,36.033,40.505,,,,2017-10-23,10:33
 Dragon Trail - Seaside,Mitsubishi Lancer Evolution Final Edition Gr.B Rally Car '15,,Sunny,1:55.011,37.545,36.864,40.602,,,,2017-10-22,12:37
 Dragon Trail - Seaside,Ford GT '06,SH,Sunny,1:55.673,38.658,36.517,40.498,,,,2018-07-30,22:05
-Dragon Trail - Seaside,Aston Martin DB11 '16,SH,Sunny,1:56.257,,,,,,,2019-06-02,19:19
+Dragon Trail - Seaside,Aston Martin DB11 '16,SH,Sunny,1:56.257,38.853,37.516,3.888,,,,2019-06-02,19:19
 Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,,Sunny,1:56.664,38.352,37.447,40.865,,,,2017-10-22,12:24
+Dragon Trail - Seaside,Aston Martin DB11 '16,SH,Sunny,1:57.201,39.855,37.014,40.332,,,,2019-06-02,19:19
 Dragon Trail - Seaside,Lamborghini Huracán LP 610-4 '15,SH,Sunny,1:57.799,38.562,37.288,41.949,,,,2018-07-30,22:09
 Dragon Trail - Seaside,Ford GT '06,SH,Sunny,1:57.915,38.904,38.715,40.296,,,,2018-07-30,22:05
 Dragon Trail - Seaside,Lamborghini Huracán LP 610-4 '15,SH,Sunny,1:58.852,38.379,38.394,42.079,,,,2018-07-30,22:12
@@ -81,14 +102,17 @@ Dragon Trail - Seaside,Aston Martin DB11 '16,SH,Sunny,2:00.105,39.888,37.877,42.
 Dragon Trail - Seaside,Jaguar F-type R Coupe '15,SH,Sunny,2:00.302,39.885,38.412,42.005,,,,2018-10-06,21:20
 Dragon Trail - Seaside,BMW M4 Coupé '14,SH,Cloudy,2:00.554,40.175,37.981,42.398,,,,2019-07-17,19:15
 Dragon Trail - Seaside,BMW M4 Coupé '14,,Sunny,2:00.886,,,,,,,2017-10-22,12:31
-Dragon Trail - Seaside,BMW Z8 '01,SH,Sunny,2:01.885,,,,,,,2019-06-02,19:12
+Dragon Trail - Seaside,BMW Z8 '01,SH,Sunny,2:01.885,40.625,38.969,42.291,,,,2019-06-02,19:12
 Dragon Trail - Seaside,Ford GT '06,SH,Sunny,2:02.570,39.737,38.990,43.843,,,,2018-07-30,22:05
 Dragon Trail - Seaside,Honda Civic Type R (FK2) '16,,Sunny,2:02.574,,,,,,,2017-10-22,19:41
 Dragon Trail - Seaside,BMW M4 Coupé '14,SH,Cloudy,2:02.616,41.178,38.987,42.251,,,,2019-07-17,19:15
+Dragon Trail - Seaside,BMW Z8 '01,SH,Sunny,2:02.873,40.710,38.586,43.577,,,,2019-06-02,19:12
+Dragon Trail - Seaside,BMW Z8 '01,SH,Sunny,2:04.025,40.875,40.256,42.894,,,,2019-06-02,19:05
 Dragon Trail - Seaside,Chevrolet Corvette C7 Gr.3 Road Car '14,,Sunny,2:04.098,41.140,39.796,43.162,,,,2017-10-23,10:27
-Dragon Trail - Seaside,Ferrari 512 BB '76,,Sunny,2:05.131,,,,,,,2019-08-19,09:31
+Dragon Trail - Seaside,Ferrari 512 BB '76,,Sunny,2:05.131,42.135,39.766,43.230,,,,2019-08-19,09:31
 Dragon Trail - Seaside,Renault Sport Mégane R.S. Trophy '11,,Sunny,2:05.639,41.933,39.224,44.482,,,,2017-10-23,10:48
 Dragon Trail - Seaside,Mitsubishi Lancer Evolution Final Edition '15,SH,Sunny,2:05.885,,,,,,,2018-09-26,14:49
+Dragon Trail - Seaside,BMW Z8 '01,SH,Sunny,2:05.955,42.315,39.569,44.071,,,,2019-06-02,19:05
 Dragon Trail - Seaside,Alfa Romeo 4C Launch Edition '14,,Sunny,2:06.591,,,,,,,2019-07-03,19:35
 Dragon Trail - Seaside,Chevrolet Camaro SS '16,SH,Night,2:06.775,,,,,,,2018-11-23,08:00
 Dragon Trail - Seaside,Honda NSX Type R '92,SH,Sunny,2:06.944,,,,,,,2018-09-26,15:03
@@ -102,15 +126,25 @@ Dragon Trail - Seaside,Honda NSX Type R '92,SH,Sunny,2:07.885,,,,,,,2018-09-26,1
 Dragon Trail - Seaside,Tesla Model S Signature Performance '12,SH,Sunny,2:08.050,43.032,40.149,44.869,,,,2019-06-30,20:53
 Dragon Trail - Seaside,Honda NSX Type R '92,SH,Sunny,2:08.293,42.706,40.424,45.163,,,,2018-10-05,12:29
 Dragon Trail - Seaside,Mercedes-Benz A 45 AMG 4MATIC '13,SH,Sunny,2:08.581,43.194,40.826,44.561,,,,2018-08-31,10:21
+Dragon Trail - Seaside,Ferrari 512 BB '76,,Sunny,2:09.354,41.985,41.689,45.680,,,,2019-08-19,09:31
 Dragon Trail - Seaside,Tesla Model S Signature Performance '12,SH,Sunny,2:10.311,42.043,40.626,47.642,,,,2019-06-30,20:53
+Dragon Trail - Seaside,Ferrari 512 BB '76,,Sunny,2:12.234,41.698,40.510,50.026,,,,2019-08-19,09:31
 Dragon Trail - Seaside,Ford F-150 SVT Raptor '11,SH,Sunny,2:12.755,44.444,41.538,46.773,,,,2018-10-05,23:22
-Dragon Trail - Seaside,Toyota Tundra TRD Pro '19,SH,Sunny,2:13.820,,,,,,,2019-06-27,22:21
+Dragon Trail - Seaside,Toyota Tundra TRD Pro '19,SH,Sunny,2:13.820,45.014,41.960,46.846,,,,2019-06-27,22:21
+Dragon Trail - Seaside,Toyota Tundra TRD Pro '19,SH,Sunny,2:13.941,44.823,42.051,47.067,,,,2019-06-27,22:21
 Dragon Trail - Seaside,Ford F-150 SVT Raptor '11,SH,Sunny,2:13.960,44.734,41.825,47.401,,,,2018-10-05,23:22
 Dragon Trail - Seaside,Ford F-150 SVT Raptor '11,SH,Sunny,2:14.933,45.956,42.758,46.219,,,,2018-10-05,23:22
-Dragon Trail - Seaside,Pontiac Firebird Trans Am '78,SH,Sunny,2:16.545,,,,,,,2018-12-30,19:43
-Dragon Trail - Seaside,Alfa Romeo MiTo 1.4 T Sport '14,,Sunny,2:18.939,,,,,,,2018-08-19,09:44
+Dragon Trail - Seaside,Pontiac Firebird Trans Am '78,SH,Sunny,2:16.545,46.605,42.477,47.463,,,,2018-12-30,19:43
+Dragon Trail - Seaside,Toyota Tundra TRD Pro '19,SH,Sunny,2:18.353,45.875,44.854,47.624,,,,2019-06-27,22:21
+Dragon Trail - Seaside,Alfa Romeo MiTo 1.4 T Sport '14,,Sunny,2:18.939,46.491,433.732,48.716,,,,2019-08-19,09:44
+Dragon Trail - Seaside,Alfa Romeo MiTo 1.4 T Sport '14,,Sunny,2:19.377,47.480,43.217,48.680,,,,2019-08-19,09:44
+Dragon Trail - Seaside,Pontiac Firebird Trans Am '78,SH,Sunny,2:19.423,45.961,44.174,49.288,,,,2018-12-30,19:43
 Dragon Trail - Seaside,Mazda Roadster S (ND) '15,SH,Sunny,2:20.268,,,,,,,2017-10-24,23:40
+Dragon Trail - Seaside,Alfa Romeo MiTo 1.4 T Sport '14,,Sunny,2:20.598,47.840,43.582,49.176,,,,2019-08-19,09:44
+Dragon Trail - Seaside,Alfa Romeo MiTo 1.4 T Sport '14,,Sunny,2:20.940,47.035,44.833,49.072,,,,2019-08-19,09:44
 Dragon Trail - Seaside,Mazda Roadster S (ND) '15,SH,Sunny,2:22.600,48.826,43.918,49.856,,,,2018-10-06,21:32
+Dragon Trail - Seaside,Pontiac Firebird Trans Am '78,SH,Sunny,2:23.154,49.771,43.557,49.826,,,,2018-12-30,19:43
+Dragon Trail - Seaside,Toyota Tundra TRD Pro '19,SH,Sunny,2:26.082,47.682,42.811,55.589,,,,2019-06-27,22:21
 Dragon Trail - Seaside,Mazda Roadster S (ND) '15,SH,Sunny,2:28.393,50.682,47.339,50.372,,,,2018-10-06,21:32
 Dragon Trail - Seaside,Dodge Charger SRT Hellcat '15,,Sunny,3:07.097,,,,,,,2017-10-22,12:19
 Goodwood Motor Circuit,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:17.131,23.771,31.527,21.833,,,,2019-06-01,22:19
@@ -139,6 +173,12 @@ Northern Isle Speedway,Hyundai N 2025 Vision Gran Turismo Gr.X '15,RH,Sunny,0:14
 Northern Isle Speedway,Chevrolet Corvette C7 Gr.3 Road Car '14,,Sunny,0:16.737,,,,,,,2017-10-29,16:09
 Northern Isle Speedway,Lamborghini Veneno '13,SH,Sunny,0:18.899,7.533,11.366,,,,,2018-10-06,11:10
 Northern Isle Speedway,Lamborghini Huracán LP 610-4 '15,SH,Sunny,0:19.594,,,,,,,2018-07-01,11:14
+Red Bull Ring,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:34.011,23.717,41.322,28.972,,,,2019-06-02,18:47
+Red Bull Ring,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:34.334,23.280,41.684,29.370,,,,2019-06-02,18:47
+Red Bull Ring,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:36.479,24.562,42.206,29.711,,,,2019-06-02,18:47
+Red Bull Ring,Lexus RC F GT3 (Emil Frey Racing) '16,RH,Sunny,1:36.055,23.606,42.043,30.406,,,,2019-06-02,18:47
+Sardegna - Road Track - A,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:35.350,32.158,30.706,32.486,,,,2019-06-28,07:43
+Sardegna - Road Track - A,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:36.819,32.916,31.844,32.059,,,,2019-06-28,07:43
 Sardegna - Windmills,Mazda Roadster S (ND) '15,SH,Sunny,1:42.394,29.333,20.629,39.210,13.222,,,202-003,09:00
 Suzuka Circuit,Lamborghini Veneno '13,SH,Sunny,2:25.941,39.936,27.307,53.221,25.477,,,2018-10-06,15:42
 Suzuka Circuit,Lamborghini Veneno '13,SH,Sunny,2:26.016,40.061,23.775,55.021,27.159,,,2018-10-06,15:42
