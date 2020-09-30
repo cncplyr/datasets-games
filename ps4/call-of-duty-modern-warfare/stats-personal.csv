@@ -1,4 +1,4 @@
-Date,Rank,Time,Games,Wins,Losses,Win/Loss Ratio,K/D Ratio,Score Per Minute,Highest Killstreak,Weapon of Choice,Kills with Weapon of Choice
+Date,Rank,Time (dd:hh:mm),Games,Wins,Losses,Win/Loss Ratio,K/D Ratio,Score Per Minute,Highest Killstreak,Weapon of Choice,Kills with Weapon of Choice
 25/03/2020 09:31,51,00:04:38,34,19,9,2.11,0.93,217,8,725,92
 25/03/2020 13:59,51,00:05:00,36,20,10,2.00,0.91,215,8,MP5,102
 27/03/2020 13:32,57,00:07:59,57,34,17,2.00,0.96,236,10,MP5,207
