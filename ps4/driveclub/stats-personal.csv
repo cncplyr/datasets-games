@@ -47,6 +47,9 @@ Goshodaira,Ferrari 458 Italia,14:00,1,Clear,Dry,02:36.229,00:59.522,00:51.867,00
 Goshodaira,Ferrari 458 Italia,14:00,1,Clear,Dry,02:36.531,00:58.997,00:53.307,00:44.227,2015-05-10,16:35
 Goshodaira,Ferrari 458 Italia,14:00,1,Clear,Dry,02:40.733,00:58.797,00:55.848,00:46.088,2015-05-10,16:31
 Goshodaira,Icona Vulcano H-Turismo V12,14:00,1,Clear,Dry,02:43.631,01:01.713,00:54.827,00:47.091,2015-01-31,14:04
+Goshudaira,Mercedes-Benz A 45 AMG,14:00,1,Clear,Dry,02:43.163,01:02.664,00:54.985,00:45.514,2020-04-16,22:32
+Goshudaira,Mercedes-Benz A 45 AMG,14:00,1,Clear,Dry,02:44.299,01:02.559,00:55.547,00:46.193,2020-04-16,22:29
+Goshudaira,Mercedes-Benz A 45 AMG,14:00,1,Clear,Dry,02:44.430,01:02.761,00:56.203,00:45.466,2020-04-16,22:26
 Goshodaira (Reverse),Lamborghini Sesto Elemento,14:00,1,Clear,Dry,02:25.634,00:45.461,00:49.463,00:50.710,2020-03-29,16:32
 Gujo 01,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,00:59.006,00:17.88,00:23.584,00:17.534,2020-03-29,16:57
 Gujo 01,Lamborghini Sesto Elemento,14:00,1,Clear,Dry,01:00.286,00:17.189,00:23.215,00:19.882,2020-03-29,16:55
@@ -250,9 +253,11 @@ The Kyle,McLaren P1,14:00,1,Sunny,Dry,01:59.197,00:42.215,00:42.599,00:34.383,20
 The Kyle,Ferrari Enzo Ferrari,14:00,1,Clear,Dry,02:00.466,00:42.875,00:41.704,00:35.887,2017-05-05,19:03
 The Kyle,Chevrolet Corvette (C7) Z06 Supercharged Stingray,14:00,1,Clear,Dry,02:01.509,00:44.328,00:40.894,00:36.287,2017-05-07,23:08
 The Kyle,Jaguar C-X75 Prototype Edition,14:00,1,Clear,Dry,02:01.964,00:42.962,00:39.590,00:39.412,2017-04-03,00:23
+The Kyle,McLaren 570S Coupe,14:00,1,Clear,Dry,02:02.279,00:43.636,00:40.679,00:37.964,2020-04-29,08:47
 The Kyle,W Motors Lykan Hypersport,14:00,1,Clear,Dry,02:02:863,00:41.338,00:44.528,00;36.997,2017-04-03,22:50
 The Kyle,Ariel Atom 500 V8,14:00,1,Clear,Dry,02:02.932,00:42.981,00:43.775,00:36.176,2016-11-27,19:25
 The Kyle,Chevrolet Corvette (C7) Z06 Supercharged Stingray,14:00,1,Clear,Dry,02:03.668,00:45.116,00:40.761,00:37.791,2017-05-07,23:06
+The Kyle,McLaren 570S Coupe,14:00,1,Clear,Dry,02:03.938,00:44.771,00:41.542,00:37.625,2020-04-29,08:45
 The Kyle,Ferrari 430 Scuderia,14:00,1,Clear,Dry,02:05.133,00:44.380,00:43.598,00:37.155,2017-04-03,22:37
 The Kyle,Aston Martin One-77,14:00,1,Clear,Dry,02:05.499,00:44.349,00:40.289,00:40.861,2017-05-05,20:07
 The Kyle,Jaguar XJ220,14:00,1,Clear,Dry,02:05.663,00:45.266,00:42.575,00:37.822,2017-04-03,22:29
@@ -272,6 +277,7 @@ The Kyle,Ferrari 488 GTB,14:00,1,Clear,Dry,02:09.237,00:44.967,00:45.550,00:38.7
 The Kyle,BMW M3 GTS,14:00,1,Clear,Dry,02:09.904,00:46.848,00:44.867,00:38.189,2017-05-07,23:15
 The Kyle,Ferrari 458 Italia,14:00,1,Clear,Dry,02:10.331,00:45.599,00:43.575,00:41.157,2015-05-10,16:50
 The Kyle,KTM RC8 R,14:00,1,Clear,Dry,02:10.221,00:45.019,00:45.463,00:39.850,2020-02-13,08:35
+The Kyle,Renault Twin'Run Concept,14:00,1,Clear,Dry,02:11.434,0:47.529,0:44.774,0:39.131,2020-04-29,08:42
 The Kyle,Aston Martin V12 Vantage S,14:00,1,Clear,Dry,02:11.5,00:46.4,00:45.9,00:39.2,2014-12-30,20:35
 The Kyle,Wombat Typhoon,14:00,1,Clear,Dry,02:12.041,00:45.546,00:44.172,00:42.323,2017-05-05,20:03
 The Kyle,RUF RGT 8,14:00,1,Clear,Dry,02:13.498,00:46.853,00:45.690,00:40.955,2017-04-03,22:46
@@ -281,7 +287,9 @@ The Kyle,Yamaha YZF-R1,14:00,1,Clear,Dry,02:14.611,00:44.527,00:50.536,00:39.548
 The Kyle,Caterham R500 Superlight,14:00,1,Clear,Dry,02:15.096,00:45.751,00:46.106,00:43.239,2017-04-03,18:47
 The Kyle,W Motors Lykan Hypersport,14:00,1,Clear,Dry,02:16.1,00:42.7,00:44.1,00:49.3,2014-12-26,17:07
 The Kyle,Caterham R500 Superlight,14:00,1,Clear,Dry,02:16.830,00:47.989,00:46.504,00:42.337,2017-04-03,18:36
+The Kyle,Renault Twin'Run Concept,14:00,1,Clear,Dry,02:18.012,0:46.991,0:45.246,0:45.775,2020-04-29,08:39
 The Kyle,Honda Civic Type-R,14:00,1,Clear,Dry,02:19.498,00:51.521,00:45.577,00:42.400,2017-05-05,19:59
+The Kyle,Renault Twin'Run Concept,14:00,1,Clear,Dry,02:20.485,0:49.624,0:45.645,0:45.216,2020-04-29,08:37
 The Kyle,Volkswagen Golf GTI,14:00,1,Clear,Dry,02:21.7,00:52.6,00:46.6,00:42.5,2014-12-26,17:22
 The Kyle,KTM RC8 R,14:00,1,Clear,Dry,02:24.579,00:45.742,00:50.190,00:48.647,2017-04-03,00:36
 The Kyle,Mini John Cooper Works GP,14:00,1,Clear,Dry,02:25.4,00:53.4,00:48.7,00:43.6,2014-12-26,17:28
