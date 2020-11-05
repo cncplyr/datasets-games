@@ -58,6 +58,7 @@ The current list of games includes:
 * Hotline Miami
 * Hotline Miami 2: Wrong Number
 * Infinifactory
+* Islanders
 * Jack Lumber
 * Microsoft Mahjong
 * Microsoft Sudoku
