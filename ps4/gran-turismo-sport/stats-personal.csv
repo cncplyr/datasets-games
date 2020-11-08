@@ -1,8 +1,8 @@
 Track,Car,Tyres,Condition,Time,Sector 1,Sector 2,Sector 3,Sector 4,Sector 5,Sector 6,Date of Race,Time of Race
 Autodrome Lago Maggiore - GP,Alpine Vision Gran Turismo '17,RH,Sunny,1:50.674,31.810,27.510,23.929,27.425,,,2020-06-03,09:23
-Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.408,31.443,27.119,23.892,28.954,,,2019-06-29,10:54
-Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.731,32.740,26.822,23.562,28.607,,,2019-06-29,10:54
-Autodromo Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:53.026,32.847,27.588,23.499,29.092,,,2019-06-29,10:54
+Autodrome Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.408,31.443,27.119,23.892,28.954,,,2019-06-29,10:54
+Autodrome Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:51.731,32.740,26.822,23.562,28.607,,,2019-06-29,10:54
+Autodrome Lago Maggiore - GP,Mazda LM55 Vision Gran Turismo Gr.1 '14,RH,Sunny,1:53.026,32.847,27.588,23.499,29.092,,,2019-06-29,10:54
 Autodrome Lago Maggiore - GP,Alpine Vision Gran Turismo '17,RH,Sunny,1:57.111,32.994,30.674,25.005,28.438,,,2020-06-03,09:23
 Autodrome Lago Maggiore - GP,Bugatti Veyron 16.4 '13,,Sunny,2:11.666,,,,,,,2017-10-21,11:01
 Autodrome Lago Maggiore - GP,Hyundai N 2025 Vision Gran Turismo Gr.X '15,RH,Sunny,2.13.343,,,,,,,2017-10-19,22:54
@@ -226,6 +226,7 @@ Sardegna - Road Track - A,Toyota Tundra TRD Pro '19,SH,Sunny,2:16.235,45.968,44.
 Sardegna - Road Track - A,Ford F-150 SVT Raptor '11,SH,Sunny,2:16.968,46.254,44.216,46.498,,,,2020-06-25,20:40
 Sardegna - Road Track - A,Toyota Tundra TRD Pro '19,SH,Sunny,2:19.312,45.501,44.607,49.204,,,,2020-06-25,20:46
 Sardegna - Windmills,Mazda Roadster S (ND) '15,SH,Sunny,1:42.394,29.333,20.629,39.210,13.222,,,202-003,09:00
+Suzuka Circuit,Chevrolet Corvette C7 Gr.3 Road Car '14,RH,Sunny,2:15.193,37.744,22.050,51.312,24.087,,,2020-11-07,18:49
 Suzuka Circuit,Lamborghini Veneno '14,SH,Sunny,2:18.844,39.103,23.683,51.066,24.992,,,2020-11-05,22:57
 Suzuka Circuit,Lamborghini Veneno '14,SH,Sunny,2:19.473,39.853,23.938,51.732,23.950,,,2020-11-05,22:57
 Suzuka Circuit,Lamborghini Veneno '14,SH,Sunny,2:21.629,39.290,24.522,53.562,24.262,,,2020-11-05,22:57
@@ -234,14 +235,19 @@ Suzuka Circuit,McLaren MP4-12C '10,SH,Sunny,2:23.451,40.206,24.358,53.259,25.628
 Suzuka Circuit,Lamborghini Diablo GT '00,SH,Sunny,2:23.959,39.789,24.250,54.017,25.903,,,2020-11-05,22:37
 Suzuka Circuit,Honda Civic Type R (FK2) '16,SH,Sunny,2:24.164,40.126,23.261,55.511,25.266,,,2020-11-06,08:41
 Suzuka Circuit,McLaren MP4-12C '10,SH,Sunny,2:24.817,39.383,26.440,53.463,25.531,,,2020-11-05,22:42
+Suzuka Circuit,Jaguar F-Type R '14,SH,Sunny,2:25.362,40.563,24.274,54.990,25.535,,,2020-11-08,13:19
 Suzuka Circuit,Lamborghini Diablo GT '00,SH,Sunny,2:25.370,40.513,24.942,54.862,25.053,,,2020-11-05,22:37
 Suzuka Circuit,Honda Civic Type R (FK2) '16,SH,Sunny,2:25.690,41.004,23.582,55.650,25.454,,,2020-11-06,08:41
 Suzuka Circuit,Lamborghini Veneno '14,SH,Sunny,2:25.941,39.936,27.307,53.221,25.477,,,2018-10-06,15:42
 Suzuka Circuit,Lamborghini Veneno '14,SH,Sunny,2:26.016,40.061,23.775,55.021,27.159,,,2018-10-06,15:42
+Suzuka Circuit,Jaguar F-Type R '14,SH,Sunny,2:26.126,40.824,24.619,55.848,24.835,,,2020-11-08,13:19
 Suzuka Circuit,Lamborghini Diablo GT '00,SH,Sunny,2:26.148,41.714,24.780,54.255,25.399,,,2020-11-05,22:37
 Suzuka Circuit,Lamborghini Diablo GT '00,SH,Sunny,2:30.316,43.012,24.368,55.940,26.996,,,2020-11-05,22:37
 Suzuka Circuit,Tesla Model S Signature Performance '12,SH,Sunny,2:33.551,43.368,24.744,58.915,26.524,,,2020-11-06,08:48
 Suzuka Circuit,Tesla Model S Signature Performance '12,SH,Sunny,2:34.026,43.821,24.938,58.294,26.973,,,2020-11-06,08:48
+Suzuka Circuit,Honda S2000 '99,SH,Sunny,2:36.287,43.629,25.488,1:00.197,26.973,,,2020-11-07,11:36
+Suzuka Circuit,Chevrolet Corvette C7 Gr.3 Road Car '14,RH,Sunny,2:36.371,37.747,21.931,1:01.533,36.160,,,2020-11-07,18:49
+Suzuka Circuit,Honda S2000 '99,SH,Sunny,2:37.491,43.786,25.487,1:01.200,27.018,,,2020-11-07,11:36
 Suzuka Circuit,Ford Focus ST '15,SH,Sunny,2:38.243,43.544,25.679,1:01.885,27.135,,,2020-11-06,08:34
 Suzuka Circuit,Ford Focus ST '15,SH,Sunny,2:38.354,44.018,26.272,1:01.327,26.737,,,2020-11-06,08:34
 Suzuka Circuit,Ford Focus ST '15,SH,Sunny,2:41.784,43.794,26.855,1:02.841,28.294,,,2020-11-06,08:34
