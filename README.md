@@ -50,6 +50,7 @@ The current list of games includes:
 ## PC
 * Anno 2205
 * Assetto Corsa
+* Canabalt
 * Counter-Strike: Global Offensive
 * Flight Control HD
 * GRID
