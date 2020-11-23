@@ -101,8 +101,11 @@ The current list of games includes:
 * The Crew
 * The Division
 * Titanfall 2
-* Watch_Dogs
+* Watch Dogs
 * Wipeout: Omega Collection
+
+## PS5
+* Watch Dogs: Legion
 
 ## PS Vita
 * Crazy Market
