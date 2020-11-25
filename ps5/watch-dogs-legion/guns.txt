@@ -1,0 +1,16 @@
+Name,Type,Description
+Desert Eagle,,A semi-auto pistol with high damage and high recoil
+P9,Semi-Auto Pistol,
+P9 Silenced,Unique Weapon,
+REX 357,,
+MP5,Full-auto SMG,
+Vector 45-ACP,Full-Auto SMG
+AK47,Full-Auto Rifle,
+G36,Full-Auto Rifle,
+P308,,
+M249,Light Machine Gun,
+Negev,Light Machine Gun,
+APGL,Grenade Launcher,
+LTL 68P,,"Short-range, non-lethal personal sidearm"
+LTL Goblin,Shock Rifle,
+MCX,Shock Rifle,
