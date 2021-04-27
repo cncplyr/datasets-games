@@ -52,6 +52,7 @@ The current list of games includes:
 * Assetto Corsa
 * Canabalt
 * Counter-Strike: Global Offensive
+* Dorfromantik
 * Flight Control HD
 * GRID
 * GRID 2

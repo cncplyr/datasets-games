@@ -7,7 +7,10 @@ Nissan,370Z Nismo,D
 Volkswagen,XL Sport Concept,D
 DS Automobiles,DS E-Tense,D
 Dodge,Challenger 392 Hemi Scat Pack,D
+Italdesign,DaVinci,D
+BMW,i8 Roadster,D
 Porsche,718 Cayman,D
+Infiniti,Project Black S,D
 Lotus,Elise Sprint 220,D
 Ford,Shelby GT350R,D
 Porsche,911 Targa 4S,D
@@ -29,25 +32,36 @@ Pininfarina,H2 Speed,C
 Artega,Scalo Superelletra,C
 Acura,2017 NSX,C
 Maserati,Alfieri,C
+ATS Automobili,Corsa RRTurbo,C
 Vencer,Sarthe,C
+Ferrari,F40,C
+Porsche,718 Cayman GT4 Clubsport,C
+Chevrolet,Corvette Stingray,C
+Ferrari,599XX EVO,C
 Arrinera,Hussarya 33,C
+Lamborghini,Gallardo LP 560-4,C
 Porsche,911 GTS Coupe,B
 Aston Martin,DB11,B
 Jaguar,F-Type SVR,B
 Exotic Rides,W70,B
+Porsche,911 GT1 Evolution,B
 Ford,GT,B
 Lamborghini,Asterion,B
+Ferrari,Roma,B
 Cadillac,Cien Concept,B
+Ford,GT MK II,B
 Italdesign,Zerouno,B
 Ferrari,488 GTB,B
 SCG,003S,B
 Ferrari,F12tdf,B
 Chevrolet,Corvette Grand Sport,B
+Lamborghini,Murcielago LP 640 Roadster,B
 Aston Martin,Vantage GT12,B
 SIN,R1 550,B
 Apollo,N,B
 Mercedes-Benz,SLR McLaren,B
 Aston Martin,DBS Superleggera,B
+Lamborghini,Essenza SCV12,B
 Lamborghini,Huracan Evo Spyder,B
 Porsche,911 GT3 RS,B
 Lotus,Evija,B
@@ -60,19 +74,26 @@ McLaren,P1,A
 Lamborghini,Aventador SV Coupe,A
 Ferrari,812 Superfast,A
 Chevrolet,Corvette ZR1,A
+Jaguar,C-X75,A
 VLF,Force 1 V10,A
 Vanda Electrics,Dendrobium,A
 Porsche,918 Spyder,A
 McLaren,570S Spider,A
 Lamborghini,Aventador J,A
+Peugeot,Onyx,A
+Porsche,911 GT2 RS Clubsport,A
 Pagani,Huayra BC,A
+Lamborghini,SC18,A
 Ferrari,LaFerrari Aperta,A
+Ferrari,F8 Tributo,A
 Genty,Akylone,A
+Pagani,Imola,A
 Techrules,AT96 Track Version,A
 Lamborghini,Centenario,S
 Ferrari,FXX K,S
 Icona,Vulcano Titanium,S
 W Motors,Lykan Hypersport,S
+Lamborghini,Veneno,S
 Lamborghini,Egoista,S
 Trion,Nemesis,S
 McLaren,Senna,S
@@ -81,6 +102,9 @@ W Motors,Fenyr Supersport,S
 Zenvo,TS1 GT Anniversary,S
 Automobili Pininfarina,Battista,S
 Koenigsegg,Regera,S
+Lamborghini,Sian FKP 37,S
 Bugatti,Chiron,S
+BXR,Bailey Blade GT1,S
+Mazzanti,Evantra Millecavalli,S
 Koenigsegg,Jesko,S
 Rimac,C_Two,S
