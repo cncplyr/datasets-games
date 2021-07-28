@@ -26,6 +26,7 @@ Lotus,Evora Sport 410,C
 Mercedes-Benz,AMG GT S,C
 BMW,M4 GTS,C
 Rezvani,Beast X,C
+Aston Martin,V12 Speedster,C
 Dodge,Viper ACR,C
 Ford,Shelby GR-1,C
 Pininfarina,H2 Speed,C
@@ -53,6 +54,7 @@ Ford,GT MK II,B
 Italdesign,Zerouno,B
 Ferrari,488 GTB,B
 SCG,003S,B
+McLaren,Elva,B
 Ferrari,F12tdf,B
 Chevrolet,Corvette Grand Sport,B
 Lamborghini,Murcielago LP 640 Roadster,B
@@ -71,20 +73,24 @@ Ferrari,J50,A
 Dodge,Viper GTS,A
 Ferrari,LaFerrari,A
 McLaren,P1,A
+Pagani,Zonda HP Barchetta,A
 Lamborghini,Aventador SV Coupe,A
 Ferrari,812 Superfast,A
 Chevrolet,Corvette ZR1,A
 Jaguar,C-X75,A
 VLF,Force 1 V10,A
+Lamborghini,Aventador SVJ Roadster,A
 Vanda Electrics,Dendrobium,A
 Porsche,918 Spyder,A
 McLaren,570S Spider,A
 Lamborghini,Aventador J,A
 Peugeot,Onyx,A
+Aston Martin,Victor,A
 Porsche,911 GT2 RS Clubsport,A
 Pagani,Huayra BC,A
 Lamborghini,SC18,A
 Ferrari,LaFerrari Aperta,A
+Lamborghini,SC20,A
 Ferrari,F8 Tributo,A
 Genty,Akylone,A
 Pagani,Imola,A
@@ -99,6 +105,7 @@ Trion,Nemesis,S
 McLaren,Senna,S
 Lamborghini,Terzo Millennio,S
 W Motors,Fenyr Supersport,S
+Aston Martin,Valkyrie,S
 Zenvo,TS1 GT Anniversary,S
 Automobili Pininfarina,Battista,S
 Koenigsegg,Regera,S
