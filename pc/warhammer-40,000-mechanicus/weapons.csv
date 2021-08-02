@@ -1,0 +1,3 @@
+name,level,cognition cost,cooldown,description,damage,machine spirit
+Macrostubber,1,1,1,"Single target ranged attack","Deals 2-4 Physical DMG.",+1 DMG
+Arc Rifle,1,2,1,"Single target ranged attack. Upon hitting target, turns into a cone area attack","Deals 1-8 Energy DMG to target. Deals 1-2 Energy DMG to chained targets.","Area size increased."

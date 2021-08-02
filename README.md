@@ -73,6 +73,7 @@ The current list of games includes:
 * TIS-100
 * Toast Time
 * Trackmania 2: Valley
+* Warhammer 40,000: Mechanicus
 * World of Guns: Gun Disassembly
 
 ## PS3
