@@ -15,11 +15,13 @@ Lotus,Elise Sprint 220,D
 Ford,Shelby GT350R,D
 Porsche,911 Targa 4S,D
 Ginetta,G60,D
+Renault,TreZor,D
 Honda,Civic Type-R,D
 Porsche,Taycan Turbo S,D
 TVR,Griffith,D
 Bentley,Contiental GT3,D
 Mazda,Furai,D
+Volkswagen,Electric R,D
 Dodge,Challenger SRT8,C
 BMW,3.0 CSL Hommage,C
 Chevrolet,Camaro ZL1 50th Edition,C
@@ -55,11 +57,13 @@ Cadillac,Cien Concept,B
 Ford,GT MK II,B
 Italdesign,Zerouno,B
 Ferrari,488 GTB,B
+Drako,GTE,B
 SCG,003S,B
 McLaren,Elva,B
 Ferrari,F12tdf,B
 Lamborghini,Murcielago LP 640 Roadster,B
 Chevrolet Corvette,Grand Sport,B
+Apex,AP-0,B
 Aston Martin,Vantage GT12,B
 SIN,R1 550,B
 Apollo,N,B
@@ -97,6 +101,7 @@ Ferrari,LaFerrari Aperta,A
 Ferrari,F8 Tributo,A
 Lamborghini,SC20,A
 Genty,Akylone,A
+Rimac,CONCEPT_ONE,A
 Pagani,Imola,A
 Techrules,AT96 Track Version,A
 Aston Martin,Valhalla Concept Car,A
@@ -104,6 +109,7 @@ Lamborghini,Centenario,S
 Ferrari,FXX K,S
 Icona,Vulcano Titanium,S
 W Motors,Lykan Hypersport,S
+Raesr,Tachyon Speed,S
 Lamborghini,Veneno,S
 Lamborghini,Egoista,S
 Trion,Nemesis,S
@@ -117,9 +123,12 @@ Automobili Pininfarina,Battista,S
 McLaren,Speedtail,S
 Koenigsegg,Regera,S
 Lamborghini,Sian FKP 37,S
+Inferno Automobili,Inferno,S
 Bugatti,Chiron,S
 BXR,Bailey Blade GT1,S
 Mazzanti,Evantra Millecavalli,S
+Toroidion,1MW,S
 Koenigsegg,Jesko,S
+Aspark,Owl,S
 Rimac,C_Two,S
 Hennessey,Venom F5,S
