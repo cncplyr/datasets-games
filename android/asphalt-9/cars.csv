@@ -21,6 +21,7 @@ Porsche,Taycan Turbo S,D
 TVR,Griffith,D
 Bentley,Contiental GT3,D
 Mazda,Furai,D
+Chevrolet Corvette,C7.R,D
 Volkswagen,Electric R,D
 Dodge,Challenger SRT8,C
 BMW,3.0 CSL Hommage,C
@@ -34,6 +35,7 @@ Dodge,Viper ACR,C
 Ford,Shelby GR-1,C
 Pininfarina,H2 Speed,C
 Artega,Scalo Superelletra,C
+Saleen,S1,C
 Acura,2017 NSX,C
 Maserati,Alfieri,C
 ATS Automobili,Corsa RRTurbo,C
@@ -41,7 +43,7 @@ Vencer,Sarthe,C
 Ferrari,F40,C
 Renault,R.S. 01,C
 Porsche,718 Cayman GT4 Clubsport,C
-Chevrolet,Corvette Stingray,C
+Chevrolet Corvette,Stingray,C
 Ferrari,599XX EVO,C
 Arrinera,Hussarya 33,C
 Lamborghini,Gallardo LP 560-4,C
@@ -53,6 +55,7 @@ Porsche,911 GT1 Evolution,B
 Ford,GT,B
 Lamborghini,Asterion,B
 Ferrari,Roma,B
+Arash,AF10,B
 Cadillac,Cien Concept,B
 Ford,GT MK II,B
 Italdesign,Zerouno,B
@@ -71,11 +74,13 @@ Mercedes-Benz,SLR McLaren,B
 Aston Martin,DBS Superleggera,B
 Lamborghini,Essenza SCV12,B
 Lamborghini,Huracan Evo Spyder,B
+Nissan,GTR-50 Italdesign,B
 Porsche,Carrera GT,B
 Zenvo,TSR-S,B
 Porsche,911 GT3 RS,B
 Lotus,Evija,B
 McLaren,F1LM,B
+Volkswagen,W12 Coupe,B
 Aston Martin,Vulcan,A
 Nissan,GT-R Nismo,A
 Ferrari,J50,A
@@ -89,11 +94,12 @@ Chevrolet Corvette,ZR1,A
 Jaguar,C-X75,A
 VLF,Force 1 V10,A
 Lamborghini,Aventador SVJ Roadster,A
-Porsche,918 Spyder,A
 Vanda Electrics,Dendrobium,A
+Porsche,918 Spyder,A
 McLaren,570S Spider,A
 Lamborghini,Aventador J,A
 Peugeot,Onyx,A
+Citroen,GT by CITROEN,A
 Aston Martin,Victor,A
 Porsche,911 GT2 RS Clubsport,A
 Pagani,Huayra BC,A
@@ -103,8 +109,8 @@ Ferrari,F8 Tributo,A
 Lamborghini,SC20,A
 Genty,Akylone,A
 Rimac,CONCEPT_ONE,A
-Pagani,Imola,A
 Techrules,AT96 Track Version,A
+Pagani,Imola,A
 Aston Martin,Valhalla Concept Car,A
 Lamborghini,Centenario,S
 Ferrari,FXX K,S
@@ -127,9 +133,12 @@ Lamborghini,Sian FKP 37,S
 Inferno Automobili,Inferno,S
 Bugatti,Chiron,S
 BXR,Bailey Blade GT1,S
+Bugatti,Divo,S
 Mazzanti,Evantra Millecavalli,S
 Toroidion,1MW,S
 Koenigsegg,Jesko,S
 Aspark,Owl,S
 Rimac,C_Two,S
+Rimac,Nevera,S
+Koenigsegg,Gemera,S
 Hennessey,Venom F5,S
