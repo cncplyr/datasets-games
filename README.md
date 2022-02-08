@@ -122,3 +122,6 @@ The current list of games includes:
 * Super Meat Boy
 * Treasures of Montezuma: Blitz
 * Wipeout 2048
+
+## Web
+ * Wordle
