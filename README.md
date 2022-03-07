@@ -107,6 +107,7 @@ The current list of games includes:
 * Wipeout: Omega Collection
 
 ## PS5
+* Gran Turismo 7
 * Watch Dogs: Legion
 
 ## PS Vita
