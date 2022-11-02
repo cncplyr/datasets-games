@@ -1,10 +1,14 @@
-Date, Game Mode, Map, Team, Win/Loss, Match Score, Position, Score, Kills, Captures/Time, Deaths, Defends/KD Ratio/Revives
+Date, Game Mode, Map, Team, Win/Loss, Match Score, Position, Score, Kills, Captures/Time/Confirms/Plants, Deaths, Defends/KD Ratio/Revives/Denies/Defuses
 28/10/2022, Domination (6v6), Al Bagra Fortress, KORTAC, Loss, 173-200, 1/6, 3575, 22, 8, 17, 2
 28/10/2022, Hardpoint (6v6), El Asilo, SPECGRU, Loss, 118-250, 1/6, 3875, 17, 1:20, 18, 2
 29/10/2022, Team Deathmatch (6v6), , SPECGRU, Win, 100-97, 3/6, 2275, 20, 3, 7, 2.86
 29/10/2022, Free for All, Taraq, N/A, Loss (quit), , , , , , ,
-30/10/2022, Headquarters (6v6), Crown Raceway (6v6), SPECGRU, Loss, 45-200, 3/6, 2350, 18, 3, 21, 0
+30/10/2022, Headquarters (6v6), Crown Raceway, SPECGRU, Loss, 45-200, 3/6, 2350, 18, 3, 21, 0
 30/10/2022, Prisoner Rescue (6v6), Taraq, KORTAC, Win, 500-450, 4/6, 700, 5, 0, 7, 0.71
 30/10/2022, Knockout (6v6), , SPECGRU, Win, 5-0, 5/6, 365, 2, 2, 3, 0
 31/10/2022, Domination (6v6), Taraq, KORTAC, Win, 200-112, 1/6, 2985, 16, 6, 11, 4
 31/10/2022, Hardpoint (6v6), Farm 18, KORTAC, Loss, 246-250, 3/5, 4135, 27, 1:00, 22, 1
+01/11/2022, Kill Confirmed (6v6), Farm 18, KORTAC, Win, 75-48, 5/6, 1820, 7, 6, 15, 0
+01/11/2022, Team Deathmatch (6v6), Santa Sena Border Crossing, SPECGRU, Win, 100-73, 2/6, 2470, 17, 2, 12, 1.42
+01/11/2022, Search and Destroy (6v6), Crown Raceway, SPECGRU, Loss, 6-2, 5/6, 300, 2, 1, 7, 0
+01/11/2022, Headquarters (6v6), Breenbergh Hotel, KORTAC, Win, 200-37, 3365, 23, 4, 24, 0
