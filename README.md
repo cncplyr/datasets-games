@@ -46,6 +46,7 @@ The current list of games includes:
 * War Planet Online: Global Conquest
 * Warhammer 40,000: Carnage
 * Warhammer 40,000: Freeblade
+* Warhammer 40,000: Tacticus
 
 ## PC
 * Anno 2205
