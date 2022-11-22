@@ -26,6 +26,7 @@ Damage, Epic, Special Issue Ammo,
 Damage, Epic, Plasma Cell Crate, 1x Plasma Cell Bundle 6x Crate of Salvage
 Damage, Rare, Plasma Cell Bundle, 6x Plasma Cell 3x Barrel of Promethium 7x Can of Promethium
 Damage, Rare, Bionic Eye, 
+Damage, Rare, Box of Ammo, 2x Magazine 1x Belt of Frag Grenades
 Damage, Rare, Chains of Zeal, 
 Damage, Rare, Classified Data-Slate, 
 Damage, Rare, Entrenching Tool, 
@@ -38,10 +39,14 @@ Damage, Rare, Psytronome,
 Damage, Rare, Sigil of Decay, 
 Damage, Rare, Supernatural Sight, 6x Ballistics Data 5x Writings 6x Scrolls
 Damage, Rare, Tank of Promethium, 
+Damage, Uncommon, Belt of Frag Grenades, 6x Frag Grenade
 Damage, Uncommon, Fine Auxiliary Core, 
+Damage, Uncommon, Magazine, 6x Round of Ammo
 Damage, Uncommon, Plasma Cell,
 Damage, Common, Ballistics Data, 
+Damage, Common, Frag Grenade, 
 Damage, Common, Single Power Pack, 
+Damage, Common, Round of Ammo
 Health, Legendary, Engrammatic Entangler, 
 Health, Epic, Golden Ornamental Skull, 
 Health, Epic, Spirit Stone, 9x Waystone
