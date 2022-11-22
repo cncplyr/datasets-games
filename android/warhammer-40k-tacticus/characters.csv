@@ -1,46 +1,46 @@
-Faction, Name, Title, Melee Attack, Ranged Attack 
-Ultramarines, Varro Tigurius, Chief Librarian, 1x Physical, 1x Psychic Range 2
-Ultramarines, Certus, Eliminator Sergeant, 1x Physical, 1x Bolter Range 3
-Ultramarines, Bellator, Inceptor Sergeant, 6x Bolter, None
-Ultramarines, Incisus, Apothecary, 1x Piercing, None
-Ultramarines, Marneus Calgar, Chapter Master, , 
-Orks, Snotflogga, Runtherd, 3x Physical, None
-Orks, Gibbascrapz, Big Mek, 4x Physical, None
-Orks, Snappawrecka, Killa Kan, 2x Chain, 3x Projectile Range 3
-Orks, Tanksmasha, Nob on Smasha Squig, , 
-Orks, Boss Gulgortz, Warboss in Mega Armour, 5x Chain, 3x Projectile Range 3
-Necrons, Makhotep, Royal Warden, 1x Physical, 2x Gauss Range 3
-Necrons, Imospekh, Hexmark Destroyer, 1x Enmitic, 6x Enmitic Range 2 
-Necrons, Aleph-Null, Canoptek Spider, 5x Particle, None
-Necrons, Thutmose, Plasmancer, , 
-Necrons, Anuphet, Overlord, , 
-Black Legion, Angrax, Terminator Champion, 4x Power, None 
-Black Legion, Volk, Obliterator, , 
-Black Legion, Archimatos, Master of Possession, 2x Psychic, 1x Psychic Range 2 
-Black Legion, Haarken Worldclaimer, Herald of the Apocalypse, 4x Piercing, None 
-Black Legion, Abaddon the Despoiler, Warmaster of Chaos, , 
-Aeldari, Calandis, Ranger, 1x Physical, 1x Energy Range 3 
-Aeldari, Aethana, Autarch, 3x Piercing, None 
-Aeldari, Eldryon, Farseer, 2x Piercing, 2x Psychic Range 2 
-Aeldari, , , , 
-Aeldari, , , , 
-Adepta Sororitas, Vindicta, Celestian, 1x Physical, 4x Flame Range 2 
-Adepta Sororitas, Isabella, Hospitaller, , 
-Adepta Sororitas, Morvenn Vahl, Abbess Sanctorum of the Adepta Sororitas, , 
-Adepta Sororitas, Roswitha, Canoness, , 
-Adepta Sororitas, Celestine, Living Saint, , 
-Astra Militarum, Sibyll Devine, Primaris Psyker, 1x Psychic,  1x Psychic Range 2
-Astra Militarum, Commissar Yarrick, Lord Commissar, , 
-Astra Militarum, Kut Skoden, Bullgryn Bone'ead, , 
-Astra Militarum, Thaddeus Noble, Master of Ordinance, , 
-Astra Militarum, Castellan Creed, Lord General of the Astra Militarum, , 
-Death Guard, Typhus, Herald of the Plague God, , 
-Death Guard, Maladus, Blightlord Champion, 3x Power, None 
-Death Guard, Nauseous Rotbone, Plague Surgeon, , 
-Death Guard, Pestillian, Biologus Putrifier, , 
-Death Guard, Corrodius, Noxious Blightbringer, , 
-Black Templars, Sword Brother Godswyl, Sword Brother, 1x Power, None 
-Black Templars, Brother Burchard, Aggressor Sergeant, , 
-Black Templars, Ancient Thoread, Chapter Ancient, , 
-Black Templars, Brother Jaeger, The Empreror's Champion, , 
-Black Templars, High Marshal Helbrecht, High Marshal of the Black Templars, , 
+Faction, Name, Title, Melee Attack, Ranged Attack, Traits
+Ultramarines, Varro Tigurius, Chief Librarian, 1x Physical, 1x Psychic Range 2,
+Ultramarines, Certus, Eliminator Sergeant, 1x Physical, 1x Bolter Range 3,
+Ultramarines, Bellator, Inceptor Sergeant, 6x Bolter, None,
+Ultramarines, Incisus, Apothecary, 1x Piercing, None,
+Ultramarines, Marneus Calgar, Chapter Master, , ,
+Orks, Snotflogga, Runtherd, 3x Physical, None,
+Orks, Gibbascrapz, Big Mek, 4x Physical, None,
+Orks, Snappawrecka, Killa Kan, 2x Chain, 3x Projectile Range 3,
+Orks, Tanksmasha, Nob on Smasha Squig, , ,
+Orks, Boss Gulgortz, Warboss in Mega Armour, 5x Chain, 3x Projectile Range 3,
+Necrons, Makhotep, Royal Warden, 1x Physical, 2x Gauss Range 3,
+Necrons, Imospekh, Hexmark Destroyer, 1x Enmitic, 6x Enmitic Range 2 ,
+Necrons, Aleph-Null, Canoptek Spider, 5x Particle, None,
+Necrons, Thutmose, Plasmancer, , ,
+Necrons, Anuphet, Overlord, , ,
+Black Legion, Angrax, Terminator Champion, 4x Power, None ,
+Black Legion, Volk, Obliterator, , ,
+Black Legion, Archimatos, Master of Possession, 2x Psychic, 1x Psychic Range 2 ,
+Black Legion, Haarken Worldclaimer, Herald of the Apocalypse, 4x Piercing, None ,
+Black Legion, Abaddon the Despoiler, Warmaster of Chaos, , ,
+Aeldari, Calandis, Ranger, 1x Physical, 1x Energy Range 3 ,
+Aeldari, Aethana, Autarch, 3x Piercing, None ,
+Aeldari, Eldryon, Farseer, 2x Piercing, 2x Psychic Range 2 ,
+Aeldari, , , , ,
+Aeldari, , , , ,
+Adepta Sororitas, Vindicta, Celestian, 1x Physical, 4x Flame Range 2 ,
+Adepta Sororitas, Isabella, Hospitaller, , ,
+Adepta Sororitas, Morvenn Vahl, Abbess Sanctorum of the Adepta Sororitas, , ,
+Adepta Sororitas, Roswitha, Canoness, , ,
+Adepta Sororitas, Celestine, Living Saint, , ,
+Astra Militarum, Sibyll Devine, Primaris Psyker, 1x Psychic,  1x Psychic Range 2,
+Astra Militarum, Commissar Yarrick, Lord Commissar, , ,
+Astra Militarum, Kut Skoden, Bullgryn Bone'ead, , ,
+Astra Militarum, Thaddeus Noble, Master of Ordinance, , ,
+Astra Militarum, Castellan Creed, Lord General of the Astra Militarum, , ,
+Death Guard, Typhus, Herald of the Plague God, , ,
+Death Guard, Maladus, Blightlord Champion, 3x Power, None ,
+Death Guard, Nauseous Rotbone, Plague Surgeon, , ,
+Death Guard, Pestillian, Biologus Putrifier, , ,
+Death Guard, Corrodius, Noxious Blightbringer, , ,
+Black Templars, Sword Brother Godswyl, Sword Brother, 1x Power, None ,
+Black Templars, Brother Burchard, Aggressor Sergeant, , ,
+Black Templars, Ancient Thoread, Chapter Ancient, , ,
+Black Templars, Brother Jaeger, The Empreror's Champion, , ,
+Black Templars, High Marshal Helbrecht, High Marshal of the Black Templars, , ,
