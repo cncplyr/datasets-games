@@ -12,5 +12,7 @@ Mechanic, "Can Repair a friendly Mechanical unit's Health as its action. The amo
 Mechanical, "Cannot be Healed but can be Repaired instead"
 Mk X Gravis, "Any incoming Damage has to go through Armour a second time. Does not apply to Crits"
 Overwatch, "A unit that has not attacked during its turn immediately attacks when an enemy moves within range during the enemy's turn"
+Parry, "This unit reduces incoming melee multi-hit attacks by 1 hit, to a minimum of 1"
 Psyker, "When attacking with a ranged Psychic attack, this unit uses Smite and deals 50% of that Damage to a random enemy adjacent to the target"
 Resilient, "Any time this unit takes lethal Damage and is not already at 1 Health it goes down to 1 Health instead of dying, except if Overkilled"
+Suppressive Fire, "An enemy hit by this unit's ranged attack becomes Suppressed"
