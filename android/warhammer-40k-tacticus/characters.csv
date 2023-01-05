@@ -12,7 +12,7 @@ Orks, Boss Gulgortz, Warboss in Mega Armour, 5x Chain, 3x Projectile Range 3,
 Necrons, Makhotep, Royal Warden, 1x Physical, 2x Gauss Range 3,
 Necrons, Imospekh, Hexmark Destroyer, 1x Enmitic, 6x Enmitic Range 2 ,
 Necrons, Aleph-Null, Canoptek Spider, 5x Particle, None,
-Necrons, Thutmose, Plasmancer, , ,
+Necrons, Thutmose, Plasmancer, 1x Plasma, 2x Plasma Range 2, Living Metal
 Necrons, Anuphet, Overlord, , ,
 Black Legion, Angrax, Terminator Champion, 4x Power, None ,
 Black Legion, Volk, Obliterator, , ,
@@ -22,15 +22,15 @@ Black Legion, Abaddon the Despoiler, Warmaster of Chaos, , ,
 Aeldari, Calandis, Ranger, 1x Physical, 1x Energy Range 3 ,
 Aeldari, Aethana, Autarch, 3x Piercing, None ,
 Aeldari, Eldryon, Farseer, 2x Piercing, 2x Psychic Range 2 ,
-Aeldari, , , , ,
+Aeldari, Maugan Ra, , , , "Terrifying, Heavy Weapon, Overwatch"
 Aeldari, , , , ,
 Adepta Sororitas, Vindicta, Celestian, 1x Physical, 4x Flame Range 2 ,
 Adepta Sororitas, Isabella, Hospitaller, , ,
 Adepta Sororitas, Morvenn Vahl, Abbess Sanctorum of the Adepta Sororitas, , ,
-Adepta Sororitas, Roswitha, Canoness, , ,
+Adepta Sororitas, Roswitha, Canoness, 3x Chain, 2x Bolter Range 2, "Act of Faith"
 Adepta Sororitas, Celestine, Living Saint, , ,
 Astra Militarum, Sibyll Devine, Primaris Psyker, 1x Psychic,  1x Psychic Range 2, Psyker
-Astra Militarum, Commissar Yarrick, Lord Commissar, , , Resilient
+Astra Militarum, Commissar Yarrick, Lord Commissar, 3x Power, 2x Bolter Range 2, Resilient
 Astra Militarum, Kut Skoden, Bullgryn Bone'ead, 4x Physical, None, Big Target
 Astra Militarum, Thaddeus Noble, Master of Ordinance, , ,
 Astra Militarum, Castellan Creed, Lord General of the Astra Militarum, , ,
@@ -44,7 +44,7 @@ Black Templars, Brother Burchard, Aggressor Sergeant, 4x Power, 6x Bolter Range 
 Black Templars, Ancient Thoread, Chapter Ancient, , ,
 Black Templars, Brother Jaeger, The Empreror's Champion, , ,
 Black Templars, High Marshal Helbrecht, High Marshal of the Black Templars, , ,
-Tau, Sho'syl, , 1x Pulse, 1x Piercing Range 3, "Networked Targeting, Camouflage, Close Combat Weakness"
+Tau, Sho'syl, Firesight Marksman, 1x Pulse, 1x Piercing Range 3, "Networked Targeting, Camouflage, Close Combat Weakness"
 Tau, , , , ,
 Tau, , , , ,
 Tau, , , , ,
