@@ -2,9 +2,16 @@ Damage Type, Pierce Ratio
 Blast, 15%
 Bolter, 20%
 Chain, 20%
+Energy, 30%
+Enmitic, 60%
+Flame, 25%
+Gauss, 60%
 Las, 10%
+Particle, 35%
 Physical, 1%
 Piercing, 80%
+Plasma, 65%
 Power, 40%
 Projectile, 15%
 Psychic, 100%
+Pulse, 20%
