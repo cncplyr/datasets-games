@@ -3,8 +3,9 @@ Ultramarines, Inceptor, 6x Bolter, None, "Flying, Mk X Gravis"
 Orks, Grot, 1x Projectile, None, 
 Orks, Grot Tank, 1x Physical, 3x Blast Range 3, 
 Necrons, Scarab Swarm, 5x Piercing, None, "Living Metal, Swarm"
-Black Legion, Bloodletter, 1x Piercing, None, 
+Black Legion, Bloodletter, 1x Piercing, None, "Daemon"
 Astra Militarum, Cadian Guardsmen, , , 
 Astra Militarum, Colour Sergeant Kell, , , 
 Tyranids, Ripper Swarm, 3x Physical, None, "Instictive Behaviour, Swarm, Battle Fatigue"
 Tau, MV71 Sniper Drone, 1x Physical, 1x Piercing Range 4, "Flying, Mechanical, Networked Targeting, Close Combat Weakness"
+Tau, Shield Drone, 1x Physical, None, "Flying, Mechanical" 
