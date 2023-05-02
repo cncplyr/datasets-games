@@ -110,6 +110,7 @@ The current list of games includes:
 ## PS5
 * Call of Duty: Modern Warfare II
 * Gran Turismo 7
+* GRID Legends
 * Hitman 3
 * Need for Speed Unbound
 * Watch Dogs: Legion
