@@ -1,0 +1,47 @@
+Trait, Type, Unlock Level
+Cat, Ears, 7
+Monkey, Ears,
+Picks, Ears, 17
+Rabbit, Ears,
+Square, Ears, 26
+Diamond, Face,
+Monkey, Face, 10
+Octopus, Face, 25
+Star, Face, 
+Banana, Horns,
+Jester, Horns, 36
+Narwhal, Horns, 20
+None, Horns,
+Ram, Horns, 
+Bedazzled, Material, 8
+Chrome, Material,
+Furry, Material, 31
+Fuzzy, Material, 12
+Iridescent, Material, 28
+LED, Material, 42
+Matte, Material,
+Ore, Material, 15
+Rusty, Material, 9
+Starry, Material, 11
+Banana, Pattern,
+Breezy, Pattern, 26
+Celestial, Pattern, 15
+Cheetah, Pattern, 18
+Circuit, Pattern, 30
+Cracked, Pattern, 22 
+Diamonds, Pattern, 29
+Patina, Pattern, 10
+Pulse, Pattern, 34
+Solid, Pattern,
+Tropical Fish, Pattern, 19
+None, Plumage,
+Curls, Plumage, 18
+Ruff, Plumage,
+Spades, Plumage, 21
+Thorns, Plumage,
+Asparagus, Tail,
+Cat, Tail, 9
+Mouse, Tail, 11
+None, Tail,
+Peacock, Tail, 20
+Rabbit, Tail,
