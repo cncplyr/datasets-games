@@ -72,6 +72,7 @@ The current list of games includes:
 * Opus Magnum
 * Slay the Spire
 * SpaceChem
+* Starfield
 * TIS-100
 * Toast Time
 * Trackmania 2: Valley
