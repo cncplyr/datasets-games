@@ -1,10 +1,10 @@
 Name, Type, Rarity, Damage, Ammo, Mag, Rounds, Fire Rate, Range, Accuracy, Mass, Value, Mods, Description
-Anti-Personnel Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 25, 110, 150, 20, 69.6%, 1.00, 1088, 0/6, Anti-Personnel: +10% damage against humans.
-Extended Mag Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 50, 110, 150, 20, 69.6%, 1.00, 1088, 0/6, Extended Magazine: Doubles the base magazine capacity.
-Space Adept Solstice, Rare, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 37, 25, 30, 69.3%, 1.30, 2660, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
-Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 40, 110, 150, 40, 65.8%, 4.15, 1210, 0/7,
-Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 290, 170, 20, 66.2%, 2.65, 1402, 0/8,
 Cutter, Common, Heavy, 4 ENGY, CUTTER, --, 58, 76, 3, 76.7%, 4.00, 475, 0/0,
 Equinox, Common, Laser Rifle, 13 ENGY, 3KV LZR, 20, 127, 50, 50, 70.2%, 3.20, 2408, 0/7,
+Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 290, 170, 20, 66.2%, 2.65, 1402, 0/8,
+Anti-Personnel Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 25, 110, 150, 20, 69.6%, 1.00, 1088, 0/6, Anti-Personnel: +10% damage against humans.
+Extended Mag Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 50, 110, 150, 20, 69.6%, 1.00, 1088, 0/6, Extended Magazine: Doubles the base magazine capacity.
+Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 40, 110, 150, 40, 65.8%, 4.15, 1210, 0/7,
 Rescue Axe, Common, Melee, 21 PHYS, , , , , , , 1.40, 650, ,
 Ripshank, Common, Melee, 15 PHYS, , , , , , , 0.40, 365, ,
+Space Adept Solstice, Rare, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 37, 25, 30, 69.3%, 1.30, 2660, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
