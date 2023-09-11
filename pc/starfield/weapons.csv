@@ -13,10 +13,13 @@ Anti-Personnel Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 25, 150, 20, 69.6%, 1.00, 10
 Extended Mag Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 50, 150, 20, 69.6%, 1.00, 1088, 0/6, Extended Magazine: Doubles the base magazine capacity.
 Suppressed Kraken, Common, Pistol, 3 PHYS, 6.5MM, 40, 150, 17, 75.2%, 2.05, 1564, 3/6, "Suppressor, Muzzle Brake, Large Magazine."
 Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 40, 150, 40, 65.8%, 4.15, 1210, 0/7,
+Assassin's Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 42, 85.9%, 5.65, 2860, 5/7, "Long Barrel, Medium Scope, Suppressor, Tactical Magazine, Semi-Automatic"
+Boosted Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 55, 150, 58, 69.5%, 5.85, 2475, 3/7, "Long Barrel, Reflex Sight, Large Magazine"
 Suppressed Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 34, 78.8%, 4.75, 1925, 3/7, "Short Scope, Suppressor, Semi-Automatic"
 Old Earth Hunting Rifle, Common, Rifle, 30 PHYS, 9x39MM, 20, 40, 100, 86.8%, 3.15, 5264, 0/3, 
 Rattler, Common, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 942, 0/7,
 Staggering Rattler, Epic, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1805, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet. Staggering: Small chance to stagger enemies."
+Boosted Calibrated Rattler, Common, Pistol, 17 PHYS, .27 Caliber, 12, 50, 24, 71.4%, 2.05, 2354, 3/7, "Long Barrel, Reflex Sight, Whitehot Rounds"
 Advanced Regulator, Common, Pistol, 100 PHYS, .43 Ultramag, 8, 18, 20, 71.3%, 0.70, 11124, 0/7, 
 Rescue Axe, Common, Melee, 21 PHYS, , , , , , 1.40, 650, ,
 Ripshank, Common, Melee, 15 PHYS, , , , , , 0.40, 365, ,
