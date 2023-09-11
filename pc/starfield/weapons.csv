@@ -8,7 +8,7 @@ Cutter, Common, Heavy, 4 ENGY, CUTTER, --, 76, 3, 76.7%, 4.00, 475, 0/0,
 Eon, Common, Pistol, 10 PHYS, 7.77MM, 12, 50, 20, 67.5%, 0.55, 750, 0/6,
 Equinox, Common, Laser Rifle, 13 ENGY, 3KV LZR, 20, 50, 50, 70.2%, 3.20, 2408, 0/7,
 Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 170, 20, 66.2%, 2.65, 1402, 0/8,
-Calibrated Grendel, Common, Rifle, 5 PHYS, 7.77MM, 50, 170, 21, 66.9%, 2.65, 1720, 0/8, 
+Calibrated Grendel, Common, Rifle, 5 PHYS, 7.77MM, 50, 170, 21, 66.9%, 2.65, 1720, 0/8,
 Suppressed Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 170, 17, 69.9%, 2.70, 2103, 2/8, "Suppressor, Tactical Grip."
 Anti-Personnel Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 25, 150, 20, 69.6%, 1.00, 1088, 0/6, Anti-Personnel: +10% damage against humans.
 Extended Mag Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 50, 150, 20, 69.6%, 1.00, 1088, 0/6, Extended Magazine: Doubles the base magazine capacity.
@@ -17,17 +17,17 @@ Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 40, 150, 40, 65.8%, 4.15, 1210, 0/7,
 Assassin's Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 42, 85.9%, 5.65, 2860, 5/7, "Long Barrel, Medium Scope, Suppressor, Tactical Magazine, Semi-Automatic"
 Boosted Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 55, 150, 58, 69.5%, 5.85, 2475, 3/7, "Long Barrel, Reflex Sight, Large Magazine"
 Suppressed Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 34, 78.8%, 4.75, 1925, 3/7, "Short Scope, Suppressor, Semi-Automatic"
-Old Earth Hunting Rifle, Common, Rifle, 30 PHYS, 9x39MM, 20, 40, 100, 86.8%, 3.15, 5264, 0/3, 
+Old Earth Hunting Rifle, Common, Rifle, 30 PHYS, 9x39MM, 20, 40, 100, 86.8%, 3.15, 5264, 0/3,
 Rattler, Common, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 942, 0/7,
 Calibrated Rattler, Common, Pistol, 19 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1530, 0/7,
 Staggering Rattler, Epic, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1805, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet. Staggering: Small chance to stagger enemies."
 Boosted Calibrated Rattler, Common, Pistol, 17 PHYS, .27 Caliber, 12, 50, 24, 71.4%, 2.05, 2354, 3/7, "Long Barrel, Reflex Sight, Whitehot Rounds"
-Advanced Regulator, Common, Pistol, 100 PHYS, .43 Ultramag, 8, 18, 20, 71.3%, 0.70, 11124, 0/7, 
+Advanced Regulator, Common, Pistol, 100 PHYS, .43 Ultramag, 8, 18, 20, 71.3%, 0.70, 11124, 0/7,
 Rescue Axe, Common, Melee, 21 PHYS, , , , , , 1.40, 650, ,
 Ripshank, Common, Melee, 15 PHYS, , , , , , 0.40, 365, ,
 Beserker Ripshank, Rare, Melee, 15 PHYS, , , , , , 0.40, 547, , "Beserker: Does more damage the less armour one has."
-Sidestar, Common, Pistol, 12 PHYS, .27 Caliber, 17, 40, 20, 67.9%, 0.65, 825, 0/7, 
-Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 1960, 0/7, 
+Sidestar, Common, Pistol, 12 PHYS, .27 Caliber, 17, 40, 20, 67.9%, 0.65, 825, 0/7,
+Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 1960, 0/7,
 Space Adept Solstice, Rare, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 30, 69.3%, 1.30, 2660, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
 Professional's Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 10, 25, 27, 72.5%, 2.40, 2730, 3/7, "Short Barrel with Laser Sight, Holographic Sight, Focal Lens."
 Lacerate UC Naval Cutlass, Epic, Melee, 25 PHYS, , , , , , 1.40, 1963, ,
