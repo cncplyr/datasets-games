@@ -1,4 +1,4 @@
-Name, Type, Rarity, Damage, Ammo, Mag, Rounds, Fire Rate, Range, Accuracy, Mass, Value, Mods, Description
+Name, Rarity, Type, Damage, Ammo, Mag, Fire Rate, Range, Accuracy, Mass, Value, Mods, Description
 Marksman's AA-99, Rare, Rifle, 31 PHYS, 11MM, 25, 40, 42, 81.7%, 7.25, 27884, 7/8, "Hitman: +15% damage while aiming. Stabilizing Barrel, Short Scope, Suppressor, Ergonomic Stock, Tactical Magazine, High Velocity, Semi-Automatic."
 Coachman, Common, Shotgun, 52 PHYS, Caseless Shell, 2, 47, 20, 38.4%, 3.00, 1650, 0/7,
 Combat Knife, Common, Melee, 20 PHYS, , , , , , 0.36, 505, ,
