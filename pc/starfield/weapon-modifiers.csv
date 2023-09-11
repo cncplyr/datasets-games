@@ -1,7 +1,9 @@
 Name, Effect
 Anti-Personnel, +10% damage against humans.
+Beserker: Does more damage the less armour one has.
 Extended Magazine, Doubles the base magazine capacity.
-Hitman, +15% damage while aiming
+Exterminator, +30% damage against aliens.
+Hitman, +15% damage while aiming.
 Instigating, Deals double damage to targets with full health.
 Lacerate, Randomly applies a bleed effect to the target.
 Space-Adept, "+30% damage while in space, and -15% damage while on a planet."
