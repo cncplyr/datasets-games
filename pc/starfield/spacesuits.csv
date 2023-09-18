@@ -1,0 +1,6 @@
+Name, Rarity, PHYS, ENGY, EM, Thermal, Airbourne, Corrosive, Radiation, Mass, Value, Description
+Deep Recon Spacesuit, Common, 61, 77, 69, 20, 10, 30, 0, 6.80, 7255,
+Ecliptic Spacesuit, Common, 58, 62, 66, 30, 10, 20, 0, 13.70, 9805,
+Ground Crew Spacesuit, Common, 45, 61, 53, 15, 15, 15, 15, 6.80, 3095,
+Calibrated Navigator Spacesuit, Common, 53, 85, 69, 20, 10, 30, 0, 8.40, 3981,
+Star Roamer Spacesuit, Common, 37, 69, 53, 15, 15, 0, 30, 7.80, 3140,
