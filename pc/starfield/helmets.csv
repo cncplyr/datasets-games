@@ -1,3 +1,11 @@
 Name, Rarity, PHYS, ENGY, EM, Thermal, Airbourne, Corrosive, Radiation, Mass, Value, Description
-Pirate Sniper Space Helmet, Common, 28, 26, 30, 0, 10, 0, 20, 1.80, 192,
+Constellation Space Helmet, Common, 35, 27, 31, 0, 5, 5, 20, 2.30, 2150,
+Broken Constellation Space Helmet, Common, 19, 16, 23, 0, 5, 5, 20, 2.30, 450,
+Deep Recon Space Helmet, Common, 36, 34, 38, 10, 10, 10, 10, 1.80, 1835,
+Anti-Ballistic Calibrated Deep Mining Space Helmet, Rare, 42, 26, 34, 0, 20, 10, 0, 1.90, 927, "Anti-Ballistic: -15% incoming Physical damage from ranged weapons."
 Chameleon Ecliptic Space Helmet,  Rare, 29, 31, 33, 0, 10, 0, 20, 4.30, 322, "Chameleon: Blend with the environment while sneaking and not moving."
+Bolstering Calibrated Ecliptic Space Helmet, Rare, 37, 39, 41, 0, 10, 0, 20, 4.30, 3206, "Bolstering: Grants up to +100 Energy resistance and Physical resistance, the lower your health."
+Ground Crew Space Helmet, Common, 22, 30, 26, 10, 10, 10, 10, 1.80, 735,
+Calibrated Ground Crew Space Helmet, Common, 30, 38, 34, 10, 10, 10, 10, 1.80, 918,
+Pirate Sniper Space Helmet, Common, 28, 26, 30, 0, 10, 0, 20, 1.80, 192,
+Bolstering Refined Star Roamer Space Helmet, Rare, 38, 46, 42, 10, 0, 0, 20, 2.20, 1139, "Bolstering: Grants up to +100 Energy resistance and Physical resistance, the lower your health."
