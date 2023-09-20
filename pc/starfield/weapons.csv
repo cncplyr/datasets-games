@@ -38,7 +38,7 @@ Rescue Axe, Rescue Axe, Common, Melee, 21 PHYS, , , , , , 1.40, 650, ,
 Rescue Axe, Space Adept Rescue Axe, Rare, Melee, 21 PHYS, , , , , , 1.40, 121, , "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
 Ripshank, Ripshank, Common, Melee, 15 PHYS, , , , , , 0.40, 365, ,
 Ripshank, Beserker Ripshank, Rare, Melee, 15 PHYS, , , , , , 0.40, 547, , "Beserker: Does more damage the less armour one has."
-Sidearm, Ace Sidearm, Rare, Pistol, .27 Caliber, 20, 40, 20, 72.0%, 1.70, 9468, 5/7, "Anti-Personnel: +1-% damage against humans. Recon Laser Sight, Reflex Sight, Muzzle Break, Armour-Piercing Rounds, High Powered."
+Sidearm, Ace Sidearm, Rare, Pistol, .27 Caliber, 20, 40, 20, 72.0%, 1.70, 9468, 5/7, "Anti-Personnel: +10% damage against humans. Recon Laser Sight, Reflex Sight, Muzzle Break, Armour-Piercing Rounds, High Powered."
 Sidestar, Sidestar, Common, Pistol, 12 PHYS, .27 Caliber, 17, 40, 20, 67.9%, 0.65, 825, 0/7,
 Sir Livingstone's Pistol, Sir Livingstone's Pistol, Common, Pistol, 31 PHYS, .45 Caliber, 15, 67, 21, 69.2%, 1.80, 7612, 2/4, "Large Magazine, High Velocity."
 Solstice, Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 1960, 0/7,
