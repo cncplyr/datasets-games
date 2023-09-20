@@ -1,11 +1,18 @@
 Base, Name, Rarity, PHYS, ENGY, EM, Thermal, Airbourne, Corrosive, Radiation, Mass, Value, Description
-Deep Mining Spacesuit, Beast Hunter's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 392, "Beast Hunter: -15% damage from Alien enemies."
-Deep Mining Spacesuit, Veteran's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 392, "Combat Veteran: -15% damage from Human enemies."
+Deep Mining Spacesuit, Deep Mining Spacesuit, Common, 69, 37, 53, 10, 30, 0, 20, 7.00, 3050,
+Deep Mining Spacesuit, Beast Hunter's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 3141, "Beast Hunter: -15% damage from Alien enemies."
+Deep Mining Spacesuit, Galvanized Deep Mining Spacesuit, Epic, 69, 37, 53, 10, 30, 25, 20, 7.00, 3324, "Sturdy: -15% incoming melee damage. Galvanized: +25 Corrosive Resistance."
+Deep Mining Spacesuit, Veteran's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 3141, "Combat Veteran: -15% damage from Human enemies."
 Deep Recon Spacesuit, Deep Recon Spacesuit, Common, 61, 77, 69, 20, 10, 30, 0, 6.80, 7255,
 Deepcore Spacesuit, Technician's Deepcore Spacesuit, Rare, 57, 53, 61, 15, 30, 0, 15, 7.00, 3141, "Technician: -15% damage from Robot enemies."
+Deepseeker Spacesuit, Deepseeker Spacesuit, Common, 78, 74, 82, 0, 20, 10, 30, 7.80, 8585,
 Ecliptic Spacesuit, Ecliptic Spacesuit, Common, 58, 62, 66, 30, 10, 20, 0, 13.70, 9805,
 Ground Crew Spacesuit, Ground Crew Spacesuit, Common, 45, 61, 53, 15, 15, 15, 15, 6.80, 3095,
 Ground Crew Spacesuit, Calibrated Ground Crew Spacesuit, Common, 61, 77, 69, 15, 15, 15, 15, 6.80, 3868,
+Navigator Spacesuit, Navigator Spacesuit, Common, 37, 69, 53, 20, 10, 30, 0, 8.40, 3185,
+Navigator Spacesuit, Ablative Navigator Spacesuit, Rare, 37, 69, 53, 20, 10, 30, 0, 8.40, 3280, "Ablative: -15% incoming Energy damage."
 Navigator Spacesuit, Calibrated Navigator Spacesuit, Common, 53, 85, 69, 20, 10, 30, 0, 8.40, 3981,
+Pirate Assault Spacesuit, Pirate Assault Spacesuit, Common, 61, 45, 53, 20, 0, 30, 10, 7.50, 6055,
+Shocktroop Spacesuit, Shocktroop Spacesuit, Common, 80, 84, 88, 30, 0, 15, 15, 7.50, 9660,
 Star Roamer Spacesuit, Star Roamer Spacesuit, Common, 37, 69, 53, 15, 15, 0, 30, 7.80, 3140,
 Star Roamer Spacesuit, Calibrated Star Roamer Spacesuit, Common, 53, 85, 69, 15, 15, 0, 30, 7.80, 3925,
