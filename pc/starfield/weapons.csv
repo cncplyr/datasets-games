@@ -24,8 +24,10 @@ Maelstrom, Assassin's Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 55, 150, 42, 79.7
 Maelstrom, Boosted Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 55, 150, 58, 69.5%, 5.85, 2475, 3/7, "Long Barrel, Reflex Sight, Large Magazine"
 Maelstrom, Suppressed Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 34, 78.8%, 4.75, 1925, 3/7, "Short Scope, Suppressor, Semi-Automatic"
 Maelstrom, Extended Mag Boosted Calibrated Maelstrom, Rare, Rifle, 23 PHYS, 6.5MM, 95, 60, 48, 83.8%, 6.30, 4042, 5/7, "Extended Magazine: Doubles the base magazine capacity. Long Barrel, Medium Scope, Compensator, Large Magazine, Semi-Automatic."
+Novablast Disruptor, Space Adept Novablast Disruptor, Rare, Electromagnetic Rifle, 100 EM, Heavy Fuse, 5, 20, 20, 70.2%, 2.70, 8075, 0/5, "Space-Adept: +30% damage while in space, and -15 damage while on a planet."
 Novalight, Novalight, Common, Particle Beam Pistol, 8 PHYS 25 ENGY, Light Fuse, 12, 22, 30, 68.6%, 1.35, 4620, 0/7, 
 Old Earth Hunting Rifle, Old Earth Hunting Rifle, Common, Rifle, 30 PHYS, 9x39MM, 20, 40, 100, 86.8%, 3.15, 5264, 0/3,
+Old Earth Shotgun, Beserker Old Earth Shotgun, Rare, Shotgun, 88 PHYS, 12G Shell, 5, 5, 20, 56.3%, 3.60, 4305, 0/5, "Beserker: Does more damage the less armour one has."
 Old Earth Shotgun, Suppressed Old Earth Shotgun, Common, Shotgun, 80 PHYS, 12G Shell, 6, 6, 17, 65.6%, 4.70, 4161, 2/5, "Suppressor, Stock."
 Orion, Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 50, 77.0%, 5.25, 5227, 0/7,
 Orion, Stealth Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 42, 73.0%, 6.65, 6303, 2/7, "Reflex Sight, Stealth Lasers."
@@ -44,6 +46,8 @@ Sir Livingstone's Pistol, Sir Livingstone's Pistol, Common, Pistol, 31 PHYS, .45
 Solstice, Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 1960, 0/7,
 Solstice, Space Adept Solstice, Rare, Laser Pistol, 10 ENGY, 1.5KV LZR, 16, 25, 30, 69.3%, 1.30, 2660, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
 Solstice, Professional's Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 10, 25, 27, 72.5%, 2.40, 2730, 3/7, "Short Barrel with Laser Sight, Holographic Sight, Focal Lens."
+Solstice, Explosive Specialized Calibrated Solstice, Legendary, Laser Pistol, 5 ENGY, 1.5KV LZR, 22, 40, 31, 72.7%, 2.40, 7357, 4/7, "Furious: Each consecutive shot deals more damage. Med Theft: Chance that Human enemies drop extra Med Packs on death. Explosive: Randomly switches to explosive rounds. Long Barrel with Laser Sight, Holographic Sight, Ignition Beams, Fully Automatic."
+Solstice, Extended Mag Calibrated Solstice, Rare, Laser Pistol, 18 ENGY, 1.5KV LZR, 32, 25, 31, 69.8%, 1.30, 3185, 0/7, "Extended Magazine: Doubles the base magazine capacity."
 Solstice, Exerminator's Refined Solstice, Rare, Laser Pistol, 30 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 682, 0/7, "Exterminator: +30% damage against aliens."
 UC Naval Cutlass, UC Naval Cutlass, Common, Melee, 25 PHYS, , , , , , 1.40, 935, ,
 UC Naval Cutlass, Lacerate UC Naval Cutlass, Epic, Melee, 25 PHYS, , , , , , 1.40, 1963, , "Instigating: Deals double damage to targets with full health. Lacerate: Randomly applies a bleed effect to the target."
