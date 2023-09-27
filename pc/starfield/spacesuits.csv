@@ -3,6 +3,7 @@ Deep Mining Spacesuit, Deep Mining Spacesuit, Common, 69, 37, 53, 10, 30, 0, 20,
 Deep Mining Spacesuit, Beast Hunter's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 3141, "Beast Hunter: -15% damage from Alien enemies."
 Deep Mining Spacesuit, Galvanized Deep Mining Spacesuit, Epic, 69, 37, 53, 10, 30, 25, 20, 7.00, 3324, "Sturdy: -15% incoming melee damage. Galvanized: +25 Corrosive Resistance."
 Deep Mining Spacesuit, Veteran's Deep Mining Spacesuit, Rare, 69, 37, 53, 10, 30, 0, 20, 7.00, 3141, "Combat Veteran: -15% damage from Human enemies."
+Deep Mining Spacesuit, Repulsing Deep Mining Spacesuit, Legendary, 69, 37, 53, 10, 30, 25, 20, 7.00, 3690, "Technician: -15% damage from Robot enemies. Galvanized: +25 Corrosive Resistance. Repulsing: 5% chance to disarm nearby attackers."
 Deep Recon Spacesuit, Deep Recon Spacesuit, Common, 61, 77, 69, 20, 10, 30, 0, 6.80, 7255,
 Deep Recon Spacesuit, Calibrated Deep Recon Spacesuit, Common, 77, 93, 85, 20, 10, 30, 0, 6.80, 9068,
 Deepcore Spacesuit, Technician's Deepcore Spacesuit, Rare, 57, 53, 61, 15, 30, 0, 15, 7.00, 3141, "Technician: -15% damage from Robot enemies."
@@ -21,3 +22,4 @@ Shocktroop Spacesuit, Shocktroop Spacesuit, Common, 80, 84, 88, 30, 0, 15, 15, 7
 Space Trucker Spacesuit, Calibrated Space Trucker Spacesuit, Common, 61, 77, 69, 0, 20, 10, 30, 7.80, 3925,
 Star Roamer Spacesuit, Star Roamer Spacesuit, Common, 37, 69, 53, 15, 15, 0, 30, 7.80, 3140,
 Star Roamer Spacesuit, Calibrated Star Roamer Spacesuit, Common, 53, 85, 69, 15, 15, 0, 30, 7.80, 3925,
+Va'Ruun Spacesuit, Liquid Cooled Va'Ruun Spacesuit, Epic, 68, 64, 72, 40, 15, 15, 15, 13.30, 11002, "Chameleon: Blend with the environment while sneaking and not moving. Liquid Cooled: +25 Thermal Resistance."
