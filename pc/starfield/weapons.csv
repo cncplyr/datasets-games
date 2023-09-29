@@ -1,6 +1,8 @@
 Base Weapon, Name, Rarity, Type, Damage, Ammo, Mag, Fire Rate, Range, Accuracy, Mass, Value, Mods, Description
 AA-99, Marksman's AA-99, Rare, Rifle, 31 PHYS, 11MM, 25, 40, 42, 81.7%, 7.25, 27884, 7/8, "Hitman: +15% damage while aiming. Stabilizing Barrel, Short Scope, Suppressor, Ergonomic Stock, Tactical Magazine, High Velocity, Semi-Automatic."
 Barrow Knife, Lacerate Barrow Knife, Epic, Melee, 28 PHYS, , , , , , 0.34, 2562, , "Exterminator: +30% damage against aliens. Lacerate: Randomly applies a bleed effect to the target."
+Beowulf, Beowulf, Common, Rifle, 43 PHYS, 7.77MM, 30, 50, 42, 69.6%, 2.80, 4850, 0/8,
+Breach, Breach, Common, Shotgun, 119 PHYS, 15x25 CLL Shell, 7, 10, 20, 55.3%, 7.30, 6780, 0/8,
 Coachman, Coachman, Common, Shotgun, 52 PHYS, Caseless Shell, 2, 47, 20, 38.4%, 3.00, 1650, 0/7,
 Coachman, Rapid Coachman, Epic, Shotgun, 57 PHYS, Caseless Shell, 2, 58, 20, 38.4%, 3.00, 3465, 0/7, "Anti-Personnel: +10% damage against humans. Rapid: +25% increase in attack speed."
 Coachman, Suppressed Coachman, Common, Shotgun, 68 PHYS, Caseless Shell, 2, 47, 37, 56.5%, 3.50, 3052, 2/7, "Suppressor, Slug Shots"
@@ -31,15 +33,18 @@ Old Earth Shotgun, Beserker Old Earth Shotgun, Rare, Shotgun, 88 PHYS, 12G Shell
 Old Earth Shotgun, Suppressed Old Earth Shotgun, Common, Shotgun, 80 PHYS, 12G Shell, 6, 6, 17, 65.6%, 4.70, 4161, 2/5, "Suppressor, Stock."
 Orion, Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 50, 77.0%, 5.25, 5227, 0/7,
 Orion, Stealth Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 42, 73.0%, 6.65, 6303, 2/7, "Reflex Sight, Stealth Lasers."
+Pacifier, Suppressed Pacifier, Common, Shotgun, 71 PHYS, 15x25 CLL Shell, 9, 20, 17, 56.8%, 4.30, 7573, 2/6, "Suppressor, Tactical Stock."
 Rattler, Rattler, Common, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 942, 0/7,
 Rattler, Calibrated Rattler, Common, Pistol, 19 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1530, 0/7,
 Rattler, Staggering Rattler, Epic, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1805, 0/7, "Space-Adept: +30% damage while in space, and -15% damage while on a planet. Staggering: Small chance to stagger enemies."
 Rattler, Boosted Calibrated Rattler, Common, Pistol, 17 PHYS, .27 Caliber, 12, 50, 24, 71.4%, 2.05, 2354, 3/7, "Long Barrel, Reflex Sight, Whitehot Rounds"
+Razorback, Suppressed Razorback, Common, Pistol, 61 PHYS, 7.5MM, 6, 12, 30, 68.9%, 2.30, 10600, 3/8, "Short Barrel, Reflex Sight, Suppressor."
 Regulator, Advanced Regulator, Common, Pistol, 100 PHYS, .43 Ultramag, 8, 18, 20, 71.3%, 0.70, 11124, 0/7,
 Rescue Axe, Rescue Axe, Common, Melee, 21 PHYS, , , , , , 1.40, 650, ,
 Rescue Axe, Space Adept Rescue Axe, Rare, Melee, 21 PHYS, , , , , , 1.40, 121, , "Space-Adept: +30% damage while in space, and -15% damage while on a planet."
 Ripshank, Ripshank, Common, Melee, 15 PHYS, , , , , , 0.40, 365, ,
 Ripshank, Beserker Ripshank, Rare, Melee, 15 PHYS, , , , , , 0.40, 547, , "Beserker: Does more damage the less armour one has."
+Shotty, Shotty, Common, Shotgun, 60 PHYS, Caseless Shell, 12, 60, 21, 36.5%, 2.95, 7368, 0/8,
 Sidearm, Ace Sidearm, Rare, Pistol, 17 PHYS, .27 Caliber, 20, 40, 20, 72.0%, 1.70, 9468, 5/7, "Anti-Personnel: +10% damage against humans. Recon Laser Sight, Reflex Sight, Muzzle Break, Armour-Piercing Rounds, High Powered."
 Sidestar, Sidestar, Common, Pistol, 12 PHYS, .27 Caliber, 17, 40, 20, 67.9%, 0.65, 825, 0/7,
 Sir Livingstone's Pistol, Sir Livingstone's Pistol, Common, Pistol, 31 PHYS, .45 Caliber, 15, 67, 21, 69.2%, 1.80, 7612, 2/4, "Large Magazine, High Velocity."
@@ -49,5 +54,8 @@ Solstice, Professional's Solstice, Common, Laser Pistol, 10 ENGY, 1.5KV LZR, 10,
 Solstice, Explosive Specialized Calibrated Solstice, Legendary, Laser Pistol, 5 ENGY, 1.5KV LZR, 22, 40, 31, 72.7%, 2.40, 7357, 4/7, "Furious: Each consecutive shot deals more damage. Med Theft: Chance that Human enemies drop extra Med Packs on death. Explosive: Randomly switches to explosive rounds. Long Barrel with Laser Sight, Holographic Sight, Ignition Beams, Fully Automatic."
 Solstice, Extended Mag Calibrated Solstice, Rare, Laser Pistol, 18 ENGY, 1.5KV LZR, 32, 25, 31, 69.8%, 1.30, 3185, 0/7, "Extended Magazine: Doubles the base magazine capacity."
 Solstice, Exerminator's Refined Solstice, Rare, Laser Pistol, 30 ENGY, 1.5KV LZR, 16, 25, 31, 69.8%, 1.30, 682, 0/7, "Exterminator: +30% damage against aliens."
+Tombstone, Tombstone, Common, Rifle, 23 PHYS, 11MM, 20, 90, 40, 72.8%, 4.15, 6150, 0/6,
 UC Naval Cutlass, UC Naval Cutlass, Common, Melee, 25 PHYS, , , , , , 1.40, 935, ,
 UC Naval Cutlass, Lacerate UC Naval Cutlass, Epic, Melee, 25 PHYS, , , , , , 1.40, 1963, , "Instigating: Deals double damage to targets with full health. Lacerate: Randomly applies a bleed effect to the target."
+Urban Eagle, Urban Eagle, Common, Pistol, 47 PHYS, .43 Ultramag, 8, 25, 20, 67.7%, 1.75, 4800, 0/7,
+Urban Eagle, Marathon, Rare, Pistol, 47 PHYS, .43 Ultramag, 8, 33, 18, 71.4%, 0.49, 17280, 5/7, "Titanium Build: Premium buil dmaterials make this weapon light as a feather. Recon Laser Sight, Reflex Sight, Short Suppressor, Tactical Magazine, Hair Trigger."
