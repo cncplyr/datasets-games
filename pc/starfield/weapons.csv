@@ -10,15 +10,19 @@ Combat Knife, Combat Knife, Common, Melee, 20 PHYS, , , , , , 0.36, 505, ,
 Cutter, Cutter, Common, Heavy, 4 ENGY, CUTTER, --, 76, 3, 76.7%, 4.00, 475, 0/0,
 Eon, Eon, Common, Pistol, 10 PHYS, 7.77MM, 12, 50, 20, 67.5%, 0.55, 750, 0/6,
 Eon, Calibrated Eon, Common, Pistol, 23 PHYS, 7.77MM, 12, 50, 19, 68.1%, 0.55, 2437, 0/6,
+Eon, Assassin's Calibrated Eon, Common, Pistol, 16 PHYS, 7.77MM, 30, 110, 11, 72.8%, 2.15, 3674, 4/6, "Suppressor, Drum Magazine, Recon Laser Sight, Burst Fire."
 Equinox, Equinox, Common, Laser Rifle, 13 ENGY, 3KV LZR, 20, 50, 50, 70.2%, 3.20, 2408, 0/7,
+Equinox, Calibrated Equinox, Laser Rifle, 24 ENGY, 3KV LZR, 20, 50, 52, 70.7%, 3.20, 3698, 0/7,
 Grendel, Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 170, 20, 66.2%, 2.65, 1402, 0/8,
 Grendel, Suppressed Grendel, Common, Rifle, 3 PHYS, 7.77MM, 50, 170, 17, 69.9%, 2.70, 2103, 2/8, "Suppressor, Tactical Grip."
 Grendel, Calibrated Grendel, Common, Rifle, 5 PHYS, 7.77MM, 50, 170, 21, 66.9%, 2.65, 1720, 0/8,
 Grendel, Bashing Smuggler's Calibrated Grendel, Rare, Rifle, 6 PHYS, 7.77MM, 50, 170, 19, 67.6%, 2.65, 3695, 3/8, "Bashing: Deals double damage when gun bashing. Short Barrel, Recon Laser Sight, Reflex Sight."
+Grendel, Officer's Calibrated Grendel, Common, Rifle, 7 PHYS, 7.77MM, 50, 170, 25, 73.6%, 3.75, 2994, 4/8, "Long Barrel, Laser Sight, Muzzle Brake, Tactical Grip."
 Kraken, Anti-Personnel Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 25, 150, 20, 69.6%, 1.00, 1088, 0/6, Anti-Personnel: +10% damage against humans.
 Kraken, Extended Mag Kraken, Rare, Pistol, 3 PHYS, 6.5MM, 50, 150, 20, 69.6%, 1.00, 1088, 0/6, Extended Magazine: Doubles the base magazine capacity.
 Kraken, Suppressed Kraken, Common, Pistol, 3 PHYS, 6.5MM, 40, 150, 17, 75.2%, 2.05, 1564, 3/6, "Suppressor, Muzzle Brake, Large Magazine."
 Kraken, Suppressed Calibrated Kraken, Common, Pistol, 6 PHYS, 6.5MM, 40, 150, 17, 73.2%, 1.80, 2006, 2/6, "Suppressor, Large Magazine."
+Kodama, Kodama, Common, Rifle, 17 PHYS, 7.77M, 30, 170, 21, 66.4%, 2.25, 5632, 0/7,
 Lawgiver, Disassembler Modified Lawgiver, Rare, Rifle, 38 PHYS, .50 Caliber, 6, 10, 40, 68.0%, 3.60, 5029, 1/6, "Disassembler: +20% damage against robots. Armour-Piercing Rounds."
 Maelstrom, Maelstrom, Common, Rifle, 4 PHYS, 6.5MM, 40, 150, 40, 65.8%, 4.15, 1210, 0/7,
 Maelstrom, Assassin's Maelstrom, Common, Rifle, 11 PHYS, 6.5MM, 40, 60, 42, 85.9%, 5.65, 2860, 5/7, "Long Barrel, Medium Scope, Suppressor, Tactical Magazine, Semi-Automatic"
@@ -30,10 +34,12 @@ Maelstrom, Extended Mag Boosted Calibrated Maelstrom, Rare, Rifle, 23 PHYS, 6.5M
 Novablast Disruptor, Space Adept Novablast Disruptor, Rare, Electromagnetic Rifle, 100 EM, Heavy Fuse, 5, 20, 20, 70.2%, 2.70, 8075, 0/5, "Space-Adept: +30% damage while in space, and -15 damage while on a planet."
 Novalight, Novalight, Common, Particle Beam Pistol, 8 PHYS 25 ENGY, Light Fuse, 12, 22, 30, 68.6%, 1.35, 4620, 0/7, 
 Old Earth Hunting Rifle, Old Earth Hunting Rifle, Common, Rifle, 30 PHYS, 9x39MM, 20, 40, 100, 86.8%, 3.15, 5264, 0/3,
+Old Earth Pistol, Beserker Old Earth Pistol, Rare, Pistol, 36 PHYS, .45 Caliber, 9, 67, 20, 66.9%, 1.10, 6525, 0/4, "Beserker: Does more damage he less armour one has."
 Old Earth Shotgun, Beserker Old Earth Shotgun, Rare, Shotgun, 88 PHYS, 12G Shell, 5, 5, 20, 56.3%, 3.60, 4305, 0/5, "Beserker: Does more damage the less armour one has."
 Old Earth Shotgun, Suppressed Old Earth Shotgun, Common, Shotgun, 80 PHYS, 12G Shell, 6, 6, 17, 65.6%, 4.70, 4161, 2/5, "Suppressor, Stock."
 Orion, Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 50, 77.0%, 5.25, 5227, 0/7,
 Orion, Stealth Orion, Common, Laser Rifle, 27 ENGY, 3KV LZR, 35, 33, 42, 73.0%, 6.65, 6303, 2/7, "Reflex Sight, Stealth Lasers."
+Osmium Dagger, Exterminator Osmium Dagger, Rare, Melee, 35 PHYS, 2.70, 3592, "Exterminator: +30% damage against aliens."
 Pacifier, Suppressed Pacifier, Common, Shotgun, 71 PHYS, 15x25 CLL Shell, 9, 20, 17, 56.8%, 4.30, 7573, 2/6, "Suppressor, Tactical Stock."
 Rattler, Rattler, Common, Pistol, 10 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 942, 0/7,
 Rattler, Calibrated Rattler, Common, Pistol, 19 PHYS, .27 Caliber, 12, 50, 20, 68.1%, 0.85, 1530, 0/7,
@@ -60,3 +66,4 @@ UC Naval Cutlass, UC Naval Cutlass, Common, Melee, 25 PHYS, , , , , , 1.40, 935,
 UC Naval Cutlass, Lacerate UC Naval Cutlass, Epic, Melee, 25 PHYS, , , , , , 1.40, 1963, , "Instigating: Deals double damage to targets with full health. Lacerate: Randomly applies a bleed effect to the target."
 Urban Eagle, Urban Eagle, Common, Pistol, 47 PHYS, .43 Ultramag, 8, 25, 20, 67.7%, 1.75, 4800, 0/7,
 Urban Eagle, Marathon, Rare, Pistol, 47 PHYS, .43 Ultramag, 8, 33, 18, 71.4%, 0.49, 17280, 5/7, "Titanium Build: Premium buil dmaterials make this weapon light as a feather. Recon Laser Sight, Reflex Sight, Short Suppressor, Tactical Magazine, Hair Trigger."
+XM-2311, XM-2311, Common, Pistol, 47 PHYS, .45 Caliber, 9, 67, 12, 66.9%, 1.10, 8200, 0/5,
