@@ -9,6 +9,7 @@ Deep Recon Spacesuit, Calibrated Deep Recon Spacesuit, Common, 77, 93, 85, 20, 1
 Deepcore Spacesuit, Technician's Deepcore Spacesuit, Rare, 57, 53, 61, 15, 30, 0, 15, 7.00, 3141, "Technician: -15% damage from Robot enemies."
 Deepcore Spacesuit, Calibrated Deepcore Spacesuit, Common, 73, 69, 77, 15, 30, 0, 15, 7.00, 3812,
 Deepseeker Spacesuit, Deepseeker Spacesuit, Common, 78, 74, 82, 0, 20, 10, 30, 7.80, 8585,
+Deepseeker Spacesuit, Calibrated Deepseeker Spacesuit, Common, 94, 90, 98, 0, 20, 10, 30, 7.80, 10731,
 Ecliptic Spacesuit, Ecliptic Spacesuit, Common, 58, 62, 66, 30, 10, 20, 0, 13.70, 9805,
 Ground Crew Spacesuit, Ground Crew Spacesuit, Common, 45, 61, 53, 15, 15, 15, 15, 6.80, 3095,
 Ground Crew Spacesuit, Calibrated Ground Crew Spacesuit, Common, 61, 77, 69, 15, 15, 15, 15, 6.80, 3868,
@@ -18,8 +19,12 @@ Navigator Spacesuit, Calibrated Navigator Spacesuit, Common, 53, 85, 69, 20, 10,
 Pirate Assault Spacesuit, Pirate Assault Spacesuit, Common, 61, 45, 53, 20, 0, 30, 10, 7.50, 6055,
 Pirate Charger Spacesuit, Pirate Charger Spacesuit, Common, 69, 37, 53, 15, 15, 30, 0, 7.50, 7365,
 Pirate Charger Spacesuit, Refined Pirate Charger Spacesuit, Common, 90, 58, 74, 15, 15, 30, 0, 7.50, 11047,
+Pirate Sniper Spacesuit, Beast Hunter's Pirate Sniper Spacesuit, Rare, 57, 53, 61, 10, 20, 0, 30, 6.80, 6329, "Beast Hunter: -15% damage from Alien enemies."
+Pirate Sniper Spacesuit, Calibrated Pirate Sniper Spacesuit, Common, 73, 69, 77, 10, 20, 0, 30, 6.80, 7681,
 Shocktroop Spacesuit, Shocktroop Spacesuit, Common, 80, 84, 88, 30, 0, 15, 15, 7.50, 9660,
 Space Trucker Spacesuit, Calibrated Space Trucker Spacesuit, Common, 61, 77, 69, 0, 20, 10, 30, 7.80, 3925,
+Space Trucker Spacesuit, Reactive Calibrated Space Trucker Spacesuit, Legendary, 61, 77, 69, 25, 20, 10, 30, 7.80, 4583, "Chameleon: Blend with the environment while sneaking and not moving. Liquid Cooled: +25 Thermal Resistance. Reactive: 10% change to stagger nearby attackers."
+Space Trucker Spacesuit, Mechanized Refined Space Trucker Spacesuit, Legendary, 77, 93, 85, 0, 45, 10, 30, 7.80, 5368, "Anti-Ballistic: -15% incoming Physical damage from ranged weapons. Antiseptic: +25 Airborne Resistance. Mechanized: +40 carry capacity."
 Star Roamer Spacesuit, Star Roamer Spacesuit, Common, 37, 69, 53, 15, 15, 0, 30, 7.80, 3140,
 Star Roamer Spacesuit, Calibrated Star Roamer Spacesuit, Common, 53, 85, 69, 15, 15, 0, 30, 7.80, 3925,
 Va'Ruun Spacesuit, Liquid Cooled Va'Ruun Spacesuit, Epic, 68, 64, 72, 40, 15, 15, 15, 13.30, 11002, "Chameleon: Blend with the environment while sneaking and not moving. Liquid Cooled: +25 Thermal Resistance."
